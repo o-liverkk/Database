@@ -315,7 +315,7 @@ example:
 | umi suzume | 雨美すずめ |  |  |
 | michiking | 米奇王 |  | [pixiv](https://www.pixiv.net/users/2361345) [Twitter](https://twitter.com/mitibmg20) |
 | otabe sakura | おたべさくら |  |  |
-| ryo | RYO \| RYÖ \| りょう \| ryo | 没後<br>SAILORQ2<br>めたもる | [pixiv](https://www.pixiv.net/users/73432) [Twitter](https://twitter.com/sora0ryu) |
+| ryo | RYO | RYO \| RYÖ \| りょう \| ryo | [pixiv](https://www.pixiv.net/users/73432) [Twitter](https://twitter.com/sora0ryu) |
 | minori kenshirou | 实验四郎 |  |  |
 | umemura | 梅村 |  |  |
 | peter mitsuru | ペーター・ミツル |  |  |
@@ -1079,7 +1079,7 @@ example:
 | chiba toshirou | チバトシロウ |  |  |
 | choco pahe | チョコぱへ |  |  |
 | hal | HAL |  |  |
-| haruhisky | 喜欢凉宫春日 | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很想喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [Twitter](https://twitter.com/haruhisky1) |
+| haruhisky | 春日喜欢 | I'm a Doujinshi and Manga creator living in Japan.<br>（一个很想喜欢画`c:haruhi suzumiya`的画师） | [pixiv](https://www.pixiv.net/users/4956073) [Twitter](https://twitter.com/haruhisky1) |
 | ichinomiya yuu | 一宫夕羽 |  |  |
 | inago | INAGO | 漫画家。作品主要以`lolicon`为主。<br>![TwitterIcon](# "https://pbs.twimg.com/profile_images/1156589033620946945/BsvxFIQm_400x400.jpg") | [Twitter](https://twitter.com/Inago1919) [Pixiv](https://www.pixiv.net/users/5629962) |
 | maki daikichi | 牧だいきち |  |  |
@@ -3272,7 +3272,7 @@ example:
 | majoccoid | majoccoid | ![图](https://pbs.twimg.com/profile_images/1321436104264876033/ESswWg6-_400x400.jpg)<br>**作者推特头像**<br><br>单行本《いけないことしたい》<br>![图](# "https://ehgt.org/43/d3/43d3f057da59bc051049e44087ecd4bbe44b5783-523339-1057-1500-jpg_l.jpg") | [Twitter](https://twitter.com/majoccoid) [Pixiv](https://www.pixiv.net/users/649543) |
 | aogiri penta | あおぎりぺんた | あおぎりぺんた是日本的游戏原画家，插画家。从属游戏制作团体`nounai kanojo`，以画`tomgirl`为擅长。<br>![图](https://pbs.twimg.com/profile_images/1384846579320844295/ToFIBTzH_400x400.png)<br>**作者推特头像**<br><br>经典作品：《`josou sanmyaku`》<br>![图](# "https://ehgt.org/74/2e/742e961cee17748095f21f8e57f546b6b07dc556-206428-1000-500-jpg_l.jpg") | [Twitter](https://twitter.com/aogiri_p) [Pixiv](https://www.pixiv.net/users/292846) |
 | mitsuba | 三叶 \| みつば | ※本标签可能指向两位作者<br><br>三叶（三葉），日本作家、作者。其作品主要在一迅社发表。代表作有《好想变成女孩子啊！》、《30岁的健康教育》等。也是目前在一迅社刊载“大人的教科书系列（おとなの教科書シリーズ）”著作者。<br>教程作品：<br>《好想变成女孩子啊！（オンナノコになりたい！）》<br>![图](# "https://ehgt.org/6e/22/6e223999fd09ae8ac6d3ce167607c637b2714fe0-366061-1456-2100-jpg_l.jpg")<br>《身体和心都是我的 ～SM入门指南～（身体も心もボクのもの ～はじめてのSMガイド～）》<br>![图](# "https://ehgt.org/5f/5b/5f5b2417ae81b0afe4923b3821dea0c75cd1bdb8-278456-1442-2100-jpg_l.jpg")<br><br>みつば是P站上的插画师。<br>![图](https://pbs.twimg.com/profile_images/1220868816449654784/bF6z2Mja_400x400.jpg)<br>**作者推特头像** | [作家三叶 - 维基百科](https://zh.wikipedia.org/wiki/三葉_%28作家%29)<br>[画师みつばTwitter](https://twitter.com/mituba_22)<br>[画师みつばPixiv](https://www.pixiv.net/users/1753783) |
-| ppshex | 芝士糖 | 芝士糖是香港的画师。画作多出现阴道`prolapse`以及`exhibitionism`。并会使用多语言为图片做短片小说，描述场景。<br>![图](# "https://ehgt.org/a0/40/a0407d5bd78fc778bc7b228db10e9c3cb4ce74cb-244846-776-1100-jpg_l.jpg") | [Twitter](https://twitter.com/ppshex) [Pixiv](https://www.pixiv.net/users/3004090) |
+| ppshex | 芝士糖 | 芝士糖是香港的画师。画作多出现`prolapse` 、`cervix prolapse` 以及`exhibitionism`。并会使用多语言为图片做短片小说，描述场景。<br>![图](# "https://ehgt.org/a0/40/a0407d5bd78fc778bc7b228db10e9c3cb4ce74cb-244846-776-1100-jpg_l.jpg") | [Twitter](https://twitter.com/ppshex) [Pixiv](https://www.pixiv.net/users/3004090) |
 | misakamitoko0903 | 电磁炮二期 | 電磁砲二期 是p站插画师。名字起源于`toaru project`。<br><br>![图](# "https://ehgt.org/d7/3b/d73b6d85155a2ea219809398146a2e229c12779b-2245511-2315-3192-jpg_l.jpg") | [Pixiv](https://www.pixiv.net/users/3193378) |
 | kimimaru | きみまる（东毅） | 東毅 是日本漫画家。出生于熊本县熊本市。代表作是《電波教師》。<br>きみまる 是东毅老师在创作成人向同人志时用的别名。<br>![图](https://pbs.twimg.com/profile_images/1385842614381867009/mBxuH-Z1_400x400.jpg)<br>**作者推特头像**<br><br>成人向代表作品`neon genesis evangelion`的二次创作《RE-TAKE》系列。<br>这个同人作品被称赞为“EVA同人史上最高杰作”，《RE-TAKE》让大部分的EVA影迷都看到了想要看到的EVA剧场版的剧情展开。不仅如此，《RE-TAKE》的高质量的严谨的故事性超越了同人志的领域，大受读者的赞扬。<br>![图](# "https://ehgt.org/b1/e1/b1e131b894b13a10e9c5a81a3105d77d47d8e34a-266266-990-1400-jpg_l.jpg")<br>[《RE-TAKE》百度百科](https://baike.baidu.com/item/RE-TAKE/2526361)<br>[《RE-TAKE》Pixiv百科事典🇯🇵](https://dic.pixiv.net/a/RE-TAKE) | [きみまる - Twitter](https://twitter.com/ki_mi_ma_ru)<br>[東毅 - Twitter](https://twitter.com/azumatakeshi75) |
 | softcharm | SOFTCHARM | SOFTCHARM，`lolicon`系的成人漫画家。<br>作品特点：萝莉之间的百合乱交，较少出现男性，偶尔会出现触手或器械奸。<br>参考标签：`lolicon` `yuri` `exhibitionism`<br>单行本《Childrops ~絡みあう少女たち》<br>![图](# "https://ehgt.org/38/29/382955e9b4346f88a47d7c8c4959966f6ed20b7b-1981595-2216-3000-jpg_l.jpg") |  |
@@ -3583,7 +3583,7 @@ example:
 | kyouichirou | 狂一郎 |  | [pixiv](https://www.pixiv.net/users/13457553) |
 | kuon michiyoshi | 久遠ミチヨシ |  |  |
 | gorgeous mushroom | 绚烂的蘑菇 | [pixiv](https://www.pixiv.net/users/11187954)<br>[Twitter](https://twitter.com/GMMUSHROOM)<br>[微博](https://www.weibo.com/u/3734949131) |  |
-| samuneko | 寒猫 | pixiv画师 | [Twitter](https://twitter.com/samnekochan1) [pixiv](https://www.pixiv.net/users/21971914) |
+| samneco | 寒猫 | pixiv画师 | [Twitter](https://twitter.com/samnekochan1) [pixiv](https://www.pixiv.net/users/21971914) |
 | yakuhina | yakuhina |  | [pixiv](https://www.pixiv.net/users/785442) |
 | kawayoi | かわよい |  |  |
 | nishida megane | 仁志田メガネ | ![推特头像](https://pbs.twimg.com/profile_images/1389603426921631748/tZE2GIEJ_400x400.jpg)<br>巨乳画师。 | [Pixiv](https://www.pixiv.net/users/49459)<br>[Twitter](https://twitter.com/nishidamegane) |
@@ -6489,7 +6489,7 @@ example:
 | kamekichi | かめ吉 |  |  |
 | kameponde | カメポンデ |  |  |
 | kami | kami |  |  |
-| kamimiya | かみみや |  |  |
+| kamimiya | 神宮 | かみみや | [pixiv](https://www.pixiv.net/users/927842) （已注销） |
 | kamidou haruki | 神堂ハルキ |  |  |
 | kamiishi nyny | 上石ニーニー |  |  |
 | kamiishi sono | 神石その |  |  |
@@ -11362,7 +11362,7 @@ example:
 | uzukinoko | うづきのこ |  |  |
 | uzunoki tamaki | 渦の木環 |  |  |
 | uzura no tamago | うずらのたまご |  |  |
-| v-mag | v-mag |  |  |
+| v-mag | v-mag | v-mag 是MAG館的画师，日本人。<br>东京都东村山市出生，居住在埼玉县。<br>是一个喜欢超级索尼子的插画师。<br>主要生产和销售 R-18 男性向色情 CG 系列。<br>作品中多出现`prolapse` 、`cervix prolapse`、`gaping`、`big clit`以及 `exhibitionism`。 | 官网: [https://www.magcan.net/](https://www.magcan.net/)<br>Twitter: [Twitter](https://twitter.com/v_mag_)<br>Fanbox: [FANBOX](https://v-mag.fanbox.cc/) |
 | vae | ヴァエ |  |  |
 | val | val |  |  |
 | valero | ヴァレロ |  |  |
@@ -12319,6 +12319,28 @@ example:
 | jj.jj | JJ.JJ |  | [pixiv](https://www.pixiv.net/users/11850187) [Twitter](https://twitter.com/pixiv_JJ_JJ) |
 | ringo club | りんごくらぶ |  | [pixiv](https://www.pixiv.net/users/1560534) [Twitter](https://twitter.com/000apple) [Twitter](https://twitter.com/apple000juice) |
 | usatsuka eiji | 兔冢英志 | 兔冢英志（兎塚エイジ）是日本插画家、原画家。毕业于大阪产业大学。毕业后进入Visual Art's，以笔名“サワガニ”来进行活动，并以活跃的以插画家“兔冢”的身份进行插画工作。主要作品为《`p:zero no tsukaima`》的插画。 | [维基百科](https://zh.wikipedia.org/zh/兔塚英志) [萌娘百科](https://zh.moegirl.org.cn/zh/兔冢英志) |
+| ishii takamori | 石井高森 |  | [pixiv](https://www.pixiv.net/users/503837) [Twitter](https://twitter.com/ishitakaHG) |
+| coro fae | Coro Fae |  | [pixiv](https://www.pixiv.net/users/60959119) |
+| piuta | piuta |  | [pixiv](https://www.pixiv.net/users/11331346) [Twitter](https://twitter.com/Piurobot) [微博](https://weibo.com/u/6146595663) [哔哩哔哩](https://space.bilibili.com/4656155) |
+| meeko | めえこ（めえお） |  | [pixiv](https://www.pixiv.net/users/324679) |
+| kuroni bokujou | クロニ |  | [pixiv](https://www.pixiv.net/users/4417141) [Twitter](https://twitter.com/KURONI_ranch) |
+| himiya zyo-zu | 比宮じょーず |  | [pixiv](https://www.pixiv.net/users/9609632) [Twitter](https://twitter.com/ramune_himiya) |
+| hinageshi | 雏罂粟 |  |  |
+| unknown showhey | 馬島祥平 |  |  |
+| saito naoki | 斋藤直葵 |  | [Twitter](https://twitter.com/_naokisaito) [pixiv](https://www.pixiv.net/users/356481) [Bilibili](https://space.bilibili.com/1688563568) |
+| yoshiku | 四々九 |  | [Twitter](https://twitter.com/yoshiku449) [pixiv](https://www.pixiv.net/users/533800) |
+| kakage | かかげ |  | [Twitter](https://twitter.com/kakage0904) [pixiv](https://www.pixiv.net/users/206310) |
+| nibiiro shizuka | 鈍色玄 | ![](https://pbs.twimg.com/profile_images/1545683888093073408/T32dyzCC_400x400.jpg)<br>主要绘制各种兽耳美少女角色 | [pixiv](https://www.pixiv.net/users/1250474)<br>[Twitter](https://twitter.com/nibiiro_SZK000) |
+| kousaka tohru | 香坂透 | 漫画(香坂 Tohru Kousaka)と小説(篠崎 Hitoyo Shinozaki)を書いています。<br>幻冬舎コミックス様にて「お金がないっ(No Money)」「男しかいない国のアリス」連載中。 | [Twitter](https://twitter.com/sadistic_mode) [维基百科（日语）](https://ja.wikipedia.org/wiki/香坂透) [HP](http://sadistic-mode.or.tv/) |
+| aikolik | AIKOlik |  | [pixiv](https://www.pixiv.net/users/14760875) [Twitter](https://twitter.com/Aikolik) |
+| 2bls | 2bls |  | [pixiv](https://www.pixiv.net/users/63408688) [Twitter](https://twitter.com/2bls4) |
+| utagawa yosiero | 歌川芳江呂 |  |  |
+| allenes | ALLENES | ![头像](https://i.pixiv.cat/user-profile/img/2022/08/28/02/45/40/23252305_f9ad51c8dc01f96a0eb61ee128c32679_170.jpg)<br>雪糕画师<br>作品中多出现白色`stockings`、`f:tentacles` | PIXIV:[pixiv](z)<br>Patreon: [Patreon](https://www.patreon.com/Sdkf251)<br>FANBOX: [pixiv](https://www.pixiv.net/fanbox?utm_campaign=www_sidebar&utm_medium=site_flow&utm_so) |
+| haiironpada | 灰色ンパダ |  |  |
+| hanamaluo | ハナマルオ | 代表作: [裙子里面是野兽](https://zh.moegirl.org.cn/裙子里面是野兽) | [Twitter](https://twitter.com/hanamaluon) |
+| kuroto yu | 黒兎ゆう |  | [pixiv](https://www.pixiv.net/users/4384618) [Twitter](https://twitter.com/kurotoyu816) |
+| sugue tetto | スグエ鉄塔 | a.k.a 鉄塔 | [Twitter](https://twitter.com/sugue_304)<br>[pixiv](https://www.pixiv.net/users/12741764) |
+| sorayama hajime | 空山基 | 空山基（日语：そらやま はじめ，英语：Hajime Sorayama，1947年2月22日－）是一位日本插画家。1971年，作为自由插画家独立。从那时起，他描绘具情色性和金属质感的女性，以及机械造型的插图，并在世界各地广受好评。他还设计了由索尼开发的娱乐机器人AIBO。 | [维基百科](https://zh.wikipedia.org/zh/空山基) |
 
 <!--TEMPLATE:
 |  |  |  |  |

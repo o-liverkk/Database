@@ -2078,6 +2078,28 @@ example:
 | delicious party precure | 美味PARTY♡光之美少女 | 《美味PARTY♡光之美少女》（日语：デリシャスパーティ♡プリキュア）是由东映动画制作的《光之美少女系列》动画第十九代作品，于2022年2月6日在日本播映。为令和时代的第三部光之美少女系列作品，并重新恢复在2月第一个星期日开始播放的传统。 | [萌娘百科](https://zh.moegirl.org.cn/美味PARTY_光之美少女) [维基百科](https://zh.wikipedia.org/zh/Delicious_Party_♡_光之美少女) |
 | ai the somnium files | AI：梦境档案 |  |  |
 | ku-neru maruta | 吃吃睡睡的玛璐塔 | 《玛塔小姐的饱食日记》（《吃吃睡睡的玛璐塔》）漫画 ，玛璐塔小姐是来自葡萄牙的一名贫穷吃货。一人住在筑龄七十年的公寓里，家中恩格尔系数高得离谱。红茶叉烧肉、鸡油炒饭、面包边单卷等等神奇的食物层出不穷。没钱也要吃得开心！深夜恐怖美食漫画，敬请期待！ | [维基百科（日语）](https://ja.wikipedia.org/wiki/くーねるまるた) [百度百科](https://baike.baidu.com/item/吃吃睡睡的玛璐塔) [Bangumi](https://bgm.tv/subject/77891) |
+| school shock | 雏蜂 | 《雏蜂》是中国漫画家孙恒（化名白猫sunny）创作的科幻战争向漫画，2009年9月15日开始连载。改编动画在2015年的7月23日开始在中国网络放送，并在2015年8月15日登陆日本，成为第一部由中国输入日本的动漫原创作品， | [维基百科](https://zh.wikipedia.org/zh/雛蜂) [萌娘百科](https://zh.moegirl.org.cn/雏蜂) |
+| shinigami bocchan to kuro maid | 死神少爷与黑女仆 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/死神少爷与黑女仆) |
+| 2.43 seiin high school boys volleyball team | 2.43 清阴高中男子排球社 | 《2.43 清阴高中男子排球社》（日语：2.43 清陰高校男子バレー部）是日本作家壁井有可子所著的网络小说系列，连载于集英社旗下网站“文艺Station”（原于RENZABURO连载），亦经集英社出版实体书籍。书名中的“2.43”指男子排球的网高2.43米。由david production制作的改编电视动画由2021年1月起于富士电视台“noitaminA”深夜动画时段播映。 | [维基百科](https://zh.wikipedia.org/wiki/2.43_清陰高中男子排球社) [萌娘百科](https://zh.moegirl.org.cn/zh/2.43_清阴高中男子排球社) |
+| elf-san wa yaserarenai. | 精灵小姐瘦不下来 | ![](https://p.sda1.dev/9/91248847e2a0d130e9c916d4a61946f6/image.png) | [mangapedia](https://mangapedia.com/エルフさんは痩せられない。-nn04fmsbz) [pixiv百科](https://dic.pixiv.net/a/エルフさんは痩せられない。) [维基百科（英语）](https://en.wikipedia.org/wiki/Plus-Sized_Elf) |
+| pretty face | 漂亮脸蛋 |  | [维基百科](https://zh.wikipedia.org/wiki/漂亮臉蛋) |
+| yi lian | 忆恋 |  | [vndb](https://vndb.org/v25807) |
+| meili xinshijie i | 美丽新世界i |  | [vndb](https://vndb.org/v24428) |
+| kage no jitsuryokusha ni naritakute | 我想成为影之强者！ | ![](https://static.wikia.nocookie.net/to-be-a-power-in-the-shadows/images/2/29/GardenIntro-LN-V1-EN.jpg) | [萌娘百科](https://zh.moegirl.org.cn/想要成为影之实力者) [Fandom](https://the-eminence-in-shadow.fandom.com/wiki/The_Eminence_in_Shadow_Wiki) [维基百科](https://zh.wikipedia.org/zh/我想成為影之強者！) |
+| okane ga nai | 欠金情人 | 《欠金情人》（日语：お金がないっ）系列是篠崎一夜的BL小说，香坂透插画，亦为漫画化的作者。 | [Bangumi](https://bgm.tv/subject/103733) [维基百科](https://zh.wikipedia.org/wiki/欠金情人) |
+| valvrave the liberator | 革命机 |  |  |
+| dodge danpei | 斗球儿弹平 | 《斗球儿弹平》（日语：炎の闘球児 ドッジ弾平）是日本漫画家越田哲弘以躲避球为题材在小学馆《快乐快乐月刊》自1989年连载至1995年的少年漫画。在台湾于无版权时期最早曾由东立出版社以‘导弹神珠’之名发行单行本，而后由青文出版社取得正式授权。后来改编为电视动画在1991年至1992年播放。 | [维基百科](https://zh.wikipedia.org/wiki/鬥球兒彈平) [百度百科](https://baike.baidu.com/item/斗球儿弹平) |
+| sinbad legend of the seven seas | 辛巴达七海传奇 | ![](https://p.sda1.dev/9/16eac921f060787985ad1fe54e7bc2c3/image.png) | [维基百科（英语）](https://en.wikipedia.org/wiki/Sinbad:_Legend_of_the_Seven_Seas) |
+| tenshin ranman | 天神乱漫 | 《天神乱漫》（日文：天神乱漫 LUCKY or UNLUCKY!?），是YUZU SOFT于2009年5月29日所发售的第四部恋爱文字冒险游戏。2021年12月24日由YUZUSOFT SOUR发行《天神乱漫 Happy Go Lucky!!》的PC逆移植HD重制版，并使用了与新作《PARQUET》相类似的新UI及系统。 | [萌娘百科](https://zh.moegirl.org.cn/zh/天神乱漫) [维基百科](https://zh.wikipedia.org/wiki/天神亂漫_-LUCKY_or_UNLUCKY!%3F-) |
+| hajimete no orusuban | 第一次看家 | 《第一次看家》（日语：はじめてのおるすばん）是ZERO在2001年12月28日发售的恋爱冒险类型成人游戏。之后改编成其他作品。2020年至2021年期间，mary jane先后推出了本作的两集改编动画。 | [维基百科](https://zh.wikipedia.org/wiki/第一次看家) |
+| nanami to konomi no oshiete a-b-c | ななみとこのみのおしえてA・B・C | 属于`p:hajimete no orusuban`系列 | [维基百科（日语）](https://ja.wikipedia.org/wiki/ななみとこのみのおしえてA・B・C) [Bangumi](https://bgm.tv/subject/43962) |
+| hajimete no oishasan | はじめてのおいしゃさん | `p:hajimete no orusuban`续集 | [https://vndb.org/v1619](https://vndb.org/v1619) [维基百科（日语）](https://ja.wikipedia.org/wiki/はじめてのおいしゃさん) |
+| hajimete no otetsudai | はじめてのおてつだい | 属于`p:hajimete no orusuban`系列 | [https://vndb.org/v1618](https://vndb.org/v1618) [Bangumi](https://bgm.tv/subject/88300) |
+| otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken | 关于我在无意间被隔壁的天使变成废柴这件事 |  | [维基百科](https://zh.wikipedia.org/wiki/關於我在無意間被隔壁的天使變成廢柴這件事) [萌娘百科](https://zh.moegirl.org.cn/关于我在无意间被隔壁的天使变成废柴这件事) |
+| onii-chan wa oshimai | 别当欧尼酱了！ | 男主绪山真寻，一名沉迷工口游戏的自宅警备员，某天醒来发现自己成了实打实的美少女JC，原来是天才科学家兼妹妹绪山美波里把他作为了新药的小白鼠，下药、监视、控制一气呵成。<br>祥和的自宅日常被残酷破坏，真实男主，即使变性了也能开后宫，欢乐向王道性转故事就这样展开了...<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png) | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
+| shiki | 尸鬼 |  |  |
+| shikabane hime | 尸姬 |  |  |
+| ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

@@ -3117,7 +3117,7 @@ example:
 | ayatsuri-doom | ​文釣DOOM |  |  |
 | ayayabidou | あややび堂 |  |  |
 | azarashi waltz | あざらしワルツ |  |  |
-| azarashisoft | あざらしそふと |  |  |
+| azarashisoft | 海豹社 | あざらしそふと | [Bangumi](https://bgm.tv/person/28386) [HP](http://azarashi-soft.nexton-net.jp/) |
 | azasuke wind | AZASUKE WIND |  |  |
 | azcat | azcat |  |  |
 | azelye | AzeLye |  |  |
@@ -12532,6 +12532,18 @@ example:
 | kuniku no saku | 狗肉の策 |  |  |
 | taipeijin | 台北人 |  |  |
 | shinya koujou | 深夜工場 |  |  |
+| alpaca bokujou | 裏アルパカ牧場 |  |  |
+| pink sakuhin okiba | ピンク作品置き場 |  |  |
+| oden usagi | おでんうさぎ |  |  |
+| omochiya-san | おもちやさん |  |  |
+| shitsuren restaurant for men | 失恋レストラン FOR MEN |  |  |
+| makuragi zabuton | 枕木ざぶとん |  |  |
+| koko de chikubi o hitotsumami | ここで乳首をひとつまみ |  |  |
+| noumusai | 浓雾菜 |  |  |
+| nyoroman shouji | にょろまん商事 |  |  |
+| praha keisanki | プラハ計算機 |  |  |
+| mosoya | 毛想屋 |  |  |
+| mikamishi juukou | 三神氏重工 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

@@ -3793,7 +3793,7 @@ example:
 | bayonetta | 贝优妮塔 |  |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![图](https://ehgt.org/58/e4/58e49e114d5b4593dae6acf6dae88a79d2e222df-135684-610-1309-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
 | neneko | 鈴樹ねね |  | [fanbox](https://nenekoneko.fanbox.cc/) [skeb](https://skeb.jp/@neneko113)<br>[pixiv](https://www.pixiv.net/users/1940163) [Twitter](https://twitter.com/neneko113) |
-| mona | 莫娜 | 全名 阿斯托洛吉斯·莫娜·梅姬斯图斯，神秘的少女占星术士，声称自己是“伟大的占星术士莫娜，游戏中是一个使用法器的水元素角色。拥有与名号相符的不俗实力，博学而高傲。尽管过着拮据、清贫的生活，但她坚决不用占卜来牟利…… 正是这种坚持，导致莫娜总是在为生计发愁。 | [FANBOX](https://genshin-impact.fandom.com/zh/wiki/莫娜) |
+| mona | 莫娜 | 非原神中的莫娜，原神中的莫娜标签应当为c:'mona megistus' |  |
 | komichi akebi | 明日小路 |  |  |
 | alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [Youtube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [Twitter](https://twitter.com/shishirobotan) |
@@ -4414,6 +4414,43 @@ example:
 | henrietta de tristain | 安丽埃塔 | 安丽埃塔・德・托里斯汀，托里斯汀的公主。17岁。使用水属性魔法。她被她的子民们所爱戴，同时她也是露易丝的老朋友。后来，在阿爾比昂的威尔士王子遭到暗杀后，她成为了托里斯汀的女王，并且下定决心要从阿爾比昂的侵略中保卫托里斯汀。 | [萌娘百科](https://zh.moegirl.org.cn/zh/安丽埃塔·德·托里斯汀) [维基百科](https://zh.wikipedia.org/wiki/零之使魔角色列表) |
 | princess devilotte de deathsatan ix | 戴比萝特·德·迪斯撒旦九世 | 所属作品: `p:cyberbots`<br>![](https://static.wikia.nocookie.net/projectxzone/images/1/10/Project_X_Zone_Devilotte.png) | [Fandom](https://projectxzone.fandom.com/wiki/Princess_Devilotte_de_DeathSatan_IX) |
 | fianna ray ordesia | 菲雅娜·雷·奥地西亚 | 所属作品: `p:bladedance of elementalers` | [萌娘百科](https://zh.moegirl.org.cn/菲雅娜·雷·奥地西亚) |
+| lady labrynth of the silver castle | 白银城的迷宫主·拉比丽斯 | ![](https://p.sda1.dev/9/fa32de723f4ef717af543db7869a9f3d/image.png) | [Fandom](https://yugioh.fandom.com/zh/wiki/拉比林斯?variant=zh#白银之城的拉比林斯) [Yugi pedia](https://yugipedia.com/wiki/Lovely_Labrynth_of_the_Silver_Castle) |
+| suletta mercury | 斯莱塔·墨丘利 |  |  |
+| miorine rembran | 米奥莉奈·伦布兰 |  |  |
+| nana daiba | 大场奈奈 | 所属作品: `p:shoujo kageki revue starlight`<br>![](https://static.wikia.nocookie.net/revuestarlight/images/0/0e/Nana_Daiba_School_Uniform.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/大场奈奈) [Fandom](https://revuestarlight.fandom.com/wiki/Nana_Daiba) |
+| minegumo | 峰云 | 所属作品: `p:kantai collection`<br>![图](https://ehgt.org/65/f8/65f83b382230e9b5deb0dcf2c5ffaf925bff70a5-102026-595-1052-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/舰队Collection:峰云) |
+| princess star butterfly | 星蝶公主 | 是作品《公主闯天关》（英语：Star vs. the Forces of Evil）的主要主角。她是另一时空妙尼王国 (Mewni) 的一位十几岁的公主，被她的父母送到地球，以便在字汇智者(Glossaryck) 的监督下学习如何使用皇家魔杖。 | [萌娘百科](https://zh.moegirl.org.cn/星蝶) [维基百科](https://zh.wikipedia.org/wiki/公主闖天關) |
+| kazusa kyouyama | 杏山和纱 | 所属作品：`p:blue archive` |  |
+| mahiru shiina | 椎名真昼 |  | [萌娘百科](https://zh.moegirl.org.cn/椎名真昼) |
+| margot knight | 玛戈特·奈特 |  |  |
+| malga naruze | 玛伽·成濑 |  |  |
+| evangeline a.k. mcdowell | 依文洁琳·安塔娜西亚·凯蒂·麦道威尔 | 伊万杰琳·A·K·麦克道维,，称依文洁琳（エヴァンジェリン）、依文（エヴァ[34]），是赤松健的漫画作品《魔法老师》及其动画版等的登场人物。麻帆良学园中等部2-A以及3-A的学生，座号是26号。<br>![](https://static.wikia.nocookie.net/mahousenseinegima/images/1/1d/Eva.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/依文洁琳·安塔娜西亚·凯蒂·麦道威尔) [维基百科](https://zh.wikipedia.org/wiki/魔法老師角色列表#依文潔琳·安塔娜西亞·凱蒂·麥道威爾) [Fandom](https://negima.fandom.com/wiki/Evangeline_A.K._McDowell) |
+| momosuzu nene | 桃铃音音 | 桃铃音音（日语：桃鈴 ねね／ももすず ねね Momosuzu Nene）是日本的虚拟YouTuber，隶属于Hololive production ，是Hololive的五期生成员之一。于2020年8月13日开始活动。由于粉丝制作的网络迷因，被昵称为“海豹”。<br><br>希望成为偶像，从异世界来的少女。最喜欢唱歌、跳舞和画画。为了成为被人爱戴，每天都努力特训。——官方介绍<br>![](https://upload.wikimedia.org/wikipedia/zh/9/99/Momosuzu_Nene.png) | [萌娘百科](https://zh.moegirl.org.cn/桃铃音音) [维基百科](https://zh.wikipedia.org/zh/桃鈴音音) [HololiveFanWiki](https://hololive.wiki/wiki/Momosuzu_Nene) |
+| omaru polka | 尾丸波尔卡 | 尾丸波尔卡（日语：尾丸ポルカ／おまる ぽるかOmaru Polka）是一名于2020年8月16日在YouTube开始活动的VTuber，业界团体Hololive的成员。<br><br>![](https://static.miraheze.org/hololivewiki/c/c3/Omaru_Polka_-_Portrait_01.png) | [萌娘百科](https://zh.moegirl.org.cn/尾丸波尔卡) [Hololive Fan Wiki<br>](https://hololive.wiki/wiki/Omaru_Polka) [哔哩哔哩](https://space.bilibili.com/624252712) |
+| karnatia seri anabald | 大岛叶多 | 所属作品: `p:kumo desu ga nani ka`<br>![](https://static.wikia.nocookie.net/kumo-desu-ga-nani-ka/images/5/54/C3.png) | [Fandom](https://kumodesu.fandom.com/wiki/Karnatia) |
+| wang yi | 王异 |  |  |
+| hachiroku | 八六 |  | [萌娘百科](https://zh.moegirl.org.cn/八六) |
+| yggdrasil | 尤格多拉希尔 |  |  |
+| otome arisugawa | 有栖川乙女 | 所属作品: `p:aikatsu`<br>![](https://static.wikia.nocookie.net/all-aikatsu/images/c/ce/Otome_torte_final.png) | [萌娘百科](https://zh.moegirl.org.cn/有栖川乙女) [Fandom](https://all-aikatsu.fandom.com/wiki/Otome_Arisugawa) |
+| luo tianyi | 洛天依 |  |  |
+| sensei | 老师 | 目前多用于[碧蓝档案](https://zh.moegirl.org.cn/蔚蓝档案)中的男主。 | [萌娘百科](https://zh.moegirl.org.cn/老师%28蔚蓝档案%29) |
+| azuma seren | 东雪莲 |  |  |
+| yaoyao | 瑶瑶 |  |  |
+| monika | 莫妮卡 |  |  |
+| tania | 塔妮雅 |  |  |
+| barret wallace | 巴雷特·华莱士 | 所属作品: `p:final fantasy vii`<br>![](https://static.wikia.nocookie.net/finalfantasy/images/a/a8/Barret_Wallace_from_FFVII_Remake_promo_render.png) | [维基百科](https://zh.wikipedia.org/wiki/巴雷特·華萊士) [Fandom](https://finalfantasy.fandom.com/wiki/Barret_Wallace) |
+| ameth | 爱梅斯 |  |  |
+| aoi futaba | 双叶碧 |  |  |
+| roselia | 绯之罗赛莉亚 |  |  |
+| goldenglow | 澄闪 | 澄闪是游戏《明日方舟》及其衍生作品的登场角色。<br>![澄闪](https://e-hentai.org/r/6bf53843a0dc44bd5db792f205f9e00075a78c76-7568809-2205-4000-jpg/forumtoken/2442646-24/103609175_p0.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/明日方舟:澄闪) [PRTS](https://prts.wiki/w/澄闪) |
+| sara valestin | 莎拉·巴雷斯坦 |  |  |
+| cure cosmo | 尤妮（宇宙天使） |  |  |
+| cure selene | 香久矢圆香（月神天使） |  |  |
+| demeter | 狄蜜特 |  |  |
+| haruka yuzuhara | 柚原春夏 | 所属作品: `p:toheart2` | [萌娘百科](https://zh.moegirl.org.cn/zh/柚原春夏) |
+| matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
+| suzu kanade | 花奏铃 | 《`ayakashi triangle`》的登场角色，女主角。 |  |
+| mahiro oyama | 绪山真寻 | 是由猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，男主角（♀）。<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了！一讯社_第一卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/绪山真寻) |
 
 <!--TEMPLATE: 
 |  |  |  |  |
