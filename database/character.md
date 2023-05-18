@@ -13,8 +13,8 @@ copyright: >
   对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
   3.0 协议）进行二次分发。
 rules:
-  - 优先写公认的中文翻译，不知道的也可以写日文原名。
-  - 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
+  - 优先写官方的中文名称，当无官方中译时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
+  - 第一推荐[萌娘百科](https://zh.moegirl.org.cn/)，也可以用百度百科或维基百科查译名。
 example:
   raw: ruri gokou
   name: 五更琉璃（黑猫）
@@ -36,7 +36,7 @@ example:
 | yui | 由依 \| 结衣 | `angel beats` 角色<br>![图](https://ehgt.org/53/75/5375e7612aee494400025f6f70a43177df45cd73-11067561-4912-6996-jpg_l.jpg)<br><br>`sword art online`角色，男女主的义女<br>![图](https://ehgt.org/b5/3a/b53a755dc9bd2828cc6e5ce90d74a9d96f027e0c-86616-960-544-jpg_l.jpg)![图](https://ehgt.org/2a/83/2a83864ab6dd535180f1e68ace9ab5f3357b2cbb-123272-960-544-jpg_l.jpg)![图](https://ehgt.org/4f/90/4f90948cc15585be12c99f7a6ff413081dd50ea0-90922-400-600-jpg_l.jpg)![图](https://ehgt.org/73/80/7380fc10fce3efa0be2aa819e71bab44948a9cf0-1060909-818-1157-jpg_l.jpg) |  |
 | hisui | 翡翠 \| 飞彗 | TYPE-MOON世界观角色<br><br>`p:senran kagura`角色 ![](https://ehgt.org/5a/8d/5a8d048f02c2024c0058280b10182edfbaf46a80-28736-350-437-jpg_l.jpg) |  |
 | rider | Rider \| 龙女 | Fate系列英灵。指第五次圣杯战争中的 Rider，美杜莎。其他情况使用真名。<br>![图](https://ehgt.org/de/3d/de3ddea13d0b727c283b8c953ec1c325b44b4430-2352720-1024-1448-png_l.jpg)![图](https://ehgt.org/a4/84/a484e050b1df0c2863d8a0b1e89b0c97b356d778-2566283-1024-1448-png_l.jpg)![图](https://ehgt.org/6d/bd/6dbd2a552c3d1993d1e0da06240d15f41b4acd49-8204052-4156-5184-jpg_l.jpg)<br>龙女 - 《噗哟噗哟》登场角色 | [FGO中文Wiki](https://fgo.wiki/w/美杜莎) [萌娘百科](https://zh.moegirl.org.cn/zh-hans/美杜莎%28Fate%29) |
-| maya | 摩耶 \| 玛妮亚 | 旧日本帝国海军高雄级重巡洋舰三番舰摩耶号（摩耶 (重巡洋舰)）![摩耶](# "https://ehgt.org/73/ae/73aeb71c7a738a0e9c01904c4b5815d97a052a85-2526447-2136-3006-jpg_250.jpg")<br><br>玛妮亚 《勇者斗恶龙：英雄》角色 以华丽舞蹈俘虏观众的人气舞者。将天生的热情投入赌博当中则是白璧微瑕。 | [碧蓝航线:摩耶](https://zh.moegirl.org.cn/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org.cn/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org.cn/舰队Collection:摩耶) |
+| maya | 摩耶 | 旧日本帝国海军高雄级重巡洋舰三番舰摩耶号（摩耶 (重巡洋舰)） | [碧蓝航线:摩耶](https://zh.moegirl.org.cn/碧蓝航线:摩耶) [战舰少女:摩耶](https://zh.moegirl.org.cn/战舰少女:摩耶) [舰队Collection:摩耶](https://zh.moegirl.org.cn/舰队Collection:摩耶) |
 | jeanne darc | 圣女贞德 | 在英法百年战争（1337年－1453年）中解放了奥尔良的法国英雄。天主教的圣人。她带领法国军队对抗英军的入侵，然而圣女贞德于1430年在贡比涅一次小冲突中为勃艮第公国所俘，不久为英格兰人以重金购去，由英格兰当局控制下的宗教裁判所以异端和女巫罪判处她火刑，于1431年5月30日在法国鲁昂当众处死。 | [Fate:贞德](https://zh.moegirl.org.cn/圣女%28Fate%29) [碧蓝航线:圣女贞德](https://zh.moegirl.org.cn/碧蓝航线:圣女贞德) [战舰少女:圣女贞德](https://zh.moegirl.org.cn/战舰少女:圣女贞德) |
 | katsuragi | 葛城 |  | [闪乱神乐:葛城](https://zh.moegirl.org.cn/闪乱神乐:葛城) [舰队Collection:葛城](https://zh.moegirl.org.cn/舰队Collection:葛城) |
 | kasumi | 霞 | 旧日本帝国海军的霞号驱逐舰（霞(駆逐艦)）<br><br>![](https://ehgt.org/1b/81/1b81762e2bf28e5288ab65ccc7c1a53fae14157a-302554-383-479-png_l.jpg) | [碧蓝航线:霞](https://zh.moegirl.org.cn/碧蓝航线:霞) [舰队Collection:霞](https://zh.moegirl.org.cn/舰队Collection:霞) |
@@ -86,7 +86,7 @@ example:
 |  | 东方Project >> 东方妖妖梦 |  |  |
 | letty whiterock | 蕾迪·霍瓦特罗克 | 蕾蒂·白石![图](https://ehgt.org/dd/ee/ddeead5c9d926e0de020bb07d552cba86888c4a6-237766-446-631-png_l.jpg)![图](https://ehgt.org/21/c8/21c8be18a99c7d209d4e9e97e7c8730962200e9e-1277542-1127-1600-png_l.jpg)![图](https://ehgt.org/01/8a/018a3e8bbf142b7ee93ae174669db8bf76897248-633016-1000-1300-jpg_l.jpg)![图](https://ehgt.org/77/fe/77febe3265b314dd0532983245a1b0a0a5f6633b-3568824-2098-3022-png_l.jpg) |  |
 | chen | 橙 | ![图](https://ehgt.org/b2/f9/b2f90cb4a7ae53fb0ca67db33f5beb42c95166dc-1054714-1127-1600-png_l.jpg)![图](https://ehgt.org/03/43/0343c406c530674fb3d9bedeb9f1b823459d13c2-867546-1000-1300-jpg_l.jpg)![图](https://ehgt.org/d0/ce/d0cefd517a0b2f3e0440f72d8a5f08d995acbe9f-3102226-2061-3029-png_l.jpg)![图](https://ehgt.org/f3/a9/f3a96fc7c5c5e72edc1fe472e593f4c3d5a9bd65-4528766-2042-3028-png_l.jpg) |  |
-| alice margatroid | 爱丽丝·玛格特洛依德 | ![我老婆](https://tva1.sinaimg.cn/large/6c84b2d6gw1ek1rimz6puj216o1kw7u7.jpg)![图](https://ehgt.org/f7/4b/f74b62998a2e57e031784aaffa74bf8dc6034902-8543386-4285-6068-jpg_l.jpg)![图](https://ehgt.org/c0/52/c052429f8439964887d4dc16575e966a44e17cd1-297484-1060-1510-jpg_l.jpg)![图](https://ehgt.org/e0/40/e0406e3e1aca41e8ddf6c0d6ba91d2cd64148543-985030-1400-2000-jpg_l.jpg)![图](https://ehgt.org/c5/63/c563aa8479bbcdb080d2c332e54a80eca5794065-241243-500-750-png_l.jpg)![图](https://ehgt.org/fa/d7/fad79463b1c7c4c5023667e45c5d68fcac3a3dfc-4092764-2057-3026-png_l.jpg)![图](https://ehgt.org/ce/b2/ceb22406da8728a60e1e88aa7c9cd536bd80a0e7-5393587-2048-3026-png_l.jpg)![图](https://ehgt.org/b3/1f/b31fad8cdba8050fd66355a51a65ddc07b86a176-1096777-1240-1754-jpg_l.jpg) |  |
+| alice margatroid | 爱丽丝·玛格特洛依德 | ![图](https://ehgt.org/f7/4b/f74b62998a2e57e031784aaffa74bf8dc6034902-8543386-4285-6068-jpg_l.jpg)![图](https://ehgt.org/c0/52/c052429f8439964887d4dc16575e966a44e17cd1-297484-1060-1510-jpg_l.jpg)![图](https://ehgt.org/e0/40/e0406e3e1aca41e8ddf6c0d6ba91d2cd64148543-985030-1400-2000-jpg_l.jpg)![图](https://ehgt.org/c5/63/c563aa8479bbcdb080d2c332e54a80eca5794065-241243-500-750-png_l.jpg)![图](https://ehgt.org/fa/d7/fad79463b1c7c4c5023667e45c5d68fcac3a3dfc-4092764-2057-3026-png_l.jpg)![图](https://ehgt.org/ce/b2/ceb22406da8728a60e1e88aa7c9cd536bd80a0e7-5393587-2048-3026-png_l.jpg)![图](https://ehgt.org/b3/1f/b31fad8cdba8050fd66355a51a65ddc07b86a176-1096777-1240-1754-jpg_l.jpg) |  |
 |  | 东方Project >> 东方妖妖梦 >> 爱丽丝符卡 |  |  |
 | shanghai | 上海人偶 | ![图](https://ehgt.org/7c/90/7c908cf70e951da916e8c859cee62f4d43fe9fa3-3854897-1409-2000-png_l.jpg)![图](https://ehgt.org/0c/cb/0ccb537f6a1b2bc1df8c4536b3d7ccfcf0f18ad3-1488703-1413-2000-jpg_l.jpg) |  |
 | hourai | 蓬莱人偶 | ![图](https://ehgt.org/da/2e/da2e340e695870475b4db3adb0ae63e4a995c296-202491-1124-1600-jpg_l.jpg)![图](https://ehgt.org/da/73/da731f8e9fc11642ead176ce0ff79e19dd18283f-179439-460-669-png_l.jpg) |  |
@@ -554,7 +554,7 @@ example:
 | baltimore | 巴尔的摩 | 美国海军巴尔的摩级重巡洋舰首舰巴尔的摩号（USS Baltimore (CA-68)） | [碧蓝航线:巴尔的摩](https://zh.moegirl.org.cn/碧蓝航线:巴尔的摩) [战舰少女:巴尔的摩](https://zh.moegirl.org.cn/战舰少女:巴尔的摩) |
 |  | ▲ 各种舰娘人物 |  |  |
 |  | ▼ 偶像大师-THE IDOLM@STER 人物 | 还没有本子的人物也保留其中，等待添加 |  |
-| producer | 制作人 |  |  |
+| producer | 制作人 | 一般指 `p:the idolmaster`中的制作人。在偶像大师系列中，玩家扮演的角色基本是以制作人的身份出现在游戏中，以培育偶像为主要游戏内容。由于是玩家本身的角色，为了更有代入感，在游戏中从来没有设定过容貌。因此，在需要固定形象的二次创作中，人们创造了各式各样的制作人形象。 | [萌娘百科](https://zh.moegirl.org.cn/制作人%28偶像大师%29) |
 | haruka amami | 天海春香 |  |  |
 | chihaya kisaragi | 如月千早 |  |  |
 | yukiho hagiwara | 萩原雪步 |  |  |
@@ -582,7 +582,7 @@ example:
 | chieri ogata | 绪方智绘里 |  |  |
 | kyoko igarashi | 五十岚响子 |  |  |
 |  | 柳濑美由纪 |  |  |
-| momoka sakurai | 樱井桃华 |  |  |
+| momoka sakurai | 樱井桃华 | 樱井桃华是BNEI与Cygames开发的手机社群游戏《 `p:the idolmaster`灰姑娘女孩》系列中的萝莉大小姐偶像。 | [萌娘百科](https://zh.moegirl.org.cn/樱井桃华) |
 | yumeko sakurai | 樱井梦子 |  |  |
 |  | 江上椿 |  |  |
 | hasumi nagatomi | 长富莲实 |  |  |
@@ -1974,7 +1974,7 @@ example:
 | murasaki shikibu | 紫式部 | 在型月推出的安卓&iOS游戏《Fate/Grand Order》中登场的从者，职阶为魔法师。 |  |
 |  | ▼ 刀剑神域 |  |  |
 | kazuto kirigaya | 桐谷和人（桐人） | ![图](https://ehgt.org/14/56/1456fe04bac534a80cd45c511a52c585b795aea5-112943-960-544-jpg_l.jpg)![图](https://ehgt.org/31/f3/31f303e3ce76b516286e5296f5fd8ab43b970ded-859458-2464-3498-jpg_l.jpg) |  |
-| asuna yuuki | 结城明日奈（亚丝娜） | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>劳模，即劳动模范的简称。劳动模范是工人阶级的优秀代表，是民族的精英，国家的栋梁，社会的精英，人民的楷模。每一个时期的劳模都具有不同的内容和特点，但他人有有共同点，那就是主人翁的责任感和艰苦创业精神等。<br>![图](https://ehgt.org/d0/1b/d01b63e2dcb2428267db353a7035ecb2ec5c02e8-391042-720-776-jpg_l.jpg)![图](https://ehgt.org/8f/d1/8fd11d7992aff862637904118ba3d1abf1d954f4-3133171-1700-1242-png_l.jpg)![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)![图](https://ehgt.org/af/6c/af6c904613d926403935d6710e8f99caca5336d0-156027-960-544-jpg_l.jpg) |  |
+| asuna yuuki | 结城明日奈（亚丝娜） | 亚丝娜(Asuna)，蒂塔妮亚(Titania)，艾丽卡，丝提西亚<br>![图](https://ehgt.org/d0/1b/d01b63e2dcb2428267db353a7035ecb2ec5c02e8-391042-720-776-jpg_l.jpg)![图](https://ehgt.org/8f/d1/8fd11d7992aff862637904118ba3d1abf1d954f4-3133171-1700-1242-png_l.jpg)![图](https://ehgt.org/ca/fd/cafd92b5d1ca5e884c0ad56d9bf509b45f59857f-146608-600-848-jpg_l.jpg)![图](https://ehgt.org/af/6c/af6c904613d926403935d6710e8f99caca5336d0-156027-960-544-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/zh-tw/亞絲娜) |
 | sachi | 幸 | 桐人永久的伤痛<br>![图](https://ehgt.org/c7/46/c7466b17f7d0b3e8ceaeeacd614a6d6874321640-93535-960-544-jpg_l.jpg)![图](https://ehgt.org/82/24/822402a91cb7c02f3e66a697c4bcd06c1ac8b45d-456448-700-1079-jpg_l.jpg)![图](https://ehgt.org/55/55/5555e8320ce6446c4ea393971c7d056cd14cc76b-106116-960-544-jpg_l.jpg)![图](https://ehgt.org/ea/ad/eaad4c01688970e3cd817473a4fa7c385f16c243-706209-849-1200-jpg_l.jpg) |  |
 | keiko ayano | 绫野珪子（西莉卡） | ![图](https://ehgt.org/83/2f/832fa0f9ff7dc47f90bb7b99901223f1e62b119e-166533-960-544-jpg_l.jpg)![图](https://ehgt.org/89/0f/890f5137844f9265f9a38a0ded4b20a375170361-133766-960-544-jpg_l.jpg)![图](https://ehgt.org/df/a1/dfa1c5c26084b40a15224096a4ff9900002bfb60-151378-960-544-jpg_l.jpg)![图](https://ehgt.org/ff/55/ff550a7da2c48b5c9cb4131cc166016f77dc8af2-1707277-1280-1600-jpg_l.jpg) |  |
 | rika shinozaki | 筱崎里香（莉兹贝特） | ![图](https://ehgt.org/72/5f/725f9c3527ba661d783e62a345d00240a17b22fb-139840-960-544-jpg_l.jpg)![图](https://ehgt.org/bb/27/bb271391eb08ee8a016a0cf10d3c0f7988c3b9a6-105716-960-544-jpg_l.jpg)![图](https://ehgt.org/25/bb/25bb3cc909e03ee184f773e63e0e70c43a995e6a-105231-960-544-jpg_l.jpg) |  |
@@ -2711,7 +2711,7 @@ example:
 | silent magician | 沉默魔术师 |  |  |
 | marcille donato | 玛露西露 | 《迷宫饭》 |  |
 | fumina hoshino | 星野文奈 |  |  |
-| angela balzac | 安吉拉·巴尔扎克 |  |  |
+| angela balzac | 安吉拉·巴尔扎克 | 所属作品: `p:expelled from paradise`<br><br>![](https://static.wikia.nocookie.net/rakuen-tsuiho/images/d/df/Angela_Balzac.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/安吉拉·巴尔扎克) [Fandom](https://rakuen-tsuiho.fandom.com/wiki/Angela_Balzac) |
 | yanagi takayama | 高山柳 |  |  |
 | nako oshimizu | 押水菜子 |  |  |
 | sawa okita | 冲田纱羽 |  |  |
@@ -3399,7 +3399,7 @@ example:
 | mujina | 貉 | ![貉](https://img.moegirl.org.cn/common/thumb/f/f8/Mujina_visual.png/280px-Mujina_visual.png)<br>貉是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>主张怪兽主导世界的集团「怪兽优生思想」的成员。怪兽使。<br><br>穿着白色军装，左臂上有青色的四条线。棕发蓝瞳的女子。<br><br>战斗意志很低下，总是想着早点完事离开摸鱼下班 | [萌娘百科](https://zh.moegirl.org.cn/貉%28SSSS.DYNAZENON%29#) |
 | yume minami | 南梦芽 | ![南梦芽](https://img.moegirl.org.cn/common/thumb/a/a9/YUME_MINAMI.png/280px-YUME_MINAMI.png)<br>南梦芽是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>蓬的同班同学。棕发绿瞳的高中生。 | [萌娘百科](https://zh.moegirl.org.cn/南梦芽) |
 | yomogi asanaka | 麻中蓬 | ![麻中蓬](https://img.moegirl.org.cn/common/thumb/a/ac/Yomogi_visual.png/280px-Yomogi_visual.png)<br>麻中蓬是由TRIGGER所制作的动画《SSSS.DYNAZENON》及其衍生作品的登场角色。<br>东京都立不如归台高中的高中一年生。<br>意外帮助了差点饿死的失马，并被对方当成了恩人和朋友。<br>自身正在做便利店的兼职。 | [萌娘百科](https://zh.moegirl.org.cn/麻中蓬) |
-| anne takamaki | 高卷杏 | 女神异闻录5女主角之一，阿尔卡纳为“恋爱” | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/高卷杏) |
+| anne takamaki | 高卷杏 | 高卷杏（日语：高巻 杏（たかまき あん））是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录5》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/高卷杏) |
 | hathaway noa | 哈撒韦·诺亚 | 哈萨维·诺亚（日语：ハサウェイ・ノア ）是由日升动画所制作的动画《机动战士Z高达》、剧场版动画《机动战士高达 闪光的哈萨维》及其衍生作品的登场角色。 | [萌娘百科](https://mzh.moegirl.org.cn/zh-hans/哈萨维·诺亚) |
 | amuro ray | 阿姆罗·雷 |  |  |
 | char aznable | 夏亚·阿兹纳布 |  |  |
@@ -3653,7 +3653,7 @@ example:
 | sakura yae | 八重樱 |  |  |
 | hornet | 大黄蜂 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-cn/舰队Collection:大黄蜂) |
 | sara kujou | 九条裟罗 | 由miHoYo研发的游戏《`genshin impact`》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/九条裟罗) |
-| smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《赛马娘 Pretty Derby》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/醒目飞鹰) |
+| smart falcon | 醒目飞鹰 | ![醒目飞鹰](https://img.moegirl.org.cn/common/thumb/9/9b/UPDCH_SmartFalcon_00.png/300px-UPDCH_SmartFalcon_00.png)<br>《`p:uma musume pretty derby`》中的登场角色。因为“寄”的meme而出名。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/醒目飞鹰) |
 | asuna ichinose | 一之濑明日奈 | 所属作品：`p:blue archive`<br>社团“肃清与扫荡”成员，主要武装为步枪。<br>![](https://p.sda1.dev/8/fd89b05e2ae062ea714a6b970b38cb72/image.png) | [FANDOM](https://bluearchive.fandom.com/wiki/Ichinose_Asuna) |
 | akane murokasa | 室笠茜 |  |  |
 | karin kakudate | 角楯花凛 |  |  |
@@ -3782,7 +3782,7 @@ example:
 | kokoro katsura | 桂心 | 桂心是Overflow出品的《Days系列》系列游戏及其衍生的动画、漫画等作品的登场角色。桂心是桂言叶的妹妹。桂心与母亲桂真奈美、姐姐桂言叶以及父亲一同生活在原巳台的高档别墅中。她有一个好朋友叫作井伊卯月。她还把伊藤诚亲切地看作自己的哥哥。在《School Days》、《Summer Days》、《Cross Days》、《Shiny Days》均有登场。<br>![](https://cdn.myanimelist.net/images/characters/5/67522.jpg) | [萌娘百科](https://zh.moegirl.org.cn/桂心) |
 | sekai saionji | 西园寺世界 | ![图](https://ehgt.org/cb/d6/cbd6fdd487a8ce8f9884ed666d6138dc9ac4985d-8831667-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西园寺世界) |
 | makoto itou | 伊藤诚 | ![图](https://ehgt.org/51/d7/51d798533a096c1d1e61b35e6f1ad71ec6a26291-9339826-2480-3507-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/伊藤诚%28Days系列%29#) |
-| violet evergarden | 薇奥莱特·艾佛加登 | ![图](https://ehgt.org/81/9b/819b78fa5ef854117d2e9c5ef3da71432a5c6c71-1178735-2048-2646-jpg_l.jpg)<br><br>C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。<br>幼年时被吉尔伯特捡到，有过从军的过去。<br>拥有着与那份美貌不相称的罕见战斗力。<br>由于只知道战斗，而不会理解别人的心情以及表达自己的心情。<br>被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。<br>在战斗中失去双手，后接入机械义手。 | [萌娘百科](https://zh.moegirl.org.cn/薇尔莉特·伊芙加登) |
+| violet evergarden | 薇尔莉特·伊芙加登 | ![图](https://ehgt.org/81/9b/819b78fa5ef854117d2e9c5ef3da71432a5c6c71-1178735-2048-2646-jpg_l.jpg)<br><br>C·H邮递公司所属的自动手记人偶（Auto Memories Doll）少女。<br>幼年时被吉尔伯特捡到，有过从军的过去。<br>拥有着与那份美貌不相称的罕见战斗力。<br>由于只知道战斗，而不会理解别人的心情以及表达自己的心情。<br>被交给莱顿的伊芙加登家监护，但是由于种种原因，现实质上由C·H邮递公司的社长霍金斯监护。<br>在战斗中失去双手，后接入机械义手。 | [萌娘百科](https://zh.moegirl.org.cn/薇尔莉特·伊芙加登) |
 | lelei la lelena | 蕾莱·拉·列娜 |  |  |
 | youji itami | 伊丹耀司 |  |  |
 | pina co lada | 平娜·戈·兰达 |  |  |
@@ -3793,7 +3793,7 @@ example:
 | bayonetta | 贝优妮塔 |  |  |
 | elinalise dragonroad | 艾莉娜丽洁·杜拉冈罗德 | ![图](https://ehgt.org/58/e4/58e49e114d5b4593dae6acf6dae88a79d2e222df-135684-610-1309-png_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/艾莉娜丽洁·杜拉冈罗德) |
 | neneko | 鈴樹ねね |  | [fanbox](https://nenekoneko.fanbox.cc/) [skeb](https://skeb.jp/@neneko113)<br>[pixiv](https://www.pixiv.net/users/1940163) [Twitter](https://twitter.com/neneko113) |
-| mona | 莫娜 | 非原神中的莫娜，原神中的莫娜标签应当为c:'mona megistus' |  |
+| mona | 莫娜 | 非原神中的莫娜，原神中的莫娜标签应当为`c:mona megistus` |  |
 | komichi akebi | 明日小路 |  |  |
 | alisa southerncross | 爱莉莎·南十字星 | ![图](https://ehgt.org/3c/dc/3cdc3d6af34fa84dc63f780c643eab67ec6277f3-57078-600-1171-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/爱莉莎·南十字星) [Fandom](https://keroro.fandom.com/wiki/Alisa_Southerncross) |
 | shishiro botan | 狮白牡丹 |  | [萌娘百科](https://zh.moegirl.org.cn/狮白牡丹) [Youtube](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)  [Twitter](https://twitter.com/shishirobotan) |
@@ -4062,7 +4062,7 @@ example:
 | gavial | 嘉维尔 | 嘉维尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:嘉维尔) |
 | vigna | 红豆 | 红豆是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红豆) |
 | glaucus | 格劳克斯 | 格劳克斯是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:格劳克斯) |
-| vermeil | 红云 | 红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红云) |
+| vermeil | 红云 \| 维尔梅 | 红云（Vermeil）是上海鹰角网络科技有限公司制作的游戏《明日方舟》及其衍生作品的登场角色。<br><br>维尔梅（日语：ヴェルメイ；英语：Vermeil）是漫画作品《金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～》及其衍生作品中的登场角色，女主角。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:红云) [萌娘百科](https://zh.moegirl.org.cn/zh/维尔梅) |
 | ansel | 安赛尔 | 安赛尔是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:安赛尔) |
 | ceylon | 锡兰 | 锡兰是游戏《明日方舟》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/明日方舟:锡兰) |
 | sicily von claude | 西希莉·冯·克洛德 | 西希莉·冯·克洛德是小说《贤者之孙》及其衍生作品漫画、动画等的登场角色。<br>![](https://s1.ax1x.com/2022/07/29/vPRIHO.jpg) | [萌娘百科](https://zh.moegirl.org.cn/西希莉·冯·克洛德) |
@@ -4451,6 +4451,121 @@ example:
 | matsuri kazamaki | 风卷祭里 | 漫画《`ayakashi triangle`》的主人公。男转女。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=437762) |
 | suzu kanade | 花奏铃 | 《`ayakashi triangle`》的登场角色，女主角。 |  |
 | mahiro oyama | 绪山真寻 | 是由猫豆腐创作的漫画《`p:onii-chan wa oshimai`》及其衍生作品的登场角色，男主角（♀）。<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了！一讯社_第一卷.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/绪山真寻) |
+| seiun sky | 青云天空 | 青云天空是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹セイウンスカイ（Seiun Sky）。 | [萌娘百科](https://zh.moegirl.org.cn/青云天空) |
+| curren chan | 真机伶 | 真机伶是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹カレンチャン（Curren Chan）。 | [萌娘百科](https://zh.moegirl.org.cn/真机伶) |
+| symboli rudolf | 鲁道夫象征 | 鲁道夫象征是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹シンボリルドルフ（Symboli Rudolf）。 | [萌娘百科](https://zh.moegirl.org.cn/鲁道夫象征) |
+| admire vega | 爱慕织姬 | 爱慕织姬是以由Cygames制作的手机游戏为主导的跨媒体企划《`p:uma musume pretty derby`》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹アドマイヤベガ（Admire Vega）。 | [萌娘百科](https://zh.moegirl.org.cn/爱慕织姬) |
+| yorha commander | 寄葉指揮官 |  |  |
+| cidala | 辛妲拉 | 来自游戏[碧蓝幻想（Granblue Fantasy）](https://zh.moegirl.org.cn/碧蓝幻想)。<br><br>守护东北东方位、十二神将中的一位。不，两位。其真实身份是自桃中诞生的非凡双子。以风水掌控运势，决定场面吉凶。只要身边有了这对姐妹，无论走向何方，前途都会大吉大利吧。 | [碧蓝幻想WIKI](https://gbf.huijiwiki.com/wiki/Char/3040377000) |
+| super creek | 超级溪流 | 超级溪流是以由Cygames制作的手机游戏为主导的跨媒体企划《赛马娘 Pretty Derby》及其衍生作品中的登场角色。原型为日本纯血竞赛马匹スーパークリーク（Super Creek）。 | [萌娘百科](https://zh.moegirl.org.cn/超级溪流) |
+| cecilia alcott | 塞西莉娅·奥尔卡特 |  | [萌娘百科](https://zh.moegirl.org.cn/塞西莉娅·奥尔卡特) |
+| ling yin huang | 凰铃音 |  | [萌娘百科](https://zh.moegirl.org.cn/凰铃音) |
+| laura bodewig | 拉芙拉·布迪威伊 |  | [萌娘百科](https://zh.moegirl.org.cn/拉芙拉·布迪威伊) |
+| yuu koito | 小糸侑 |  |  |
+| touko nanami | 七海灯子 |  |  |
+| houki shinonono | 篠之之帚 |  | [萌娘百科](https://zh.moegirl.org.cn/篠之之箒) |
+| mizuki nakahara | 中原瑞希 | 所属作品: `p:lycoris recoil`<br><br>留着棕色长卷发，带着红框眼镜。前Direct Attack的情报部员，与千束长年合作。总是一边喝酒一边看着结婚杂志。继续当着咖啡店员等待新的邂逅。整天抱怨「没有帅哥」来店里的残念系女子。<br>![](https://static.wikia.nocookie.net/lycoris-recoil/images/1/1e/Mizuki_Nakahara.png) | [萌娘百科](https://zh.moegirl.org.cn/中原瑞希) [Fandom](https://lycoris-recoil.fandom.com/wiki/Mizuki_Nakahara) |
+| senji muramasa | 千子村正 |  |  |
+| hinagiku katsura | 桂雏菊 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/zh/桂雏菊) [维基百科](https://zh.wikipedia.org/wiki/桂雏菊) [Fandom](https://hayatenogotoku.fandom.com/wiki/Hinagiku_Katsura) |
+| isumi saginomiya | 鹭之宫伊澄 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/鹭之宫伊澄) [Fandom](https://hayatenogotoku.fandom.com/wiki/Isumi_Saginomiya) |
+| nagi sanzenin | 三千院凪 | 所属作品: `p:hayate no gotoku` | [萌娘百科](https://zh.moegirl.org.cn/zh/三千院凪) |
+| marie | 玛丽 |  |  |
+| fuyutsuki | 冬月 | 舰队collection角色 | [https://zh.kcwiki.cn/wiki/冬月](https://zh.kcwiki.cn/wiki/冬月) |
+| tsukasa ayatsuji | 绚辻词 |  |  |
+| ai nanasaki | 七咲逢 |  |  |
+| haruka morishima | 森岛遥 |  |  |
+| miya tachibana | 橘美也 |  |  |
+| sae nakata | 中多纱江 |  |  |
+| rihoko sakurai | 樱井梨穗子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/樱井梨穗子) |
+| yukiko amagi | 天城雪子 | 天城雪子（日语：天城 雪子（あまぎ ゆきこ） (Amagi Yukiko)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录4》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/天城雪子) |
+| hatsumi sega | 濑贺初美 | 濑贺初美（Segami，セガミ）是海王星系列外传作品《超次元大战 海王星VS世嘉主机女孩 梦幻合体特别版》（超次元大战 ネプテューヌＶＳセガ·ハード·ガールズ 梦の合体スペシャル）的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/濑贺初美) |
+| fujisaki yua | 藤崎由爱 | ![](https://static.wikia.nocookie.net/virtualyoutuber/images/3/39/Fujisaki_YUA_Original_Design.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/藤崎由爱) [Fandom](https://virtualyoutuber.fandom.com/wiki/Fujisaki_Yua) [Fandom](https://virtualyoutuber.fandom.com/zh-tw/wiki/藤崎由愛) |
+| dante | 但丁 | 卡普空旗下电子游戏鬼泣系列主角 |  |
+| vergil | 维吉尔 | 卡普空旗下电子游戏鬼泣系列角色 |  |
+| hanbei takenaka | 竹中半兵卫 |  |  |
+| kanae kochou | 胡蝶香奈惠 | 胡蝶忍的姐姐。同時也是栗花落香奈乎的義姐和恩人，与胡蝶忍從奴隶贩子手下救下了香奈乎。 | [萌娘百科](https://zh.moegirl.org.cn/胡蝶香奈惠) |
+| sanemi shinazugawa | 不死川实弥 |  | [萌娘百科](https://zh.moegirl.org.cn/不死川实弥) |
+| kisaki | 妃咲 |  |  |
+| mashiro shizuyama | 静山真白 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/f/f8/Mashiro_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Shizuyama_Mashiro) [介绍专栏](https://www.bilibili.com/read/cv10421669) |
+| tsurugi kensaki | 剑先剑 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/4/49/Tsurugi_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Kenzaki_Tsurugi) [碧蓝档案wiki](https://bluearchive.wiki/wiki/Tsurugi) [介绍专栏](https://www.bilibili.com/read/cv10003335) |
+| acerola | 阿塞萝拉 | 所属作品: `p:pokemon`<br><br>![](https://static.wikia.nocookie.net/pokemon/images/1/1e/Sun_Moon_Acerola.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/阿塞萝拉) [神奇宝贝百科](https://wiki.52poke.com/zh/阿塞蘿拉) [Fandom](https://pokemon.fandom.com/wiki/Acerola) |
+| kou minamoto | 源光 | ![](https://static.wikia.nocookie.net/hanakokun/images/5/51/Kou%27s_anime_design.png) | [Fandom](https://hanako-kun.fandom.com/wiki/Minamoto_Kou) [萌娘百科](https://zh.moegirl.org.cn/源光) |
+| damian desmond | 达米安·德斯蒙 | ![](https://static.wikia.nocookie.net/spy-x-family9171/images/3/35/Damian_Desmond_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/达米安·德斯蒙) [Fandom](https://spy-x-family.fandom.com/wiki/Damian_Desmond) |
+| cat noir | 黑猫诺儿 | 阿德里恩·艾格雷斯特 | [Fandom](https://hero.fandom.com/wiki/Cat_Noir) |
+| killua zoldyck | 杰诺·揍敌客 | 所属作品: `p:hunter x hunter` | [Fandom](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) [维基百科（日语）](https://ja.wikipedia.org/wiki/ゾルディック家) |
+| mirai kamiki | 神木未来 | 圣凤学园初中部二年级学生，神木世海的姐姐，同时也是时尚杂志的模特，与弟弟一样，接受过次元霸王流的修炼。<br><br>![](https://static.wikia.nocookie.net/gundam/images/5/55/Mirai_Kamiki_Character_Sheet.png) | [bili游戏百科](https://wiki.biligame.com/gundam/神木未来) [百度百科](https://baike.baidu.com/item/神木未來/16603736) [pixiv](https://dic.pixiv.net/a/カミキ・ミライ) [Fandom](https://gundam.fandom.com/wiki/Mirai_Kamiki) |
+| megumi amatsuka | 天使惠 | 所属作品: `p:gj-bu`<br><br>![](https://static.wikia.nocookie.net/gj-bu/images/a/a1/Untitled.png) | [萌娘百科](https://zh.moegirl.org.cn/天使惠) [Fandom](https://gj-bu.fandom.com/wiki/Megumi_Amatsuka) |
+| mao amatsuka | 天使真央 | 所属作品: `p:gj-bu`<br><br>![](https://static.wikia.nocookie.net/gj-bu/images/8/81/Mao.png) | [Fandom](https://gj-bu.fandom.com/wiki/Mao_Amatsuka) [萌娘百科](https://zh.moegirl.org.cn/zh/天使真央) |
+| akane isshiki | 一色茜 | 所属作品: `p:vividred operation`<br><br>![](https://static.wikia.nocookie.net/vivid-red-operation/images/f/f9/Akane_isshiki.jpg) | [萌娘百科](https://zh.moegirl.org.cn/一色茜) [Fandom](https://vivid-red-operation.fandom.com/wiki/Akane_Isshiki) |
+| lyza | 莱萨 |  |  |
+| ozen | 奥森 |  |  |
+| marulk | 马璐璐库 |  |  |
+| mother spider demon | 蜘蛛鬼·母亲 | 外貌艳丽的女性。炭治郎等人来到那田蜘蛛山后第一个遭遇的鬼。<br>那田蜘蛛山的鬼家族成员之一。担任累的母亲。<br>虽然担任的是母亲的角色，但是在蜘蛛家族里的立场相当低。 | [萌娘百科](https://zh.moegirl.org.cn/蜘蛛鬼·母亲) |
+| kanako urashima | 浦岛可奈子 | 所属作品: `p:love hina`<br><br>![](https://static.wikia.nocookie.net/lovehina/images/b/b1/AniKanako.jpg) | [萌娘百科](https://zh.moegirl.org.cn/zh/浦岛可奈子) [Fandom](https://lovehina.fandom.com/wiki/Kanako_Urashima) |
+| mihari oyama | 绪山美波里 |  |  |
+| white len | 白莲 |  |  |
+| momiji hozuki | 穗月椛 |  |  |
+| kaede hozuki | 穗月枫 |  |  |
+| kafka | 卡夫卡 \| 卡芙卡 |  |  |
+| ookanehira | 大包平 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:大包平) |
+| uguisumaru | 莺丸 | 所属作品: `p:touken ranbu` | [萌娘百科](https://zh.moegirl.org.cn/刀剑乱舞:莺丸) |
+| sovetskaya rossiya | 苏维埃罗西亚 |  | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:苏维埃罗西亚) |
+| faruzan | 珐露珊 | 米哈游研发的游戏《原神》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/珐露珊) |
+| plana | 普拉娜 |  |  |
+| rio tsukatsuki | 调月莉音 |  |  |
+| kikuri hiroi | 广井菊里 | 由はまじあき所创作的漫画《孤独摇滚！》的登场角色。<br>人气独立乐队[SICK HACK]中的实力派贝斯手兼主唱。<br>是最先注意到独真正实力的人。<br>经常为独着想。平日里总是醉醺醺的。 |  |
+| gintoki sakata | 坂田银时 | ![](https://static.wikia.nocookie.net/gintama/images/b/b9/GinFinal.png)<br><br>万事屋的领导，啥事都做。<br>不定期吃甜食，就会极其焦躁的甜食党。<br>平时看似很没精神、没力气，但实际是个很厉害的武士。<br>原是一名攘夷志士，被称“白夜叉”的恐怖剑术达人，但现在只使用木刀。<br>爱车是一辆轻摩托。 | [萌娘百科](https://zh.moegirl.org.cn/坂田银时) [Fandom](https://gintama.fandom.com/wiki/Sakata_Gintoki) |
+| toshiro hijikata | 土方十四郎 | ![](https://static.wikia.nocookie.net/gintama/images/b/b0/Hijikata_2017.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/土方十四郎) [Fandom](https://gintama.fandom.com/wiki/Hijikata_Toushirou) |
+| kazamori sasa | 佐佐风守 | 所属作品: `p:un-go`<br><br>![](https://static.wikia.nocookie.net/un-go/images/c/ca/Kazamori.png)<br><br>禁忌的人工智能生命体‧R.A.I.最后存在的个体，也是第一个被制造者佐佐驹守制作出来的生命体。 一开始被驹守以养子的身分带入佐佐家，在驹守假死后掌控佐佐集团，被驹守当做傀儡代理人。 后加入主角团体，积极的参与解决各种事件。 | [萌娘百科](https://zh.moegirl.org.cn/zh/佐佐风守) [Fandom](https://un-go.fandom.com/wiki/Kazamori_Sasa) |
+| kozuki momonosuke | 光月桃之助 | 所属作品: `p:one piece`<br>光月桃之助是现任和之国将军。也是已故九里大名光月家之主——光月御田之子、前将军光月锄烧之孙。 | [Fandom](https://onepiece.fandom.com/zh/wiki/光月桃之助) |
+| kanna ogata | 尾刃康娜 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/9/9a/Kanna_Portrait.png) | [pixiv](https://dic.pixiv.net/a/尾刃カンナ) [Fandom](https://bluearchive.fandom.com/wiki/Ogata_Kanna) |
+| nero | 尼禄 | 卡普空的电子游戏鬼泣4代、5代的男主 |  |
+| deadpool | 死侍 |  |  |
+| lady | 蕾蒂 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
+| trish | 翠西 | 卡普空出品的动作游戏鬼泣系列的女性角色。 |  |
+| alexis rhodes | 天上院明日香 | 《游戏王GX》中的主要角色之一，天上院吹雪的妹妹。<br><br>[](https://static.wikia.nocookie.net/p__/images/4/4c/Alexis-l.png/revision/latest/scale-to-width-down/350?cb=20190820115733&path-prefix=protagonist) | [萌娘百科](https://zh.moegirl.org.cn/zh/天上院明日香) |
+| cyno | 赛诺 | 赛诺，米哈游出品的游戏《原神》及其衍生作品中的角色，须弥教令院的大风纪官。 |  |
+| alexia midgar | 阿莱克西亚·米德嘉尔 | 所属作品: `p:kage no jitsuryokusha ni naritakute`<br><br>米德加尔王国的第二王女。作为米德加尔魔剑士学园的高岭之花，被同学们羡慕着，但在背后对希德恶言恶语，本性也毕露无疑。面对优秀的魔剑士姐姐爱丽丝而感到自卑，但也有着勤奋直率的一面。 |  |
+| wednesday addams | 星期三·亚当斯 |  | [https://zh.m.wikipedia.org/wiki/星期三\_%28电视剧%29](https://zh.m.wikipedia.org/wiki/星期三_%28电视剧%29) |
+| miyako shikimori | 式守都 |  | [萌娘百科](https://zh.moegirl.org.cn/式守都) |
+| fuuka yamagishi | 山岸风花 | 山岸风花（日语：山岸 風花（やまぎし ふうか） (Yamagishi Fuuka)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/山岸风花) |
+| yukari takeba | 岳羽由加莉 | 岳羽由加莉（日语：岳羽 ゆかり（たけば ゆかり） (Takeba Yukari)）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/岳羽由加莉) |
+| aigis | 埃癸斯 | 埃癸斯（日语：アイギス (Aegis)；美版：Aigis）是Atlus旗下的游戏系列《女神异闻录》正传游戏《女神异闻录3》及其衍生作品的登场角色。 | [萌娘百科](https://zh.moegirl.org.cn/埃癸斯%28女神异闻录3%29#) |
+| celia claire | 瑟莉亚·库列尔 | 所属作品: `p:seirei gensouki` | [萌娘百科](https://zh.moegirl.org.cn/瑟莉亚·库列尔) |
+| hinata tachibana | 橘日向 | 橘日向是由津留崎优所创作的漫画《与变成了异世界美少女的大叔一起冒险》及其衍生作品的女主角。32岁的单身原大叔美少女。身高体重都很平均的平平无奇的男生，从小到大喜欢的女生全都爱慕着好友神宫寺司，自己毫无机会。为了神宫寺能早点结婚而经常拉着他去参加联谊。在一次联谊会上喝得烂醉如泥，抱怨为什么没有女生喜欢自己，与其这样下去，不如变成女孩子算了，在回去的路上，被女神转移到了异世界，变成了倾倒众生的金发碧眼绝世美少女。 | [萌娘百科](https://zh.moegirl.org.cn/橘日向) |
+| conte di cavour | 加富尔伯爵 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:加富尔伯爵) |
+| dhole | 豺 |  |  |
+| senjuro rengoku | 炼狱千寿郎 | 所属作品: `p:kimetsu no yaiba`<br><br>炎柱炼狱杏寿郎的弟弟，待人温文尔雅。原本是作为炎柱的继承人的立场努力锻炼剑术，但发现自身没有成为剑士的才能，而放弃了剑士的道路，决定用自己的方式去寻找帮助别人的道路。 | [萌娘百科](https://zh.moegirl.org.cn/zh/炼狱千寿郎) |
+| female protagonist | 汐见琴音 | 汐见琴音（日语：汐見 琴音（しおみ ことね） (Shiomi Kotone)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3 携带版》的女性主人公。<br>和其他主人公一样，因为在游戏中没有预设名字，所以写成了主人公子，被玩家昵称为“公子”，拆开就是日本平假名的“ハム子”，也就是“哈姆子”(female protagonist)。<br>由于原始标签将kotone shiomi重定向到female protagonist，故名称翻译为汐见琴音而不是哈姆子。 | [萌娘百科](https://zh.moegirl.org.cn/女主人公%28女神异闻录3_便携版%29#) |
+| makoto yuuki | 结城理 | 结城理（日语：結城 理（ゆうき まこと） (Yuuki Makoto)）是Atlus旗下的游戏系列《女神异闻录》系列正传游戏《女神异闻录3》的男性主人公。<br>“结城理”为剧场版中的姓名，漫画中名为“有里凑”，舞台剧里则叫“汐见朔也”。 | [萌娘百科](https://zh.moegirl.org.cn/主人公%28女神异闻录3%29#) |
+| asuka kurashina | 仓科明日香 | 仓科明日香是sprite原作的游戏、GONZO改编的动画《苍之彼方的四重奏》及其衍生作品的女主角。 | [萌娘百科](https://zh.moegirl.org.cn/仓科明日香) |
+| ulrich von hutten | 乌尔里希·冯·胡滕 | 所属作品: `p:azur lane` | [萌娘百科](https://zh.moegirl.org.cn/碧蓝航线:乌尔里希·冯·胡滕) [Bili Wiki](https://wiki.biligame.com/blhx/乌尔里希·冯·胡滕) |
+| joey | 乔伊 |  |  |
+| feng min | 凤敏 |  |  |
+| friedrich der grosse | 腓特烈大帝 |  | [碧蓝航线wiki](https://azurlane.koumakan.jp/wiki/Friedrich_der_Große) |
+| mio naruse | 成濑澪 | 既能干又能干的妹妹，继承前魔王能力的恶魔。和名义上的妹妹成濑万理亚一起，企图欺骗东城迅来实现“父母双亡，有妹有房”，却遇到了勇者一族东城刃更，还因为缔结主仆契约意外成为了刃更的奴隶，从此受尽哥哥蹂躏调教。傲娇，口头禅是“杀死你一百遍”从她的魔能力场看属于字面意义，对万理亚和刃更例外。但因为主仆契约的关系，对主人心怀愧疚的话，就会马上受到契约的诅咒，产生催淫的效果，从而达到高潮。因此常常为了达到高潮而背叛主人。 | [萌娘百科](https://zh.moegirl.org.cn/zh/成濑澪) |
+| maria naruse | 成濑万理亚 | ![](https://static.wikia.nocookie.net/shinmai-maou-no-keiyakusha/images/8/8f/Maria_01.png) | [萌娘百科](https://zh.moegirl.org.cn/成濑万理亚) [Fandom](https://shinmaimaou.fandom.com/wiki/Maria_Naruse) |
+| frederica baumann | 法兰黛莉卡·鲍曼 | 罗兹瓦尔宅邸的女仆，有四分之一的亚人血统，金发绿瞳的模样还有尖牙<br>![](https://static.wikia.nocookie.net/rezero/images/a/a0/Frederica_Baumann_LN_character_design.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/法兰黛莉卡·鲍曼) |
+| ai hoshino | 星野爱 | 所属作品: `p:oshi no ko`<br><br>超越时代的偶像。偶像团体“B小町”的头牌，故事伊始时16岁，究极美少女，雷打不动的c位，演唱技巧和跳舞水平一般，演技亦平平，却拥有着难以言喻的吸引力。 | [萌娘百科](https://zh.moegirl.org.cn/星野爱) |
+| toki asuma | 飞鸟马时 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/3/3c/Toki_Portrait.png) | [Fandom](https://bluearchive.fandom.com/wiki/Asuma_Toki) |
+| carol olston | 卡洛儿·奥尔斯顿 | 漫画《智酱是女生！》的登场角色。 |  |
+| shiroko terror | 砂狼白子 | 所属作品: `p:blue archive`<br><br>![](https://static.wikia.nocookie.net/blue-archive/images/a/a1/Shiroko_Terror_Portrait.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/砂狼白子) [Fandom](https://bluearchive.fandom.com/wiki/Shiroko_Terror) |
+| dia viekone | 蒂雅·维科尼 | 所属作品: `p:sekai saikou no ansatsusha isekai kizoku ni tensei suru`<br><br>卢各·图哈德的表姐、魔法启蒙老师、初恋。<br>![](https://static.wikia.nocookie.net/the-world-finest-assassin/images/2/24/Dia_Anime.png) | [萌娘百科](https://zh.moegirl.org.cn/蒂雅·维科尼) |
+| ezio auditore | 艾吉奥·奥迪托雷 |  |  |
+| sofia sartor | 索菲亚·萨尔托 |  |  |
+| tang wutong | 唐舞桐 | 所属作品: `p:douluo continent` |  |
+| maryland | 马里兰 |  | [https://zh.kcwiki.cn/wiki/马里兰](https://zh.kcwiki.cn/wiki/马里兰) |
+| shinyou | 神鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:神鹰) |
+| yawata maru | 八幡丸 \| 云鹰 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:八幡丸) |
+| kishinami | 岸波 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:岸波) |
+| jingei | 迅鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:迅鲸) |
+| chougei | 长鲸 |  | [萌娘百科](https://zh.moegirl.org.cn/舰队Collection:长鲸) |
+| cyllene | 星月 |  | [萌娘百科](https://zh.moegirl.org.cn/星月) |
+| queen draco | 所多玛之兽/德拉科 |  |  |
+| march 7th | 三月七 | 《崩坏：星穹铁道》的登场角色。 |  |
+| himari akeboshi | 明星日鞠 | 所属作品：蔚蓝档案 |  |
+| asta | 艾丝妲 \| 亚斯塔 |  |  |
+| himeko | 姬子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       namespaces:
-        description: 要检查的命名空间，使用“,”分隔，不要加空格
+        description: 要检查的命名空间，使用“,”分隔
         type: string
         required: false
   schedule:
@@ -19,18 +19,9 @@ jobs:
         with:
           fetch-depth: 50
       - name: Download tool
-        uses: i3h/download-release-asset@v1.3.3
-        with:
-          owner: EhTagTranslation
-          repo: Editor
-          tag: latest
-          file: release.zip
-          token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Extract tool
-        run: |
-          echo ::group::unzip
-          unzip ./release.zip -d ./tool
-          echo ::endgroup::
+        run: ./scripts/init.sh
 
       - name: Build
-        run: node tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}
+        env:
+          EH_COOKIE: ${{ secrets.EH_COOKIE }}
+        run: node --enable-source-maps tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}

@@ -13,8 +13,8 @@ copyright: >
   对于标有(**)的条目，其描述文本复制/翻译自萌娘百科，遵循原始许可协议（即知识共享(Creative Commons) 署名-非商业性使用-相同方式共享
   3.0 协议）进行二次分发。
 rules:
-  - 优先写公认的中文翻译，不知道的也可以写日文原名。
-  - 第一推荐萌娘百科，也可以用百度百科或维基百科查译名。
+  - 优先写官方的中文名称，当无官方中译时可以使用公认的中文名称，本命名空间**暂不接受日文名称**。
+  - 第一推荐[萌娘百科](https://zh.moegirl.org.cn/)，也可以用百度百科或维基百科查译名。
   - 描述图片尽量出现尽可能多的主角，或者其他易于辨识的作品标志物。
 example:
   raw: kantai collection
@@ -66,7 +66,7 @@ example:
 | vocaloid | ![V家图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/vocaloid.webp)VOCALOID | ![图](https://ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |  |
 | voiceroid | VOICEROID | VOICEROID是AH-Software旗下的一款语音合成软件，音源多为VOCALOID角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/VOICEROID) [维基百科](https://zh.wikipedia.org/wiki/Voiceroid) [hp](https://www.ah-soft.com/voiceroid/) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.moegirl.org.cn/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |  |
-| the idolmaster | ![偶像大师图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/idolmaster.webp)偶像大师 | ![HP](https://idolmaster-official.jp/assets/img/top/chara.png)<br>**官网贺图**<br><br>由南梦宫及之后的万代南梦宫所创的电子游戏系列，作品主要结合了养成模拟和节奏游戏元素。<br>玩家多扮演制作人，带领艺人事务所偶像走向成名之路。自2005年首部作品在街机推出以来，<br>系列已有包括社交游戏在内的多款游戏。 | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) [HP](https://idolmaster-official.jp/) |
+| the idolmaster | ![偶像大师图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/idolmaster.webp)偶像大师 | ![LOGO](https://idolmaster-official.jp/assets/img/logo.png)<br>**官网贺图**<br><br>由南梦宫及之后的万代南梦宫所创的电子游戏系列，作品主要结合了养成模拟和节奏游戏元素。<br>玩家多扮演制作人，带领艺人事务所偶像走向成名之路。自2005年首部作品在街机推出以来，<br>系列已有包括社交游戏在内的多款游戏。 | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) [HP](https://idolmaster-official.jp/) |
 | my little pony friendship is magic | 小马宝莉：友谊就是魔法🐎 |  |  |
 | himouto umaru-chan | 干物妹！小埋 | ![图](# "https://ehgt.org/f2/37/f237823bffb1f04d72c0f4bcf7d91c30f6d8ff81-149628-1030-1444-jpg_l.jpg") |  |
 | bakemonogatari | 化物语 | ![图](# "https://ehgt.org/d1/72/d17217f2759b1a7242f77cc3b28782fe57143b36-674454-1427-2000-jpg_l.jpg")![图](# "https://ehgt.org/7f/8a/7f8a69aa5cbe0806333aad717d9cc763285eddbb-417131-1255-1758-jpg_l.jpg")![图](# "https://ehgt.org/f7/d2/f7d2eb570fc35794317fac01d1d05e21d5f4e6bd-828871-1086-1600-jpg_l.jpg") |  |
@@ -131,7 +131,7 @@ example:
 | disgaea | 魔界战记 | 游戏，不了解<br>![图](https://ehgt.org/de/9a/de9ae23da8309e14526c36df93ff1774c92995c7-2989024-2454-3486-jpg_l.jpg)![图](https://ehgt.org/c0/73/c0735817f0aea167758d9ff102d45ac338687e07-2405201-2428-3483-jpg_l.jpg) |  |
 | chuunibyou demo koi ga shitai | 中二病也要谈恋爱！ | ![图](# "https://ehgt.org/49/a8/49a8751f9a444456a25139ebd0a2dc7c3f179fae-2180129-1393-2000-jpg_l.jpg")![图](# "https://ehgt.org/ca/ac/caac4ca2b6f0750cac39acad1512a5e0f808a021-937875-2131-3000-jpg_250.jpg") |  |
 | ano hi mita hana no namae wo bokutachi wa mada shiranai | 我们仍未知道那天所看见的花的名字。 | 又译为“未闻花名”，日本官方简称“那朵花”<br>![图](https://ehgt.org/b9/82/b982e8d3a269a0a2aec6706368054b49e41aa83e-1003852-2000-1417-jpg_l.jpg)![图](https://ehgt.org/82/69/826926e8c503e92084baaff53688aa4bc5acc1c7-2122976-2115-3031-jpg_l.jpg) |  |
-| amagi brilliant park | 甘城光辉游乐园 | 《甘城辉煌乐园救世主》轻小说，不了解<br>![图](# "https://ehgt.org/67/6b/676b840b033812a59a8db54a8e864524049915ac-7104563-4294-2999-jpg_250.jpg")![图](https://ehgt.org/d4/13/d41375f1cef858307da3d3eb6cb6be1b57bbd2b0-863646-1597-2276-jpg_l.jpg) |  |
+| amagi brilliant park | 甘城光辉游乐园 | ![图](# "https://ehgt.org/67/6b/676b840b033812a59a8db54a8e864524049915ac-7104563-4294-2999-jpg_250.jpg")![图](https://ehgt.org/d4/13/d41375f1cef858307da3d3eb6cb6be1b57bbd2b0-863646-1597-2276-jpg_l.jpg) |  |
 | hidan no aria | 绯弹的亚莉亚🔫 | 官方逼死同人↓<br>![图](https://ehgt.org/26/ff/26ffeeaeb23fafb7938088c9abff7944a3ee2d1e-5770870-2516-3578-png_l.jpg)![图](https://ehgt.org/5f/48/5f487874b41b0196dda23f7aeaa19847eff839f9-4019236-5374-3800-jpg_l.jpg) |  |
 | steinsgate | 命运石之门 | ![图](# "https://ehgt.org/89/33/893301e4e2f4d6169f0c6321c1a625a9a1600700-164207-729-1024-jpg_l.jpg")![](https://ehgt.org/97/85/97851728809e1311fd28c1e7053d2174ddb4295c-633213-990-1400-jpg_l.jpg)![可爱的男孩子](# "https://ehgt.org/9e/c5/9ec503bcb8154b19a4bccea96b136c994a1cab5d-1825986-2090-3000-jpg_250.jpg") |  |
 | lucky star | 幸运☆星 | ![图](# "https://ehgt.org/25/df/25df151d97529de4d42e7b57bf1c79b3e4870f80-489916-1060-1490-jpg_250.jpg")![图](# "https://ehgt.org/97/58/975859a24acb07ba55b0b256c21e44c33a521fa9-1001428-709-1003-jpg_l.jpg")![图](https://ehgt.org/8d/9e/8d9e90314b468770a55b7660fc554adc0c29ed58-2616061-2117-3004-jpg_l.jpg) |  |
@@ -705,7 +705,7 @@ example:
 | atlantis the lost empire | 亚特兰蒂斯：失落的帝国 |  |  |
 | sengoku otome | 战国少女～桃色异传～ |  |  |
 | monster hunter | 怪物猎人 |  |  |
-| sennen sensou aigis | 千年战争Aigis |  |  |
+| sennen sensou aigis | ![icon](https://aigis1000.jp/images/favicon/favicon.ico)千年战争Aigis |  | [官网](https://aigis1000.jp/) |
 | star ocean 3 | 星之海洋3 |  |  |
 | kokoro connect | 心灵链环 | 恋爱随意链接 |  |
 | robopon | 机甲宝贝 |  |  |
@@ -863,7 +863,7 @@ example:
 | ladies versus butlers | 大小姐×执事！ |  |  |
 | arpeggio of blue steel | 苍蓝钢铁的琶音 |  |  |
 | maken-ki | 魔剑姬！ |  |  |
-| expelled from paradise | 乐园追放 |  |  |
+| expelled from paradise | 乐园追放 -Expelled from Paradise- | 《乐园追放 -Expelled from Paradise-》（日语：楽園追放 -Expelled from Paradise-）是由Nitroplus和东映动画共同制作的一部3DCG动画电影，于2014年11月15日上映。 | [萌娘百科](https://zh.moegirl.org.cn/乐园追放_-Expelled_from_Paradise-) |
 | glasslip | 玻璃之唇 |  |  |
 | hanasaku iroha | 花开伊吕波 |  |  |
 | akaneiro ni somaru saka | 茜色染红的街道 |  |  |
@@ -1169,7 +1169,7 @@ example:
 | onmyoji | 阴阳师 | 《阴阳师》是网易2016年推出的手机卡牌游戏，对应Android和iOS平台。 | [维基百科](https://zh.wikipedia.org/zh-cn/阴阳师_%28游戏%29) (\*) |
 | brynhildr in the darkness | 极黑的布伦希尔特 | 《极黑的布伦希尔特》（日语：極黒のブリュンヒルデ）是日本漫画家冈本伦所创作的青年漫画，从《周刊YOUNG JUMP》2012年9号至2016年18号连载。截至2016年5月，已出版18本单行本完结，18本中文版单行本由青文出版社代理发行。 | [维基百科](https://zh.wikipedia.org/zh-cn/極黑的布倫希爾德) (\*) |
 | super real mahjong | 超真实麻将 |  |  |
-| journey to the west | 西游记 |  |  |
+| journey to the west | 西游记 | 《西游记》，又称《西游释厄传》，简称《西游》，是中国古代明朝的第一部浪漫主义章回体长篇神魔小说，全书58.5万字，共100回，中国四大名著之一、四大奇书之一。成书于16世纪明朝中叶，一般认为作者是明朝的吴承恩。 |  |
 | busou renkin | 武装炼金 | 《武装炼金》是日本漫画家和月伸宏的作品，剧情协力为黑崎薫，2006年改编为电视动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/武裝鍊金) (\*) |
 | jigoku shoujo | 地狱少女 | 《地狱少女》是日本动画以及由此改编的漫画及电视剧。动画于2005年10月4日开始播出，全26集，具有神秘恐怖风格。其漫画则同时在讲谈社月刊《Nakayoshi（なかよし）》上连载，作者为永远幸。 | [维基百科](https://zh.wikipedia.org/zh-cn/地狱少女) (\*) |
 | midori no hibi | 美鸟的日记 | 《美鸟的日记》（美鸟の日々）是日本漫画家井上和郎的漫画作品。连载于小学馆《周刊少年Sunday》2002年42号到2004年34号。单行本共八集，中文版由东立出版社代理发售。2004年改编为电视动画播放共13集，2005年台湾曾在纬来电视网播放中文配音版。 | [维基百科](https://zh.wikipedia.org/zh-cn/美鳥的日記) (\*) |
@@ -1549,7 +1549,7 @@ example:
 | yakusoku no neverland | 约定的梦幻岛 | ![约定的梦幻岛](https://img.moegirl.org.cn/common/thumb/3/33/约定的梦幻岛1_.jpg/300px-约定的梦幻岛1_.jpg)![图](https://ehgt.org/d0/e1/d0e15816deb3baa6abbb38b8bb0c2ebfe51b9cac-256519-768-687-jpg_l.jpg)<br>一个讲述了主角骑着"艾玛"电动车进行"诺曼"底登陆的"雷"人故事（误） | [萌娘百科](https://zh.moegirl.org.cn/约定的梦幻岛) |
 | iya na kao sare nagara opantsu misete moraitai | 很想被人用一脸嫌弃的眼神把胖次给我看 | 《很想被人用一脸嫌弃的眼神把胖次给我看》（日语：嫌な顔されながらおパンツ見せてもらいたい）是日本同人志社团“アニマルマシーン”的成员40原创作的同人志，以各式各样的女性摆出一脸嫌弃的样子露出内裤为主题。作品自2015年开始发行并陆续改编成网络动画、轻小说和写真集。 | [维基百科](https://zh.wikipedia.org/wiki/擺出討厭的表情露出內褲) |
 | wrestle angels | 摔角天使 |  |  |
-| nijisanji | 彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。<br>![](https://www.nijisanji.jp/static/logo/nijisanji_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
+| nijisanji | ![icon](https://www.nijisanji.jp/favicon.ico)彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。 | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
 | blue archive | 蔚蓝档案 |  |  |
 | the legend of luo xiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
 | sk8 the infinity | SK8 无限滑板 | 《SK8 the Infinity》（日语：SK∞ エスケーエイト，中文：SK8 无限滑板）是由日本动画公司BONES所制作的原创滑板题材电视动画。 | [官网地址](https://sk8-project.com/) |
@@ -1692,7 +1692,7 @@ example:
 | 12-sai. | 12岁。 |  | [维基百科](https://zh.wikipedia.org/zh-cn/12歲。) |
 | 13 reasons why | 十三个理由 |  | [维基百科](https://zh.wikipedia.org/zh-cn/漢娜的遺言) |
 | 21 emon | 21卫门 |  | [维基百科](https://zh.wikipedia.org/zh-cn/21衛門) |
-| 22 slash 7 | 22/7 |  | [维基百科](https://zh.wikipedia.org/zh-cn/22%2F7%20%28企劃%29) |
+| nanabun no nijyuuni | 22/7 |  | [维基百科](https://zh.wikipedia.org/zh-cn/22%2F7%20%28企劃%29) |
 | 3-gatsu no lion | 3月的狮子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/3月的獅子) |
 | 300 | 300 |  | [维基百科](https://zh.wikipedia.org/zh-cn/300_%28漫畫%29) |
 | 81diver | 81diver |  | [维基百科](https://zh.wikipedia.org/zh-cn/81diver) |
@@ -2003,7 +2003,7 @@ example:
 | counter side | Counter:Side | 《COUNTER：SIDE》是由韩国studiobside开发、NEXON推出的手游。 | [HP](https://counterside.zlongame.com/) |
 | kunoichi tsubaki no mune no uchi | 女忍者椿的心事 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女忍者椿的心事) |
 | kanojo mo kanojo | 女友成双 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/女友成双) |
-| ero trap dungeon | エロトラップダンジョン ～女冒険者たちは徹底的に攻略されました～ |  | [Bangumi](https://bgm.tv/subject/323354) [vndb](https://vndb.org/v29748.2) |
+| ero trap dungeon | 色情迷宫 | 充满色情陷阱的迷宫，往往伴随着探索过程触发的各种色色道具 | [vndb](https://vndb.org/v29748.2) |
 | yofukashi no uta | 彻夜之歌 |  | [萌娘百科](https://zh.moegirl.org.cn/彻夜之歌) |
 | zannen onna kanbu black general-san | 遗憾女干部黑暗将军小姐 |  | [萌娘百科](https://zh.moegirl.org.cn/遗憾女干部黑暗将军小姐) |
 | digimon ghost game | 数码宝贝幽灵游戏 | 《数码宝贝幽灵游戏》（日語：デジモンゴーストゲーム，英語：Digimon Ghost Game），于2021年10月3日起，在富士电视台系列播映的电视动画，是数码宝贝电视动画系列的第九作，也是万代「生命手环系列」的联动宣传动画。 | [维基百科](https://zh.wikipedia.org/zh/数码宝贝幽灵游戏) [Fandom](https://digimon.fandom.com/wiki/Digimon_Ghost_Game) |
@@ -2100,6 +2100,63 @@ example:
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
 | ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
+| tensei oujo to tensai reijou no mahou kakumei | 转生公主与天才千金的魔法革命 |  | [萌娘百科](https://zh.moegirl.org.cn/转生王女与天才千金的魔法革命) |
+| summer camp island | 幽灵与莫莉·麦琪 | 《幽灵与莫莉·麦琪》（英语：The Ghost and Molly McGee）是一部由美国迪士尼电视动画公司制作的恐怖喜剧动画剧集，作者为比尔·莫兹与鲍伯·罗斯，于2021年10月在迪士尼频道与Disney+播映。 | [维基百科](https://zh.wikipedia.org/wiki/幽灵与莫莉·麦琪) |
+| luca | 夏日友晴天 | 《夏日友晴天》（英语：Luca，中国大陆译《夏日友晴天》，香港译《盛夏友晴天》，台湾译《路卡的夏天》）是一部2021年美国3D计算机动画奇幻喜剧片，由皮克斯动画工作室制作，并由迪士尼平台发行负责流媒体发行，华特迪士尼工作室电影负责院线发行。故事的舞台设定于西元1959年的意大利滨海港口城镇，描述居住在附近海域的海怪男孩卢卡伪装成人类探索陆地世界，为了实现梦想与当地居民建立的羁绊和经历的各类事件。 | [维基百科](https://zh.wikipedia.org/zh-sg/路卡的夏天) |
+| spy kyoushitsu | 间谍教室 | 《间谍教室》（日语：スパイ教室）是竹町所著的日本轻小说系列，由Tomari担纲插画。2020年1月开始出版至今共12卷（本篇9卷、短篇集3卷），由KADOKAWA旗下的富士见Fantasia文库发行。第32届Fantasia大奖得奖作品。《这本轻小说真厉害！2021》文库类别以及新作类别第2位。 | [维基百科](https://zh.wikipedia.org/wiki/間諜教室) |
+| galaxy cyclone braiger | 银河旋风 | 《银河旋风》（原题：銀河旋風ブライガー）是由国际映画社所制作的机器人动画，并在东京电视台于1981年10月6日至1982年6月25日期间播出，全39集。为“J9系列”三部曲的第一部作品。 | [维基百科](https://zh.wikipedia.org/wiki/銀河旋風) |
+| mahou shoujo nante mouiidesukara. | 魔法少女什么的已经够了啦。 |  |  |
+| tom clancys rainbow six | 彩虹六号 |  |  |
+| sangoku rensenki | 三国恋战记~少女的兵法 | 本作为2010年3月发售的乙女向AVG游戏，后来移植ps2，psp，psv等多个平台。故事讲述的是一个高中女生（山田花）因为在图书馆寻找三国志报告题目的相关资料而无意间因为一本书穿越到一个和“三国志”相似的世界，并藉由书的力量以军师身份卷入群雄争霸的三国世界的故事。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/三国恋戦記〜オトメの兵法!〜) [百度百科](https://baike.baidu.com/item/三国恋战记~少女的兵法/46485) |
+| epic seven | 第七史诗 |  | [Fandom](https://epic-seven.fandom.com/wiki/Epic_Seven_Wiki) [wiki](https://epic7.gamekee.com/) |
+| godzilla | 哥斯拉 |  |  |
+| cloud meadow | 云端牧场 | 兼具农场模拟器、角色扮演游戏和视觉小说，讲述了学会与怪物盟友合作，以便建立新家园和探索未知土地的故事！ | [HP](https://www.cloudmeadowgame.com/) [Steam](https://steamcommunity.com/app/1223750) |
+| ookami kodomo no ame to yuki | 狼的孩子雨和雪 | 《狼的孩子雨和雪》（日语：おおかみこどもの雨と雪）是由细田守导演、Studio地图和MADHOUSE制作的一部动画电影。细田守的第二部长篇原创作品。主题是“亲子”，讲述19岁的少女与“狼人”相遇并相爱，直到他们生下的狼人姐弟成长并独立的13年间发生的故事。<br><br>作品于2012年7月21日在日本上映。 | [萌娘百科](https://zh.moegirl.org.cn/狼的孩子雨和雪) [维基百科](https://zh.wikipedia.org/wiki/狼的孩子雨和雪) |
+| akiba maid sensou | 秋叶原冥途战争 | 1999年的春季，憧憬成为可爱女仆的少女和平奈古美，为追逐梦想来到了竞争激烈的秋叶原，她会遇到怎样的人和事呢？这是Cygames×P.A.WORKS献上的，关于“萌与暴力”的故事。一起萌萌心动吧！<br>![](https://static.wikia.nocookie.net/akibamaidwar/images/0/02/Key_Visual_2.png) | [萌娘百科](https://zh.moegirl.org.cn/zh/秋叶原冥途战争) [维基百科](https://zh.wikipedia.org/zh/秋葉原冥途戰爭) [Fandom](https://akibamaidwar.fandom.com/wiki/Akiba_Maid_War) |
+| kyuuketsuki sugu shinu | 吸血鬼马上死 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/吸血鬼马上死) |
+| devil summoner soul hackers | 恶魔召唤师 | 《恶魔召唤师》系列（日语：デビルサマナー；英语：Devil Summoner）是由Atlus制作并发行的游戏系列，共有5部游戏作品。<br><br>什么叫“恶魔召唤师”？就是与恶魔签订交易契约，利用恶魔为自己做事同时供给恶魔需求之物，和恶魔交易的人类。恶魔召唤师系列顾名思义，就是讲述这个特殊人群的故事。 | [萌娘百科](https://zh.moegirl.org.cn/恶魔召唤师系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/デビルサマナー_ソウルハッカーズ) [百度百科](https://baike.baidu.com/item/恶魔召唤师/1582481) |
+| saikin yatotta maid ga ayashii | 最近雇的女仆有点怪 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/最近雇的女仆有点怪) |
+| benriya saitou-san isekai ni iku | 万事屋斋藤先生转生异世界 |  | [萌娘百科](https://zh.moegirl.org.cn/万事屋斋藤先生转生异世界) |
+| mar | MÄR魔兵传奇 |  | [萌娘百科](https://zh.moegirl.org.cn/魔兵传奇) [维基百科](https://zh.wikipedia.org/zh/MÄR_魔法世界) |
+| kinsou no vermeil | 金装的维尔梅 | 金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～ | [萌娘百科](https://zh.moegirl.org.cn/金装的维尔梅～濒临堕落的魔法师和最强的灾厄一起冲入魔法世界～) |
+| ganbare goemon | 大盗五右卫门 |  | [维基百科](https://zh.wikipedia.org/zh/大盜五右衛門系列) |
+| jikkyou powerful pro yakyuu | 实况力量棒球系列 |  | [维基百科](https://zh.wikipedia.org/zh/實況野球系列) |
+| dolphin wave | 洶湧海豚 | 《Dolphin Wave》（常译作汹涌海豚、海豚波潮等等），为日本游戏开发商株式会社Bullets于2022年推出的手机游戏，并由Marvelous、Honey Parade Games联合出品。 | [维基百科](https://zh.wikipedia.org/zh/洶湧海豚) |
+| suzume no tojimari | 铃芽之旅 |  |  |
+| warframe | 星际战甲 | ![](https://n9e5v4d8.ssl.hwcdn.net/images/logo.png)<br>《战甲神兵》（英语：Warframe，中国大陆译作“星际战甲”，香港和台湾译作“战甲神兵”，又译作“战争架”）是一个2013年发行的主打PVE的第三人称射击游戏，由加拿大Digital Extremes开发的独立游戏，可在Microsoft Windows、PlayStation 4、Xbox One及任天堂Switch平台上游玩，采用免费游玩模式，目前已可以跨平台连线。 | [HP](https://www.warframe.com/) [维基百科](https://zh.wikipedia.org/zh/戰甲神兵) [萌娘百科](https://zh.moegirl.org.cn/星际战甲) |
+| brok the investigator | 鳄鱼侦探布罗格 | BROK the InvestiGator 是一款由独立法国游戏工作室 COWCAT Games 使用 GameMaker Studio 2 自行开发和发行的独立游戏，该游戏采用了点击式冒险游戏和横向卷轴动作游戏相结合的设计。这款游戏通过 Kickstarter 平台成功筹集到资金。游戏中融合了点和点击冒险、横版过关打斗和角色扮演元素。 | [维基百科（英语）](https://en.wikipedia.org/wiki/BROK_the_InvestiGator) [Steam](https://store.steampowered.com/app/949480/BROK_the_InvestiGator/) |
+| horizon zero dawn | 地平线 零之曙光 |  | [萌娘百科](https://zh.moegirl.org.cn/地平线_零之曙光) [维基百科](https://zh.wikipedia.org/zh/地平線_黎明時分) |
+| un-go | UN-GO | 《UN-GO》是由BONES制作的一部TV动画。于2011年10月开始在在富士电视台的noitaminA栏目播出，共11集。故事原案出自坂口安吾《明治开化 安吾捕物帖》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/UN-GO) |
+| inma kourin devil carnival | 淫魔降臨デビル☆カーニバル |  | [Twitter](http://twitter.com/devil_carnival/) |
+| ryu ga gotoku | 如龙 | 人中之龙（日版名：龍が如く，英文版名：Like a Dragon，舊稱Yakuza，中国大陆译作“如龙”，香港和台湾译作“人中之龙”）是世嘉制作与发行的动作冒险游戏系列，首作于2005年在PlayStation 2平台上发行。系列作的主要场景常设定在东京都中的虚构地区“神室町”，截至本传6代主线聚焦于极道组织东城会旗下的桐生一马；以桐生为中心描绘黑社会间的冲突，及极道中人各自的生存姿态。自本传7代起转以同为黑帮份子的春日一番作为主角。 | [维基百科](https://zh.wikipedia.org/zh/人中之龍系列) [维基百科（日语）](https://ja.wikipedia.org/wiki/龍が如くスタジオ) [维基百科（英语）](https://en.wikipedia.org/wiki/Ryu_Ga_Gotoku_Studio) |
+| atomic heart | 原子之心 | 《原子之心》（英语：Atomic Heart）是一款由塞浦路斯工作室Mundfish的俄罗斯分部开发的动作角色扮演与第一人称射击游戏。 | [维基百科](https://zh.wikipedia.org/zh/原子之心) [HP](https://mundfish.com/) |
+| yomawari | 夜廻 | 《夜迴》（日语：夜廻）是日本一软件开发并发售的恐怖动作冒险游戏，主要讲述寻找失物的少女在午夜街道寻觅的故事。 | [维基百科](https://zh.wikipedia.org/wiki/夜迴) |
+| the addams family | 亚当斯一家 |  | [https://zh.m.wikipedia.org/zh-hans/阿達一族](https://zh.m.wikipedia.org/zh-hans/阿達一族) |
+| thundercats | 霹雳猫 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/霹雳猫) |
+| gargoyles | 夜行神龙 |  | [https://zh.m.wikipedia.org/zh-hans/夜行神龍](https://zh.m.wikipedia.org/zh-hans/夜行神龍) |
+| dora the explorer | 爱探险的朵拉 |  | [https://zh.m.wikipedia.org/zh-hans/愛探險的朵拉](https://zh.m.wikipedia.org/zh-hans/愛探險的朵拉) |
+| gremlins | 小魔怪 |  | [维基百科](https://zh.wikipedia.org/zh-hans/小精靈_%28電影%29) |
+| lazytown | 懒人小镇 |  | [https://zh.m.wikipedia.org/wiki/懶人小鎮](https://zh.m.wikipedia.org/wiki/懶人小鎮) |
+| deltarune | 三角符文 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/Deltarune) |
+| vampire knight | 吸血鬼骑士 |  |  |
+| blue reflection | 蔚蓝反射（幻舞少女之剑） | 《BLUE REFLECTION》系列是GUST制作的游戏及后续的跨媒体企划，包括主机游戏、移动端游戏、电视动画等系列作品。 | [萌娘百科](https://zh.moegirl.org.cn/BLUE_REFLECTION系列) [维基百科](https://zh.wikipedia.org/zh/BLUE_REFLECTION_幻舞少女之劍) |
+| fumikiri jikan | 平交道时间 | 《平交道时间》（日语：踏切時間）是由里好创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh/平交道时间) |
+| all out | ALL OUT!! | 《ALL OUT!!》（日语：オールアウト!!）是雨濑栞的橄榄球题材日本漫画作品。本作品描写主角祇园健次为初学者，加入县立神奈川高校（简称“神高”）橄榄球社之后面临各式各样的挑战。 | [萌娘百科](https://zh.moegirl.org.cn/ALL_OUT)!! [维基百科](https://zh.wikipedia.org/zh/ALL_OUT)!! |
+| kuma miko | 熊巫女 |  |  |
+| tsuki ni yorisou otome no sahou | 近月少女的礼仪 | 《近月少女的礼仪》（日语：月に寄りそう乙女の作法）是由Navel制作的一部Galgame，并有近月少女的礼仪2、少女理论及其周边、少女理论及其之后的周边等衍生作品。近朱者赤，近墨者黑，近月者弯 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/近月少女的礼仪) |
+| witchs weapon | 魔女兵器 |  | [http://www.witchweapon.com/m/](http://www.witchweapon.com/m/)<br>[https://zh.m.wikipedia.org/wiki/魔女兵器](https://zh.m.wikipedia.org/wiki/魔女兵器)<br>[萌娘百科](https://zh.moegirl.org.cn/魔女兵器) |
+| dead by daylight | 黎明杀机 | 《黎明杀机》是一款由比哈维尔互动公司开发，星风工作室发行的非对称竞技生存恐怖游戏。<br>于2016年6月14日以Microsoft Windows版在Steam上首次发售。 |  |
+| sakuna of rice and ruin | 天穗之咲稻姬 |  |  |
+| oshi no ko | 我推的孩子 |  | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/【我推的孩子】) |
+| tensei shitara ken deshita | 转生就是剑 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/转生就是剑) [维基百科](https://zh.wikipedia.org/zh/轉生就是劍) |
+| juuou mujin no fafnir | 铳皇无尽的法夫纳 |  | [萌娘百科](https://zh.moegirl.org.cn/铳皇无尽的法夫纳) |
+| soukyuu no fafner | 苍穹之法芙娜 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/苍穹之法芙娜) |
+| heaven burns red | 绯染天空 | 红烧天堂 | [https://heaven-burns-red.com/](https://heaven-burns-red.com/)<br>[Twitter](https://twitter.com/intent/follow?screen_name=heavenburnsred)<br>[https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA](https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA)<br>[https://lin.ee/h0pDUps](https://lin.ee/h0pDUps)<br>[https://apps.apple.com/jp/app/id1576831351](https://apps.apple.com/jp/app/id1576831351)<br>[https://play.google.com/store/apps/details?id=com.heavenburnsred](https://play.google.com/store/apps/details?id=com.heavenburnsred)<br>[https://store.steampowered.com/app/1973710/\_/?utm\_source=website&utm\_medium=HP&utm\_campaign=steam](https://store.steampowered.com/app/1973710/_/?utm_source=website&utm_medium=HP&utm_campaign=steam)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[https://zh.m.wikipedia.org/wiki/緋染天空\_Heaven\_Burns\_Red](https://zh.m.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
+| fire emblem engage | 火焰之纹章 结合 | 火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/火焰之纹章_结合) |
+| watashi no yuri wa oshigoto desu | 我的百合乃工作是也！ |  | [萌娘百科](https://zh.moegirl.org.cn/zh/我的百合乃工作是也！) |
+| sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 |  | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
+| sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
+| idola phantasy star saga | 梦幻之星·伊多拉传说 | 梦幻之星：伊多拉传说是为了纪念知名角色扮演游戏《`p:phantasy star`》30周年推出的系列最新作。于2018年11月27日上线，2022 年 1 月 12 日停服。<br><br>![](https://p2.bahamut.com.tw/B/2KU/74/3f2df37e33381a664843e1a7ff11nay5.JPG) |  |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |
