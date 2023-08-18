@@ -351,7 +351,7 @@ example:
 | five nights at freddys | 在弗雷迪的五个夜晚 |  |  |
 | one punch man | 一拳超人 |  |  |
 | black rock shooter | 黑岩射手 |  |  |
-| dragons crown | 龙之皇冠 |  |  |
+| dragons crown | 龙之皇冠 | 《龙之皇冠》（ドラゴンズクラウン，Dragons Crown）是香草社开发、由Atlus在2013年发行的2D幻想风格、动作角色扮演游戏。<br>该游戏于2018年推出了强化版《龙之皇冠 Pro》。<br>![图](https://ehgt.org/18/36/1836df9a1f8be1958b75479b84a759c51c77fab5-131812-536-618-jpg_l.jpg) | [游戏官网](http://dragons-crown.com/) |
 | noir | 黑街二人组 |  |  |
 | guilty crown | 罪恶王冠 |  |  |
 | nana | 娜娜 |  |  |
@@ -1231,7 +1231,7 @@ example:
 | porco rosso | 红猪 | 《红猪》（日语：紅の豚），是1992年7月18日吉卜力工作室推出的一部的动画电影。 | [维基百科](https://zh.wikipedia.org/zh-cn/红猪) (\*) |
 | princess mononoke | 幽灵公主 | 《幽灵公主》（日语：もののけ姫／もののけひめ Mononoke Hime）是日本吉卜力工作室制作、宫崎骏执导于1997年夏季推出的一部动画电影。内容描述著在幻想的室町时代里，一名虾夷少年为了找出自己受诅咒的原因而离开家园，之后介入了一场人类与森林神祇两方的冲突事件。 | [维基百科](https://zh.wikipedia.org/zh-cn/魔法公主) (\*) |
 | the secret world of arrietty | 借东西的小人阿莉埃蒂 | 《借东西的小人阿莉埃蒂》（日语：借りぐらしのアリエッティ，英语：The Secret World of Arrietty），日语原意为借居的阿丽埃蒂，是日本吉卜力工作室2010年上映的动画电影，剧情改编自英国小说家玛丽·诺顿的奇幻小说《地板下的小矮人》。 | [维基百科](https://zh.wikipedia.org/zh-cn/借物少女艾莉緹) (\*) |
-| whisper of the heart | 侧耳倾听 | 《侧耳倾听》（日语：耳をすませば／みみをすませば Mimi Wo Sumaseba，英语：Whisper of the Heart）是由吉卜力工作室的近藤喜文执导、改编自由柊葵创作的同名少女漫画的1995年日本电影动画。该电影于1995年7月15日在日本公开上映，同期上映的还有以男子歌星团体恰克与飞鸟的单曲《On Your Mark》所改编的约六分钟多长的同名短篇动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/心之谷) (\*) |
+| mimi wo sumaseba | 侧耳倾听 | 《侧耳倾听》（日语：耳をすませば／みみをすませば Mimi Wo Sumaseba，英语：Whisper of the Heart）是由吉卜力工作室的近藤喜文执导、改编自由柊葵创作的同名少女漫画的1995年日本电影动画。该电影于1995年7月15日在日本公开上映，同期上映的还有以男子歌星团体恰克与飞鸟的单曲《On Your Mark》所改编的约六分钟多长的同名短篇动画。 | [维基百科](https://zh.wikipedia.org/zh-cn/心之谷) (\*) |
 | space patrol luluco | 宇宙巡警露露子 | 《宇宙巡警露露子》（日语：宇宙パトロールルル子）是日本的电视动画，于2016年4月至6月在ULTRA SUPER ANIME TIME时段播放，为TRIGGER成立五周年纪念作品。 | [维基百科](https://zh.wikipedia.org/zh-cn/宇宙巡警露露子) (\*) |
 | shakunetsu no takkyuu musume | 灼热的乒乓球娘 | 《灼热的乒乓球娘》（日语：灼熱の卓球娘）是日本漫画家朝野橹的漫画作品。在《JUMP SQ.19》（集英社）2014年1月号至2015年3月号连载后，由于该杂志的休刊而移转至《周刊YOUNG JUMP》的网络漫画发布站《隔壁的YOUNG JUMP》继续刊行。 | [维基百科](https://zh.wikipedia.org/zh-cn/灼熱的桌球娘) (\*) |
 | silver spoon | 银之匙 | 《银之匙 Silver Spoon》（日语：銀の匙 Silver Spoon）是荒川弘的日本漫画作品，于《周刊少年Sunday》连载。因作者家庭因素，自2016年10月开始无限期休载。2017年6月28日，《周刊少年Sunday》编辑部在官网发布预告，宣布本作将于7月5日发行的第32号刊恢复连载，刊载三话后再次宣布无限期休载。 | [维基百科](https://zh.wikipedia.org/zh-cn/银之匙_Silver_Spoon) (\*) |
@@ -1475,7 +1475,7 @@ example:
 | hitori bocchi no marumaru seikatsu | 一个人的OO小日子 | 《一个人的○○小日子》（日语：ひとりぼっちの○○生活）是由カツヲ创作的一部四格漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/一个人的OO小日子) (\*\*) |
 | asteroid in love | 恋爱小行星 | 恋爱小行星（日语：恋する小惑星；英语：Asteroid in Love）是日本漫画家Quro创作的4格漫画作品，并有TV动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/恋爱小行星) (\*\*) |
 | koi wa ameagari no you ni | 恋如雨止 |  |  |
-| fire emblem three houses | 火焰之纹章 风花雪月 |  |  |
+| fire emblem three houses | 火焰之纹章 风花雪月 |  | [萌娘百科](https://zh.moegirl.org.cn/火焰之纹章_风花雪月) |
 | kanojo okarishimasu | 租借女友 | 《租借女友》（日语：彼女、お借りします）是由宫岛礼吏创作的一部漫画。于漫画杂志《周刊少年Magazine》2017年32号开始连载。TV动画于2020年7月10日开始播出。 | [萌娘百科](https://zh.moegirl.org.cn/租借女友) (\*\*) |
 | 15 bishoujo hyouryuuki | 15美少女漂流记 |  |  |
 | ore no natsuyasumi | 我的暑假 | 《我的暑假》（日语：ぼくのなつやすみ）是2000年6月22日由索尼电脑娱乐发售的PlayStation平台专用游戏。制作公司为Millennium Kitchen。约1年后的2001年6月14日推出廉价版的PlayStation the Best版。 | [维基百科](https://zh.wikipedia.org/wiki/我的暑假) |
@@ -1574,7 +1574,7 @@ example:
 | shugo chara | 守护甜心 | 《守护甜心》（日语：しゅごキャラ！；英语：Shugo Chara）是由PEACH-PIT创作的一部少女向漫画，并有动画和游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/守护甜心) |
 | manatsu no yo no inmu | 仲夏夜之淫梦 \| Cookie☆ | 仲夏夜之淫梦是2001年在COAT CORPORATION发售的GV。TDN前辈们的名字和名言「哼，哼，啊啊啊啊」被世界广泛传播的作品（主要在NicoNico动画上）<br>![图](https://upload.wikimedia.org/wikipedia/commons/e/e1/YJSNPI_Ascii_Art.svg)<br><br>Cookie☆是指、在NicoNico动画上以`touhou project`二次创作的配音短剧为素材制作的MAD作品的总称。Cookie☆短剧本为东方众合作制作的百合向东方二次创作，但因为[初代Cookie☆](https://www.nicovideo.jp/watch/sm9720246)声优们的棒读被淫梦众认为很象[仲夏夜之淫梦第二章](https://www.nicovideo.jp/watch/sm19823016?ref=thumb_nicopedia)的内容，导致视频被淫梦众所占领，大量淫梦语录充斥了视频。之后由Cookie☆衍生出来大量的东方三次创作。E站没有将原作中Cookie☆与淫梦分离开来有些遗憾，淫梦原作的作品不一定是Cookie☆原作。<br>![图](https://ehgt.org/7c/a4/7ca45377febdf8c8f6b965ecdf16dc543429c593-31368-512-384-jpg_l.jpg)<br>![图](https://ehgt.org/20/b8/20b80a428b96401d95cdf1cbad97602a4fb07c3c-76442-600-600-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/仲夏夜之淫梦)<br>[ニコニコ大百科 - 真夏の夜の淫夢🇯🇵](https://dic.nicovideo.jp/a/真夏の夜の淫夢)<br>[ニコニコ大百科 - クッキー☆](https://dic.nicovideo.jp/a/クッキー☆) |
 | mujaki no rakuen | 无邪气乐园 | 《无邪气乐园》（無邪気の楽園）是日本漫画家`uran`的青年漫画作品。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/f/fa/無邪氣樂園.jpg) | [Wikipedia](https://zh.wikipedia.org/wiki/無邪氣樂園) [Nyaa](https://nyaa.si/view/1112767) |
-| hololive | Hololive | hololive production（日语：ホロライブプロダクション Hororaibu Purodakushon）是日本科技公司COVER株式会社旗下的经纪公司品牌，以经营`vtuber`为其主要业务，除了在日本外，也在其他地区拥有并经营`vtuber`。<br>![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hololive_Production_logo.svg/250px-Hololive_Production_logo.svg.png) | [维基百科](https://zh.wikipedia.org/wiki/Hololive_production) [Twitter](https://twitter.com/hololivetv) [萌娘百科](https://zh.moegirl.org.cn/Hololive) [Fandom](https://virtualyoutuber.fandom.com/wiki/Hololive) [Hololive wiki](https://hololive.wiki/wiki/Hololive_Production) |
+| hololive | ![icon](https://hololive.hololivepro.com/wp-content/themes/hololive/images/favicon.ico)Hololive | hololive production（日语：ホロライブプロダクション Hororaibu Purodakushon）是日本科技公司COVER株式会社旗下的经纪公司品牌，以经营`vtuber`为其主要业务，除了在日本外，也在其他地区拥有并经营`vtuber`。<br>![logo](https://static.wikia.nocookie.net/virtualyoutuber/images/f/fc/Hololive_production_Logo.png) | [维基百科](https://zh.wikipedia.org/wiki/Hololive_production) [Twitter](https://twitter.com/hololivetv) [萌娘百科](https://zh.moegirl.org.cn/Hololive) [Fandom](https://virtualyoutuber.fandom.com/wiki/Hololive) [Hololive wiki](https://hololive.wiki/wiki/Hololive_Production) [HP](https://hololive.hololivepro.com/) |
 | hinamatsuri | 超能力女儿 | 《超能力女儿》（日语：ヒナまつり），是日本漫画家大武政夫的漫画。在enterbrain发行的隔月漫画杂志《Fellows!》第8期（2009年12月发售）发表短篇，后在第11期B（2010年6月发售）正式开始连载。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/4/41/極道超女.jpg) | [维基百科](https://zh.wikipedia.org/wiki/極道超女) |
 | citrus | citrus～柑橘味香气～ | 《citrus～柑橘味香气～》（日语：citrus／シトラス）是日本女性漫画家三郎太（日语：サブロウタ）所作，由一迅社出版的漫画作品。2012年11月17日开始连载于漫画杂志月刊《Comic百合姬》，2018年8月18日完结，全系列出版10册单行本。<br>![Cover](https://upload.wikimedia.org/wikipedia/zh/thumb/5/52/Citrus_cover.jpg/180px-Citrus_cover.jpg) | [维基百科](https://zh.wikipedia.org/wiki/Citrus～柑橘味香氣～) |
 | tsubasa reservoir chronicle | 翼·年代记 | 《翼·年代记》（日语：ツバサ-RESERVoir CHRoNiCLE-）是日本漫画家团队`clamp`所创作的少年漫画作品，与《`xxxholic`》的故事有交叉关系，并同时进行，以历险为主题。于《周刊少年Magazine》2003年25号到2009年45号期间进行连载。单行本全28卷。<br>![cover](https://upload.wikimedia.org/wikipedia/zh/3/3d/TSUBASA_RESERVoir_CHRoNiCLE_1.jpg) | [维基百科](https://zh.wikipedia.org/wiki/TSUBASA翼) |
@@ -1707,7 +1707,7 @@ example:
 | acchi kocchi | 一起一起这里那里 |  | [维基百科](https://zh.wikipedia.org/zh-cn/一起一起這裡那裡) |
 | adachi to shimamura | 安达与岛村 |  | [维基百科](https://zh.wikipedia.org/zh-cn/安達與島村) |
 | adventures of the gummi bears | 妙妙熊历险记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/妙妙熊歷險記) |
-| agarest senki | 亚迦雷斯特战记 |  | [维基百科](https://zh.wikipedia.org/zh-cn/亞迦雷斯特戰記) |
+| agarest senki | 亚迦雷斯特战记 | **亚迦雷斯特战记**（日语：アガレスト戦記，英语：*Record of Agarest War*）是先由日本的游戏公司IDEA FACTORY和RED ENTERTAINMENT所开发，后由COMPILE HEART所贩售的奇幻角色扮演游戏。先于2007年9月27日发行PlayStation 3的电视游戏版本，后于2008年11月27日发行Xbox 360的电视游戏版本。在2013年10月3日，由Steam代理移植，发行电脑游戏版本。 | [维基百科](https://zh.wikipedia.org/zh-cn/亞迦雷斯特戰記) |
 | ai no senshi rainbowman | 彩虹化身侠 |  | [维基百科](https://zh.wikipedia.org/zh-cn/彩虹化身侠) |
 | ai shimai | 爱姐妹 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/愛姉妹) [维基百科](https://zh.wikipedia.org/zh-cn/愛姊妹_二人的果實) |
 | ai yori aoshi | 青出于蓝 |  | [维基百科](https://zh.wikipedia.org/zh-cn/青出於藍%20%28漫畫%29) |
@@ -2157,6 +2157,28 @@ example:
 | sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 |  | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
 | sengoku bushouki muramasa | 战国武将姬 | 戦国武将姫-MURAMASA- |  |
 | idola phantasy star saga | 梦幻之星·伊多拉传说 | 梦幻之星：伊多拉传说是为了纪念知名角色扮演游戏《`p:phantasy star`》30周年推出的系列最新作。于2018年11月27日上线，2022 年 1 月 12 日停服。<br><br>![](https://p2.bahamut.com.tw/B/2KU/74/3f2df37e33381a664843e1a7ff11nay5.JPG) |  |
+| golden time | 青春纪行 | 《青春纪行》（又译：金色时光，日文：ゴールデンタイム）是由竹宫悠由子创作、驹都英二负责插画的一部轻小说，并有漫画、广播剧、动画和游戏等衍生作品。此作品是竹宫悠由子继《`p:toradora`》后的又一长篇小说。 | [维基百科](https://zh.wikipedia.org/zh/青春紀行) [萌娘百科](https://zh.moegirl.org.cn/青春纪行) |
+| honkai star rail | 崩坏：星穹铁道 | 《崩坏：星穹铁道》是米哈游创作的回合制角色扮演游戏，崩坏系列的新作。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=479915) |
+| tongari boushi no atelier | 尖帽子的魔法工坊 | 生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇弗利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇弗利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。 | [萌娘百科](https://zh.moegirl.org.cn/尖帽子的魔法工坊) [维基百科](https://zh.wikipedia.org/zh/魔法帽的工作室) |
+| sankarea | 散华礼弥 |  |  |
+| princess resurrection | 怪物王女 |  |  |
+| world flipper | 世界弹射物语 |  | [萌娘百科](https://zh.moegirl.org.cn/世界弹射物语) |
+| kikai sentai zenkaiger | 机界战队全开者 | 《机界战队全开者》（原题：機界戦隊ゼンカイジャー）是日本东映公司在2021年推出的《超级战队系列》第45部特摄作品，于2021年（令和3年）3月7日起至2022年（令和4年）2月27日每周日早上09:30-10:00在朝日电视台播出，全49集。 | [维基百科](https://zh.wikipedia.org/zh/機界戰隊全開者) |
+| ng knight lamune and 40 | VS骑士 | 《VS骑士40炎》（日语：VS騎士ラムネ&40炎）是一套由1996年4月至1996年9月间，开始在日本播放的动画。 | [维基百科](https://zh.wikipedia.org/wiki/VS騎士檸檬汽水%2640炎) |
+| midnight girls | Midnight Girls R | 让我们被充满个性的怪物们恶作剧并被宠爱吧！一个与环绕你的怪物女孩、天使和堕天使展开的浓厚王道 (?) RPG故事！无论是闹剧般的冒险故事，围绕冲突的严肃故事，还是超色情的情节，你都可以全面享受♪ | [Twitter](https://twitter.com/midnight_girls_) [HP](https://games.dmm.co.jp/detail/midnightGirlsR) |
+| xenoblade chronicles 3 | 异度神剑3 | 《异度神剑3》（日语：ゼノブレイド3，英语：Xenoblade Chronicles 3）是Monolith Soft开发、任天堂发行的动作角色扮演游戏，于2022年7月29日在Nintendo Switch平台发售，支持简繁中文。<br><br>![](https://static.wikia.nocookie.net/xenoblade/images/d/d6/XC3_box_art.jpg) | [萌娘百科](https://zh.moegirl.org.cn/异度神剑3) [维基百科](https://zh.wikipedia.org/wiki/异度神剑3) |
+| hollow knight | 空洞骑士 |  |  |
+| koutetsu no majo annerose | 钢铁魔女安妮罗杰 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/鋼鉄の魔女アンネローゼ) [Bangumi](https://bgm.tv/subject/43301) |
+| wuqi mitu | 无期迷途 | 《无期迷途》（英语：Path to Nowhere）是由MBCC工作室研发，自意网络发行的以混沌都市为主题的RPG即时策略攻防手游。<br>![](https://img.moegirl.org.cn/common/9/96/无期迷途_logo.png) | [萌娘百科](https://zh.moegirl.org.cn/无期迷途) |
+| jigokuraku | 地獄樂 |  | [维基百科](https://zh.wikipedia.org/wiki/地獄樂) |
+| tokyo mirage sessions fe | 幻影异闻录♯FE | 幻影异闻录♯FE》（日语：幻影異聞録♯FE，英语：Tokyo Mirage Sessions ♯FE）是Atlus开发、任天堂发行的一款JRPG，于2015年12月26日在Wii U平台发售。移植版《幻影异闻录♯FE Encore》（日语：幻影異聞録♯FE Encore，英语：Tokyo Mirage Sessions ♯FE Encore）于2020年1月17日在Nintendo Switch平台发售，全区支持简繁中文。<br>![](https://img.moegirl.org.cn/common/7/7c/Wii_U_JP_-_Tokyo_Mirage_Sessions_♯FE.jpg) | [萌娘百科](https://zh.moegirl.org.cn/幻影异闻录FE) |
+| odin sphere | 奥丁领域 | 《奥丁领域》（オーディンスフィア；ODIN SPHERE）是香草社开发，由Atlus在2007年发行的2D横向卷轴动作角色扮演游戏。<br>![图](https://ehgt.org/16/75/1675e80ec8745feebbed8b09e60e615b01f7afeb-50171-280-398-jpg_l.jpg)<br>该游戏在2016年推出了HD重制版：《奥丁领域：里普特拉西尔》（オーディンスフィア レイヴスラシル；ODIN SPHERE LEIFTHRASIR）<br>![图](https://ehgt.org/9e/c9/9ec9b2198c418676ad9e19fba9de0faf38274c3d-39734-280-351-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/奥丁领域)，[游戏官网](https://asia.sega.com/osl/) |
+| ga geijutsuka art design class | GA 艺术科美术设计班 | **《GA 艺术科美术设计班》**（日语：GA 芸術科アートデザインクラス）是季游月聪子的四格漫画作品，以某高中美术班“GA”的一年级学生当中充满个性的五个女学生为中心，描写了她们点缀著各种美术知识的上课情况以及环绕着她们的热闹学校生活。<br><br>原作漫画在《COMICぎゅっと!》创刊时开始连载，至第三号废刊为止。后来在芳文社《Manga Time Kirara Carat》2005年8月号连载单篇短篇，并于同年11月号开始连载至2016年2月号（2015年12月）。上连载，已完结。<br><br>另外，也有在虎之穴（とらのあな）的店面发行的广告杂志《とらだよ。》以《GA材料放置场》（GA材置き場）的名义连载。<br><br>![](https://img.moegirl.org.cn/common/5/53/GA艺术科美术设计班.jpg) | [萌娘百科](https://zh.moegirl.org.cn/GA_艺术科美术设计班)<br>[维基百科（中文）](https://zh.wikipedia.org/zh-cn/GA_藝術科美術設計班) |
+| tower of fantasy | 幻塔 | 《幻塔》是由完美世界旗下Hotta Studio工作室开发的动作角色扮演游戏 |  |
+| ase to sekken | 汗皂交香 | 《汗水和皂香》（日语：あせとせっけん）是山田金铁所著的日本漫画，<br>原为2018年1月4日在《周刊D Morning》增刊号刊载的单篇漫画，获得好评后转为连载，<br>开始连载于《周刊D Morning》2018年第29号，其后剧情进入“同居篇”后改于《Morning》2019年第44号起继续连载，<br>于2021年第6号完结。截至2022年1月，漫画单行本累积发行逾440万本。<br>改编真人电视剧在2022年2月3日至3月31日于每日放送“电视剧特区”深夜时段播出，佐藤宽太、大原优乃双主演，共9集。 | [wiki](https://zh.wikipedia.org/zh-hans/汗水和皂香) |
+| idoly pride | 偶像荣耀 | IDOLY PRIDE（日语：アイドリープライド）是由CyberAgent旗下的QualiArts、MusicRay'n与Straight Edge合作的大型多媒体偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/zh/IDOLY_PRIDE) [维基百科](https://zh.wikipedia.org/zh/偶像荣耀) |
+| nu carnival | 新世界狂欢 |  | [萌娘百科](https://zh.moegirl.org.cn/新世界狂欢) |
+| siren | 死魂曲 | 《死魂曲》（日版名：SIREN，欧版名：Forbidden Siren，又译作“尸人”）为索尼电脑娱乐开发贩售的PlayStation 2专用恐怖游戏。 | [维基百科](https://zh.wikipedia.org/zh/死魂曲) [萌娘百科](https://zh.moegirl.org.cn/死魂曲%28初代%29) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

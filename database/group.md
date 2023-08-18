@@ -2272,7 +2272,7 @@ example:
 | ringo no naru ki | 林檎のなる木 |  |  |
 | traya | TraYA |  | [pixiv](https://www.pixiv.net/users/28197354) [Twitter](https://twitter.com/doujintraya) |
 | kuzuya | 屑屋 |  |  |
-| momojiru teien | 桃汁庭園 |  |  |
+| momojiru teien | 桃汁庭园 | 画师`momokumo`所属社团 |  |
 | tamatamasanmyaku | たまたま山脈 |  |  |
 | harthnir | HarthNir | ハースニール<br>`misakura nankotsu` | [HP](http://www.harthnir.com/) |
 | yoru no hitsuji | 夜のひつじ |  |  |
@@ -8069,7 +8069,7 @@ example:
 | moorusu | モール巣 |  |  |
 | mopuo oyakata | もぷお親方 |  |  |
 | mor | MOR |  |  |
-| moradolog | モラードログ |  |  |
+| moladolog | モラードログ |  |  |
 | morgue | morgue |  |  |
 | mori no kumasan yuugekitai | 森のくまさん遊撃隊 |  |  |
 | mori no mushi | 森の蟲 |  |  |
@@ -11186,7 +11186,6 @@ example:
 | team.mk | Team.MK |  |  |
 | teamjoker | TeamJOKER |  |  |
 | teamtgs | teamTGs |  |  |
-| tearontaron | てぃーろんたろん |  |  |
 | tecchitecchi | テッチテッチ |  |  |
 | technibuster | TECHNIBUSTER |  |  |
 | techno break izonshou | テクノブレイク依存症 |  |  |
@@ -11482,7 +11481,7 @@ example:
 | touchable | TOUCHABLE |  |  |
 | touchin hanten | 東珍飯店 |  |  |
 | toudori no su | トウドリの巣 |  |  |
-| touenketsu | 桃園結 |  |  |
+| touenketsu | 桃园结 |  |  |
 | toufuya | 燈風屋 |  |  |
 | tougall kai | 東ガル会 |  |  |
 | touge mine | 峠峰 |  |  |
@@ -12589,6 +12588,34 @@ example:
 | yakitori teishoku | 焼きトリ定食 |  |  |
 | dakkoku kidoutai s.a.c | 脱壳机动队 S.A.C |  |  |
 | mitsumitsuniku | ミツミツにく |  |  |
+| akirerushoujo | アキレルショウジョ |  |  |
+| fuzume | ふずめ |  |  |
+| hitakamoya | ひたかもや |  |  |
+| kasokuiki | 過疎区域 |  | [Twitter](https://twitter.com/in_ksk) |
+| khaos distance | カオス距離 |  |  |
+| tohosanhun | 徒歩三分 | 茶户老师的R18用马甲 | [Twitter](https://twitter.com/tohosanhun)<br>[Twitter](https://twitter.com/tohoni) （本体） |
+| morunchi | モルチ |  |  |
+| gutsutoma | ぐつとま |  |  |
+| kaiten paradogs | 回転ParaDOGs |  |  |
+| umi no sachi teishoku | 海の幸定食 |  |  |
+| tennensuidousui | 天然水道水 |  |  |
+| sorairo koubou | 空色工房 |  |  |
+| kakuran operetta | 攪乱オペレッタ |  |  |
+| hikoushiki | 飞行式 | 画师`cowbow`所属社团 |  |
+| toyoko daisyouten | 东横大赏典 | 漫画家`yamada kintetsu`所属社团 |  |
+| maimu maimu | まいむ～まいむ | 画师`kudou maimu`所属社团 |  |
+| yakimeshi modoki | やきめしもどき |  |  |
+| nananto | ななんと |  |  |
+| gogatsu souzaiten | 五月惣菜店 |  |  |
+| syunichi kansuu | しゅにち関数 | null | [fantia](https://www.bing.com/ck/a?!&&p=0a8f60b155e35917JmltdHM9MTY5MTc5ODQwMCZpZ3VpZD0xMWJkYThiZi0yZWQ1LTY2YmUtM2M5My1iYmZkMmYwYzY3NTkmaW5zaWQ9NTE5NA&ptn=3&hsh=3&fclid=11bda8bf-2ed5-66be-3c93-bbfd2f0c6759&psq=しゅにち関数&u=a1aHR0cHM6Ly9mYW50aWEuanAvZmFuY2x1YnMvNTg1Mg&ntb=1) |
+| edamametei | えだまめ亭 |  | [melonbooks](https://www.melonbooks.co.jp/circle/index.php?circle_id=116382) |
+| texteater | Texteater |  |  |
+| evolment tycoon | EVOLMENT TYCOON |  |  |
+| utsusumi onsen | うつすみおんせん |  |  |
+| dorayakiya | どらやきや |  |  |
+| kazumiya | かずみ屋 |  |  |
+| high land | HIGH:LAND |  |  |
+| shibasaki shouji | 柴崎障子 |  |  |
 
 <!--TEMPLATE: 
 |  |  |  |  |
