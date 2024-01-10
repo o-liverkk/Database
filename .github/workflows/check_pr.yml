@@ -7,14 +7,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Download tool
         run: ./scripts/init.sh
 
       - name: Build
         run: node --enable-source-maps tool create-release --strict . ./publish
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: database
           path: |

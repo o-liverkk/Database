@@ -45,9 +45,9 @@
   ![UWP][plat-uwp] ![GitHub Release Date](https://img.shields.io/github/release-date/OpportunityLiu/E-Viewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   An UWP Client for <https://e-hentai.org>.
 
-- [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
-  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  EhViewer overhauled with Material Design 3 and more.
+- [EhViewer-Overhauled（仅维护）](https://github.com/FooIbar/EhViewer)（[EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer) 停更后的仅维护版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/FooIbar/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  The project is in maintenance mode, will only receive bugfixes.
 
 - [EhViewer-NekoInverter](https://github.com/EhViewer-NekoInverter/EhViewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/EhViewer-NekoInverter/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
@@ -65,10 +65,6 @@
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
 
-- [FEhViewer](https://github.com/honjow/FEhViewer)  
-  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/honjow/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  一个由 Flutter 编写的阅读器，支持直连。
-
 - [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
   ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
@@ -76,6 +72,14 @@
 - [JHenTai](https://github.com/jiangtian616/JHenTai)  
   ![iOS][plat-ios] ![Android][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/jiangtian616/JHenTai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   使用 Flutter 开发的多端 App，现支持安卓、苹果和 Windows 系统。
+
+- [EhDatabase2Dictionary](https://github.com/HeavySnowJakarta/EhDatabase2Dictionary)  
+  ![Python][plat-python] ![GitHub Release Date](https://img.shields.io/github/release-date/HeavySnowJakarta/EhDatabase2Dictionary?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  将 EhTagTranslation 项目的成果转换为 MDict 等各种格式的词典。
+  
+- [FEhViewer](https://github.com/3003h/FEhViewer)  
+  ![iOS][plat-ios] ![Adnroid][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/3003h/FEhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  一个由 Flutter 编写的阅读器，支持直连。
 
 <details>
 
@@ -105,6 +109,11 @@
 - [@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
  ![Android][plat-android]  
  An E-Hentai Application for Android.
+
+- [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  EhViewer overhauled with Material Design 3 and more.
+  
 </details>
 
 ## 开发指南
@@ -122,6 +131,7 @@
 [plat-android]: https://img.shields.io/badge/Android-brightgreen.svg?logo=android&logoColor=fff
 [plat-windows]: https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=fff&color=0078D6
 [plat-macos]: https://img.shields.io/badge/macOS-lightgrey.svg?logo=apple&logoColor=fff&color=666
+[plat-python]: https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat
 
 ## 状态
 

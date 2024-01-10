@@ -58,12 +58,12 @@ example:
 | ro-kyu-bu | 萝球社🏀 | ![萝球社](https://img.moegirl.org.cn/common/c/c1/Roukyubu.jpg) |  |
 | tantei opera milky holmes | 侦探歌剧 少女福尔摩斯🔎 | ![图](https://ehgt.org/95/45/954509571d3913422d1cdaeb662451000097e84f-2472678-2150-3035-jpg_l.jpg) |  |
 | hyperdimension neptunia | 超次元游戏：海王星🎮 | ![图](https://ehgt.org/06/46/064644a6b7382cde25d5801dd47d8f0d5de35e96-3101024-4860-6960-jpg_l.jpg)![图](https://ehgt.org/4f/e4/4fe4d66ffc9119da5ebd8814e82f8a08a86f66f2-2552947-4931-5905-jpg_l.jpg)![图](https://ehgt.org/d5/3b/d53bbf72dc855dab8f5d00b23c8f10bbd44000a3-455013-1920-1200-jpg_l.jpg) |  |
-| love live | ![拉拉图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/love%20live.webp)LoveLive! | LoveLive!（日语：ラブライブ！），全称LoveLive! School idol project，是由日本动画公司Sunrise、唱片公司Lantis，以及ACG月刊杂志电击G’s magazine在2010年共同合作推出的读者参与型混合媒体（MediaMix）校园偶像企划，企划包括音乐作品、电视和广播节目、文字书籍、 漫画插画 、动画 、游戏、周边等。 作品的口号是大家一起实现梦想的故事（日语：みんなで叶える物語）。<br>![封面](https://tva1.sinaimg.cn/large/6c84b2d6jw1f3xojafj6kj206y09ijsr.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LoveLive!) (\*\*) |
+| love live | ![拉拉图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/love%20live.webp)LoveLive! | LoveLive!（日语：ラブライブ！），全称LoveLive! School idol project，是由日本动画公司Sunrise、唱片公司Lantis，以及ACG月刊杂志电击G’s magazine在2010年共同合作推出的读者参与型混合媒体（MediaMix）校园偶像企划，企划包括音乐作品、电视和广播节目、文字书籍、 漫画插画 、动画 、游戏、周边等。 作品的口号是大家一起实现梦想的故事。<br>![封面](https://p.sda1.dev/14/9bc4ef9b0868b058a0f85c0f119910c5/image.png) | [萌娘百科](https://zh.moegirl.org.cn/LoveLive!) (\*\*) |
 | love live sunshine | ![LL](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)Love Live! Sunshine!! | 《LoveLive!Sunshine!!》（日语：ラブライブ！サンシャイン!!）是由 ASCII MEDIA WORKS、Lantis、Sunrise联合制作的跨媒体企划，于2015年正式发布。系列企划以日本静冈县沼津市的女子高中浦之星女子学院为舞台，讲述9位性格鲜明的少女为阻止废校，也为了实现自身的闪耀，结成校园偶像团体Aqours，以LoveLive!全国大会第一名为目标勇往直前的故事。<br>![封面](https://tva1.sinaimg.cn/large/6c84b2d6gy1fdgu7kswlwj209q0ec0v9.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LoveLive!Sunshine!!) (\*\*) |
 | love live nijigasaki high school idol club | ![LL](https://tva1.sinaimg.cn/large/6c84b2d6gy1fehbbcc3d5g200j00c02p.gif)LoveLive!虹咲学园学园偶像同好会 | LoveLive!虹咲学园学园偶像同好会是LoveLive!学园偶像祭系列游戏中出现的新团体所在的企划。原名LoveLive! School idol festival PERFECT Dream Project，简称“LLSIFPDP”或“PDP”。该企划始于2017年，在LoveLive!学园偶像祭四周年之际，官方宣布PDP企划启动。但从2018年开始，官方已经很少使用PDP这个企划名，取而代之的是该企划推出的手游的名称“ラブライブ！スクールアイドルフェスティバルALL STARS”。<br>![封面](https://img.moegirl.org.cn/common/thumb/0/01/ラブライブ！虹ヶ咲学園スクールアイドル同好会.jpg/280px-ラブライブ！虹ヶ咲学園スクールアイドル同好会.jpg) | [萌娘百科](https://zh.moegirl.org.cn/LoveLive!虹咲学园学园偶像同好会) (\*\*) |
 | sora no otoshimono | 天降之物 | ![图](# "https://ehgt.org/2e/dc/2edc4ab58d33d6b0c0fa83df13f5ca371f6aaf72-5981900-1410-2000-png_l.jpg") |  |
 | boku wa tomodachi ga sukunai | 我的朋友很少 | ![友少](https://ehgt.org/5a/53/5a53888ed5043aa5fe693f05f23e6977531baeb3-367327-588-860-jpg_l.jpg) |  |
-| vocaloid | ![V家图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/vocaloid.webp)VOCALOID | ![图](https://ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) |  |
+| vocaloid | ![V家图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/vocaloid.webp)VOCALOID | VOCALOID（V家）是日本YAMAHA公司自主开发的一款电子歌声合成软件，输入音调和歌词，就可以合成贴近人类声音的歌声。截止2022年12月，该程序分为VOCALOID（V1）、VOCALOID 2、VOCALOID 3、VOCALOID 4、VOCALOID 5、VOCALOID 6（VOCALOID：AI）共六代，通过采集不同人类的声音标本，然后再制作歌声资料库（音源/声库），从而合成声音。<br><br>![图](https://ehgt.org/37/0a/370a67630417b6c1681f79f700a678a38fa120e8-253725-984-1400-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/VOCALOID) [维基百科](https://zh.wikipedia.org/zh/VOCALOID) [HP](https://www.vocaloid.com/) |
 | voiceroid | VOICEROID | VOICEROID是AH-Software旗下的一款语音合成软件，音源多为VOCALOID角色。 | [萌娘百科](https://zh.moegirl.org.cn/zh/VOICEROID) [维基百科](https://zh.wikipedia.org/wiki/Voiceroid) [hp](https://www.ah-soft.com/voiceroid/) |
 | date a live | 约会大作战 | 让我点点名，一二三四五六七八九十，凑齐了，会不会有十一啊<br>![约炮大作战](https://img.moegirl.org.cn/common/0/07/Date_A_Live_Mayuri_BD_DVD1.jpg) |  |
 | the idolmaster | ![偶像大师图标](https://raw.githubusercontent.com/wiki/EhTagTranslation/Database/database-icon/idolmaster.webp)偶像大师 | ![LOGO](https://idolmaster-official.jp/assets/img/logo.png)<br>**官网贺图**<br><br>由南梦宫及之后的万代南梦宫所创的电子游戏系列，作品主要结合了养成模拟和节奏游戏元素。<br>玩家多扮演制作人，带领艺人事务所偶像走向成名之路。自2005年首部作品在街机推出以来，<br>系列已有包括社交游戏在内的多款游戏。 | [萌娘百科](https://zh.moegirl.org.cn/偶像大师系列) [中文维基](https://zh.wikipedia.org/wiki/偶像大师系列) [HP](https://idolmaster-official.jp/) |
@@ -154,21 +154,21 @@ example:
 | mahou shoujo lyrical nanoha | 魔法少女奈叶 | ![图](# "https://ehgt.org/b5/0b/b50b1a2d8a7443f70f56441d2db45ce4c6ad7ee5-8618925-2104-3000-png_l.jpg")![图](# "https://ehgt.org/a0/b6/a0b6ef89c8aa99b60e9b9cc4d05073ecde8c3c32-303480-1161-1649-jpg_l.jpg") |  |
 | rosario vampire | 十字架与吸血鬼 | 漫画，不了解<br>![图](# "https://ehgt.org/97/ac/97ac8a9ab8bcf27c7a09ca6eee1c335bc81ba152-330768-607-850-jpg_l.jpg")![图](# "https://ehgt.org/eb/f5/ebf5c1def8cc83506b28dc3244b6189e4aff0519-379951-1072-1500-jpg_l.jpg") |  |
 |  | ▼ 光美大军 |  |  |
-| pretty cure | 光之美少女 | 光之美少女系列的统称<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
+| pretty cure | 光之美少女 | 《光之美少女》系列（日语：プリキュアシリーズ，简称プリキュア）是由日本的朝日放送、东映动画（HDTV）和ADK共同制作的幼女向变身魔法少女动画系列，从2004年开始放送，并有漫画、游戏等衍生作品。<br>该系列面向的年龄层主要为幼女到初中女生，人称“国民级幼女番”。虽然是幼女向的魔法少女主题动画，却以独特的肉搏风格战斗著称，因此也吸引了一些青少年及以上观众的喜爱。<br>和同为东映旗下的特摄《超级战队系列》和《假面骑士系列》并称“东映御三家”，且这三大系列在周日的播放时段正好紧挨着，除此之外三大系列时常也会互相联动。<br>2018年2月1日，日本纪念日协会将2月1日（系列第一作的开播日期）定为“光之美少女日”。 | [HP](https://anime-precure.com/) |
 | futari wa pretty cure | 光之美少女 | 《光之美少女系列》的第一作，属第一代光之美少女。 | [维基百科](https://zh.wikipedia.org/wiki/光之美少女) [萌娘百科](https://zh.moegirl.org.cn/光之美少女系列) |
-| futari wa precure splash star | 光之美少女Splash Star | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| yes precure 5 | Yes! 光之美少女5 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| fresh precure | Fresh 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| heartcatch precure | Heartcatch 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| suite precure | Suite 光之美少女♪ | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| smile precure | Smile 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| dokidoki precure | 心跳！光之美少女 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| happinesscharge precure | Happiness Charge 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| go princess precure | Go! Princess 光之美少女 | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| maho girls precure | 魔法使 光之美少女! | 这系列太多了，我没看过根本不认识，随便搞个封面看吧<br>![图](# "https://ehgt.org/7e/43/7e43f3e048e52aa1c31986b187b18275040848b2-1114431-1076-1518-jpg_l.jpg")![图](https://ehgt.org/8f/cc/8fccf8dccfaafad7db6e1c3895534cdcd7f4df13-8217355-2132-2999-png_l.jpg) |  |
-| kirakira precure a la mode | KiraKira☆光之美少女A La Mode | 《KIRAKIRA☆光之美少女 A LA MODE》（日语：キラキラ☆プリキュアアラモード）是由东映动画制作的《光之美少女系列》动画第十二代作品，于2017年2月5日－2018年1月28日在日本播映。<br>![](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [萌娘百科](https://zh.moegirl.org.cn/KIRAKIRA_光之美少女_A_LA_MODE) |
-| hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと!プリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/HUG！光之美少女) (\*) |
-| star twinkle precure | Star☆Twinkle光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [维基百科](https://zh.wikipedia.org/wiki/Star☆Twinkle_光之美少女) (\*) |
+| futari wa precure splash star | 光之美少女 Splash Star | 《光之美少女 Splash Star》（ふたりはプリキュアSplash Star）是由东映动画所制作的动画作品，<br>为“光之美少女系列”的第三作，属第二代光之美少女。于2006年2月5日起在—2007年1月28日朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/precure_SS/) |
+| yes precure 5 | Yes! 光之美少女5 | 《Yes! 光之美少女5》（Yes! プリキュア5）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>“光之美少女系列”的第四作，属第三代光之美少女。2007年2月4日播出。 | [HP](https://www.toei-anim.co.jp/tv/yes_precure5/) |
+| fresh precure | 光之美少女：幸福精灵 | 《光之美少女：幸福精灵》（フレッシュプリキュア！）是由东堂泉（东堂いづみ）所创作的魔法少女动画作品，<br>“光之美少女系列”的第六作，属第四代光之美少女。于2009年2月起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/fresh_precure/) |
+| heartcatch precure | 光之美少女：甜蜜天使！ | 《光之美少女：甜蜜天使！》（ハートキャッチプリキュア！），是由东堂泉所创作的魔法少女动画作品，<br>为“光之美少女系列”的第七作，属第五代光之美少女。于2010年2月7日起于ABC、朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/hc_precure/) |
+| suite precure | 光之美少女：美乐天使 | 《光之美少女：美乐天使》（スイートプリキュア♪）是由东堂泉所制作的魔法少女动画作品，<br>“光之美少女系列”的第八作，属第六代光之美少女。于2011年2月6日开始于朝日电视台播出。 | [HP](https://www.toei-anim.co.jp/tv/suite_precure/) |
+| smile precure | Smile 光之美少女！ | 《Smile 光之美少女！》（スマイルプリキュア！），是由东映动画所制作的魔法少女动画作品，<br>“光之美少女系列”第九作，属第七代光之美少女，于2012年2月5日在朝日电视系播出。 | [HP](https://www.toei-anim.co.jp/tv/smile_precure/) |
+| dokidoki precure | 心跳！光之美少女 | 《心跳！光之美少女》（ドキドキ！プリキュア）是由东堂泉所创作的魔法少女动画作品、<br>“光之美少女系列”第十作，属第八代光之美少女，2013年2月3日开始在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/dokidoki_precure/) |
+| happinesscharge precure | 幸福爆发 光之美少女！ | 《幸福爆发 光之美少女！》（ハピネスチャージプリキュア！）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”十周年之作，为第十一套作品，属第九代光之美少女。 | [HP](https://www.toei-anim.co.jp/tv/happinesscharge_precure/) |
+| go princess precure | Go! 公主 光之美少女 | 《Go! 公主 光之美少女》（Go！プリンセスプリキュア）是由东堂泉所创作的魔法少女动画作品，<br>“光之美少女系列”第十二作，属第十代光之美少女。2015年2月1日在朝日电视台和朝日放送播放。 | [HP](https://www.toei-anim.co.jp/tv/princess_precure/) |
+| maho girls precure | 魔法使 光之美少女！ | 《魔法使 光之美少女！》（日语：魔法つかいプリキュア！）是东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十三作，属第十一代光之美少女。2016年2月7日在朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/mahotsukai_precure/) |
+| kirakira precure a la mode | 光之美少女：食尚甜心 | 《光之美少女：食尚甜心》（日语：キラキラ☆プリキュアアラモード）是由东堂泉制作的魔法少女动画作品，<br>“光之美少女系列”第十四作，属第十二代光之美少女。2017年2月5日于朝日放送和朝日电视台播放。<br><br>![动画海报](https://img.moegirl.org.cn/common/3/39/Precure_Alamode.png) | [HP](https://www.toei-anim.co.jp/tv/precure_alamode/) |
+| hugtto precure | 拥抱！光之美少女 | 《拥抱！光之美少女》（日语：HUGっと！プリキュア）是由东堂泉制作的魔法少女动画，<br>“光之美少女系列”第十五作，第十三代光之美少女。2018年2月4日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/hugtto_precure/) |
+| star twinkle precure | 星光闪亮☆光之美少女 | 《Star☆Twinkle 光之美少女》（日语：スター☆トゥインクルプリキュア）是由东堂泉制作的魔法少女动画，<br>“光之美少女系列”第十六作，第十四代光之美少女。2019年2月3日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/startwinkle_precure/) |
 |  | ▲ 光美大军 |  |  |
 | jojos bizarre adventure | JOJO的奇妙冒险 | ![图](# "https://ehgt.org/04/f5/04f5e382da9646f8afe7a7ea0505ddec36729043-146518-620-886-jpg_l.jpg")![图](# "https://ehgt.org/50/c0/50c06d453269acad3a114494996f3a7870a6806c-1101519-933-1300-jpg_l.jpg") |  |
 | pangya | 魔法飞球 | 魔法飞球（PangYa、Albatross18）是韩国 Ntreev Soft开发，Hanbit Soft发行的幻想高尔夫网络游戏。<br>![图](https://ehgt.org/08/60/0860fced61fd99b468d02dc71651710be7e33f37-86194-546-741-jpg_l.jpg)![图](https://ehgt.org/30/72/3072a22023b9bd950aa554991183e52dda277be9-643208-1690-2403-jpg_l.jpg) |  |
@@ -376,7 +376,7 @@ example:
 | tonari no kaibutsu-kun | 邻座的怪同学 |  |  |
 | danganronpa | 弹丸论破 |  |  |
 | koutetsujou no kabaneri | 甲铁城的卡巴内利 |  |  |
-| yu-gi-oh | 游戏王 |  |  |
+| yu-gi-oh | 游戏王 | 日本漫画家高桥和希所创作的漫画，有动画、游戏等衍生作品。<br>![图](https://img.moegirl.org.cn/common/a/a2/游戏王1-6代主角同堂.png) |  |
 | yu-gi-oh 5ds | 游戏王5D's |  |  |
 | yu-gi-oh zexal | 游戏王ZEXAL |  |  |
 | yu-gi-oh arc-v | 游戏王ARC-V |  |  |
@@ -491,7 +491,7 @@ example:
 | onechambara bikini samurai squad | 忌血的继承者 |  |  |
 | samurai warriors | 战国无双 |  |  |
 | dynasty warriors | 真·三国无双 |  |  |
-| demons souls | 恶魔之魂 |  |  |
+| demons souls | 恶魔之魂 | 《恶魔之魂》（日语：デモンズソウル，英语：Demon's Souls）是一款由日本电子游戏公司From Software开发的PlayStation 3平台独占动作角色扮演游戏。2009年2月在日本地区由索尼电脑娱乐负责发行。这是第一款由游戏制作人宫崎英高主导开发的魂系列游戏。 | [维基百科](https://zh.wikipedia.org/zh/惡魔靈魂) |
 | seiken densetsu | 圣剑传说 |  |  |
 | seiken densetsu 3 | 圣剑传说3 |  |  |
 | kore wa zombie desu ka | 这个是僵尸吗？ |  |  |
@@ -558,7 +558,7 @@ example:
 | heroman | HEROMAN |  |  |
 | anyamaru tantei kiruminzoo | 动物侦探奇鲁米 |  |  |
 | kyoukai senjou no horizon | 境界线上的地平线 | 《境界线上的地平线》（境界線上のホライゾン、Horizon on the Middle of Nowhere）是由川上稔创作的日本的轻小说由电击文库（ASCII·MediaWorks）出版发行。现有动画、漫画、游戏等衍生作品。<br>![图](https://ehgt.org/60/6d/606d7b37976c84ddbb735c6c7913ccac59745083-251201-800-1129-jpg_l.jpg) | [萌娘百科](https://zh.moegirl.org.cn/境界线上的地平线) [维基百科](https://zh.wikipedia.org/zh/境界線上的地平線) |
-| rwby | RWBY |  |  |
+| rwby | RWBY | ![RWBY](https://upload.wikimedia.org/wikipedia/en/4/45/RWBY_Cover.jpg)<br>RWBY是一部受美国动漫影响的 3D 计算机动画网络系列，由 Monty Oum 为 Rooster Teeth 创作。<br>RWBY这个名字来源于四位主角的名字：Ruby Rose、Weiss Schnee、Blake Belladonna和Yang Xiao Long(杨小龙)，以及他们各自的主题颜色（红、白、黑、黄）。<br>故事发生在《遗迹》的虚构世界中，年轻人接受训练成为战士（“猎人”和“女猎人”），以保护他们的世界免受格林怪物的侵害。 | [维基百科](https://en.wikipedia.org/wiki/RWBY)<br>[官方推特](https://twitter.com/OfficialRWBY) |
 | lupin iii | 鲁邦三世 |  |  |
 | ensemble stars | 偶像梦幻祭 |  |  |
 | ajin | 亚人 |  |  |
@@ -773,7 +773,7 @@ example:
 | boruto | 博人传 |  |  |
 | kuromukuro | 黑骸 |  |  |
 | minecraft | 我的世界 | 《我的世界》（英语：Minecraft）是微软旗下Mojang Studios开发的沙盒游戏。游戏中，玩家可以在一个3D世界内与方块进行交互。游戏中的特色功能包括探索世界、采集资源、合成物品及生存冒险等。《我的世界》有多种模式：生存模式中玩家必须维持生命并采集资源以打造自己的世界；创造模式中玩家拥有无限的资源并可自由地创作建筑；而冒险模式中玩家可在其他玩家定制的地图中游玩。 | [官方网站](https://www.minecraft.net/zh-hans) [维基百科](https://zh.wikipedia.org/wiki/我的世界) [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki) |
-| world masterpiece theater | 世界名作剧场 |  |  |
+| world masterpiece theater | 世界名作剧场 | 《世界名作剧场》是[日本动画公司](https://zh.moegirl.org.cn/日本动画公司)所制作的日本电视动画系列，内容大多取材自世界各地的儿童文学/青少年文学名著。已有26部作品。首播时间横跨1975年至1997年，富士电视网每周日19:30～20:00首播；期间大约每年一部。<br><br>2007年，日本动画公司决定重开《世界名作剧场》，重开的第一部作品是改编自维克多·雨果名著《悲惨世界》的《悲惨世界 少女珂赛特》，最新的一部作品是于2009年播出的《你好安妮》，之后，《世界名作剧场》又处于中断状态。 | [萌娘百科](https://zh.moegirl.org.cn/世界名作剧场) |
 | the adventures of tom sawyer | 汤姆·索亚历险记 |  |  |
 | les miserables shoujo cosette | 悲惨世界 少女珂赛特 |  |  |
 | lucy of the southern rainbow | 南方彩虹的露西 |  |  |
@@ -948,7 +948,7 @@ example:
 | danny phantom | 幻影丹尼 |  |  |
 | the loud house | 喧闹一家亲 |  |  |
 | nodame cantabile | 交响情人梦 |  |  |
-| another | Another |  |  |
+| another | Another | 《Another》（简体中文译名《替身》）是绫辻行人创作的一部长篇推理小说。<br><br>故事讲述了夜见山镇的夜见山北中学的一个古老传说，据说二十六年前，该学校的三年三班有一位叫“misaki”的人气学生突然死亡，班上的老师和同学无法接受这个事实，众人决定到毕业之前仍想像「misaki」还活着般度过每一天。结果该做法从中召唤回了死者。此后诅咒开始了，三年三班成为了死者的还魂之所，每届三年三班都会莫名其妙多出一个“多余的人”，该“多余的人”是该班级曾经死掉的人，死亡降临到了班上的每一个人，而只有让死者“回归死亡”，才可以停止灾厄……<br><br>![](https://p.sda1.dev/13/f3ea3f239d44d1cc722dbad955f523e4/Another.webp) | [维基百科](https://zh.wikipedia.org/wiki/Another) [萌娘百科](https://zh.moegirl.org.cn/Another) |
 | valkyria chronicles | 战场女武神 |  |  |
 | princess lover | 公主恋人 |  |  |
 | witchblade | 魔女之刃 |  |  |
@@ -1045,7 +1045,7 @@ example:
 | battle spirits | 战斗之魂 |  |  |
 | galaxy express 999 | 银河铁道999 |  |  |
 | gaiking | 新大空魔龙 | 《新大空魔龙》，是从2005年11月12日到2006年9月24日在朝日电视播放的机器人动画。由东映动画制作。从2006年4月开始在BS朝日等播放。 |  |
-| girls frontline | 少女前线 |  |  |
+| girls frontline | 少女前线 | ![](https://ecmb.bdimg.com/tam-ogel/1672817902_-2101019789_200_200.png) | [官方网站](https://gfcn-mobile.sunborngame.com/) |
 | zettai karen children | 绝对可怜CHILDREN |  |  |
 | selector infected wixoss | 选择感染者WIXOSS |  |  |
 | chain chronicle | 锁链战记 | 《锁链战记》（日语：“チェインクロニクル”，简称“チェンクロ”；英语：“Chain Chronicle”；汉语也作“锁链编年史”、“锁链年代记”）为世嘉网络（SEGA Networks）于2013年针对智能手机市场所开发的道具收费式手机线上电子角色扮演游戏。该游戏在日本由世嘉运营；盛大网络取得该游戏的中国、台湾、香港、澳门及韩国这五个亚洲地区的代理权，并将台湾与港澳版本交予其子公司移动怪兽运营。 |  |
@@ -1056,7 +1056,7 @@ example:
 | medabots | 徽章战士 | 《徽章战士》是Imagineer推出的游戏，1997年由Imagineer和Natsume共同发布，并有漫画、动画和模型等衍生作品。漫画由掘摩麟绘画。 |  |
 | zettai junpaku mahou shoujo | 绝对纯白魔法少女 | 这部作品是由为「战场女武神」系列人设而闻名的同人画家RAITA绘制的漫画连载，内容上有类似「魔法少女小圆」的设定，情节上同样是以魔法少女为主题的系列作品。 |  |
 | namiuchigiwa no muromi-san | 人鱼又上钩 | 《人鱼又上钩》（日语：波打際のむろみさん，直译：岸边的室见小姐）是名岛启二的日本漫画作品。在讲谈社的《周刊少年Magazine》2009年第8号至第12号上短期集中连载，并于同年的第33号开始正式连载。至2014年2月止共出版10集。中文版由东立出版社代理发行。 |  |
-| kuttsukiboshi | 紧扣的星星 | 《くっつきぼし》是一部由石川直哉和PRIMSTEA制作的百合OVA动画，常见译名有“紧扣的星星”、“紧扣的拇指”、“星连星”等。 |  |
+| kuttsukiboshi | 紧扣的星星 | 《紧扣的星星》是一部两集的原创动画，完全由自由动画制作者石川直哉导演、编剧、作画。除音乐等委托他人制作，整部作品为石川直哉一个人作画。作画方式为，最初先在纸上用铅笔将人物画出来，然后用扫描仪扫进电脑，用anilapaint上色。用sai来绘制风景，最终的动画由adobe after effects完成。 | [萌娘百科](https://zh.moegirl.org.cn/紧扣的星星) |
 | maria-sama ga miteru | 圣母在上 | 《圣母在上》（日语：マリア様がみてる）是一部日本百合类的作品，由今野绪雪原作、响玲音（ひびき玲音）插画的恋爱小说。日本对此作品简称为“マリみて”。于1998年开始连载的圣母在上系列因出版之后大受好评，亦改编成漫画、动画和电影。 |  |
 | youkoso jitsuryoku shijou shugi no kyoushitsu e | 欢迎来到实力至上主义的教室 | 《欢迎来到实力至上主义的教室》（ようこそ実力至上主義の教室へ），是衣笠彰梧所作的日本轻小说作品，插图由知世俊作绘画，是由撰写恋爱冒险游戏《晓之护卫》、《REMINISCENCE》脚本的“衣笠彰梧”负责著作，并由同样担任《晓之护卫》、《REMINISCENCE》原画的知名绘师トモセシュンサク负责小说的插画绘制。 |  |
 | kakegurui | 狂赌之渊 | 《狂赌之渊》（日语：賭ケグルイ）是由河本ほむら原作、尚村透作画的一部漫画，并有动画等衍生作品。 |  |
@@ -1236,7 +1236,7 @@ example:
 | shakunetsu no takkyuu musume | 灼热的乒乓球娘 | 《灼热的乒乓球娘》（日语：灼熱の卓球娘）是日本漫画家朝野橹的漫画作品。在《JUMP SQ.19》（集英社）2014年1月号至2015年3月号连载后，由于该杂志的休刊而移转至《周刊YOUNG JUMP》的网络漫画发布站《隔壁的YOUNG JUMP》继续刊行。 | [维基百科](https://zh.wikipedia.org/zh-cn/灼熱的桌球娘) (\*) |
 | silver spoon | 银之匙 | 《银之匙 Silver Spoon》（日语：銀の匙 Silver Spoon）是荒川弘的日本漫画作品，于《周刊少年Sunday》连载。因作者家庭因素，自2016年10月开始无限期休载。2017年6月28日，《周刊少年Sunday》编辑部在官网发布预告，宣布本作将于7月5日发行的第32号刊恢复连载，刊载三话后再次宣布无限期休载。 | [维基百科](https://zh.wikipedia.org/zh-cn/银之匙_Silver_Spoon) (\*) |
 | imouto sae ireba ii. | 如果有妹妹就好了。 | 《如果有妹妹就好了。》（日语：妹さえいればいい。）是平坂读著作、カントク插画的日本轻小说作品。2016年1月决定制作广播剧CD，并于同年3月出版的第4集特装版发行。2017年4月宣布动画化，2017年10月8日于东京都会电视台首播。 | [维基百科](https://zh.wikipedia.org/zh-cn/如果有妹妹就好了。) (\*) |
-| bang dream | BanG Dream! | 《BanG Dream!》是以连载于《月刊武士道》的同名漫画作品为基础的日本跨媒体制作企划，该漫画由中村航原作、石田彩作画，并由ひと和负责人物设定，故事描述女高中生的乐队活动。各角色的声优则实际组成名为“Poppin'Party”“Roselia”“Afterglow”“Pastel＊Palettes”“Hello,Happy World!”等乐队并持续举办LIVE等活动。电视动画在2017年1月播放，OVA(第14话)则于同年8月于日本各电视台播放。 | [维基百科](https://zh.wikipedia.org/zh-cn/BanG_Dream!) (\*) |
+| bang dream | BanG Dream! | BanG Dream!（日语：BanG Dream!／バンドリ！）是以女子乐队为主题，由Bushiroad制作的跨媒体企划。企划讲述女子高中生的乐队活动，拥有多个女子乐队组合，并以电视动画、手机音乐游戏、漫画、轻小说、广播、声优参与的现实演唱会和舞台活动等形式展开。<br><br>![](https://img.moegirl.org.cn/common/0/04/Bangdreamgdp4th.jpg) | [维基百科](https://zh.wikipedia.org/zh-cn/BanG_Dream!) [萌娘百科](https://zh.moegirl.org.cn/BanG_Dream)! (\*\*) |
 | fantasy earth zero | 幻想大陆 | 《幻想大陆》（日语：ファンタジーアース ゼロ，英语：Fantasy Earth Zero，港台译作“幻想战记”）是一款大型多人线上角色扮演游戏。游戏动作因素强烈，并且加入了即时战略的要素而融合成独具一格的多人（最大50对50）国战系统，作为游戏的卖点。直到2013年4月的如今，北美、日本、中国大陆、台湾及香港都曾开设服务器，分别由不同的代理商代理运营。现在开发公司为FenixSoft，版权提供史克威尔艾尼克斯，企划史克威尔艾尼克斯第10开发部，原开发公司マルチターム。 | [维基百科](https://zh.wikipedia.org/zh-cn/幻想戰記) (\*) |
 | fantastic four | 神奇四侠 | 神奇四侠（英语：Fantastic Four）是漫威漫画旗下的超级英雄，由四名具有超能力的人组成。台湾在早期译为四异人。 | [维基百科](https://zh.wikipedia.org/zh-cn/神奇四侠) (\*) |
 | wonder woman | 神奇女侠 |  | [维基百科](https://zh.wikipedia.org/zh-cn/神奇女俠) |
@@ -1291,7 +1291,7 @@ example:
 | z slash x | Z/X |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/Z/X) |
 | shin angyo onshi | 新暗行御史 | 《新暗行御史》（日语：新暗行御史／しんあんぎょおんし Shin Angyo Onshi；韩文：신암행어사，罗马字：Sin amhaeng eosa；英语：Blade of the Phantom Master）是由韩国漫画原作者尹仁完编写、韩国漫画家梁庆一作画的一部青年漫画，在2001年至2007年于小学馆青年漫画杂志《月刊SUNDAY GENE-X》连载完毕。其内容均为虚构，但里面多有涉及朝鲜半岛的历史和传说。在日韩与华人区均有人气。标题中的“暗行御史”（韩文：암행어사）是朝鲜王朝实际存在的一个特别的官职。 | [维基百科](https://zh.wikipedia.org/zh-cn/新暗行御史) (\*) |
 | kouchuu ouja mushiking | 甲虫王者 | 《甲虫王者》是款日本电子游戏，后来被改编为电视动画《甲虫王者 森林居民的传说》（甲虫王者ムシキング 森の民の伝説）及剧场版二套。分别是《甲虫王者 迈向伟大的三冠王之路》（甲虫王者ムシキング グレイテストチャンピオンへの道）和《甲虫王者 〜暗黑改造甲虫〜》（甲虫王者ムシキング スーパーバトルムービー 〜闇の改造甲虫〜）。 | [维基百科](https://zh.wikipedia.org/zh-cn/甲蟲王者) (\*) |
-| darling in the franxx | DARLING in the FRANXX | 《DARLING in the FRANXX》也译作比翼之吻（日语：ダーリン・イン・ザ・フランキス）是由TRIGGER和A-1 Pictures共同制作的日本原创机器人动画作品，2018年1月13日起东京都会电视台首播。<br>![](https://pbs.twimg.com/media/D1hhojQUwAACT_R?format=jpg) | [维基百科](https://zh.wikipedia.org/zh-cn/DARLING_in_the_FRANXX) (\*) |
+| darling in the franxx | DARLING in the FRANXX | 《DARLING in the FRANXX》也译作比翼之吻（日语：ダーリン・イン・ザ・フランキス）是由TRIGGER和A-1 Pictures共同制作的日本原创机器人动画作品，2018年1月13日起东京都会电视台首播。<br>![](https://p.sda1.dev/13/58b1d48a8cd5e26873601b3a27601188/image.png) | [维基百科](https://zh.wikipedia.org/zh/DARLING_in_the_FRANXX) [萌娘百科](https://zh.moegirl.org.cn/DARLING_in_the_FRANXX) |
 | fairy fencer f | 妖精剑士f | 《妖精剑士f》（日语：フェアリーフェンサー エフ，英语：Fairy Fencer F）是Compile Heart旗下电子角色扮演游戏品牌“Galapagos”的第一款作品，最初于2013年发售。邪神设计由天野喜孝负责，女神设计由平野克幸负责，角色设计由つなこ负责。 | [维基百科](https://zh.wikipedia.org/zh-cn/妖精劍士f) (\*) |
 | honkai gakuen | 崩坏学园 | 《崩坏3》是中国大陆游戏开发商米哈游开发的的手机3D角色扮演动作游戏。崩坏学园系列的第3作，沿用了前作《崩坏学园2》角色。故事背景、剧情和世界观与《崩坏学园2》有所不同。讲述了女主角琪亚娜·卡斯兰娜和她的朋友们的冒险。为ACT类型游戏。 | [维基百科](https://zh.wikipedia.org/zh-cn/崩壞3rd) |
 | quiz magic academy | 问答魔法学院 | 《问答魔法学院》（日语：クイズマジックアカデミー，英语：QUIZ MAGIC ACADEMY；简称：QMA与マジアカ）是日本科乐美数位娱乐所开发的问答游戏街机游戏平台系列，以及依此改编的OVA以及漫画。 | [维基百科](https://zh.wikipedia.org/zh-hans/問答魔法學院) (\*) |
@@ -1323,7 +1323,7 @@ example:
 | last period | 最终休止符 -无止境的螺旋物语- | 《最终休止符 -无止境的螺旋物语-》（日语：ラストピリオド -終わりなき螺旋の物語-，英语：Last Period: The Story of an Endless Spiral）是Happy Elements开发的手机游戏，2016年5月公开。电视动画于2018年4月12日开始播出。 | [维基百科](https://zh.wikipedia.org/zh-cn/最終休止符_-無止境的螺旋物語-) (\*) |
 | stella glow | 星光幻歌 |  |  |
 | ryuuou no oshigoto | 龙王的工作！ | 《龙王的工作！》（日语：りゅうおうのおしごと!）是白鸟士郎撰写，しらび绘制插画的日本轻小说作品。由SB Creative的GA文库发行，已发售8册。漫画版为こげたおこげ作画。 | [维基百科](https://zh.wikipedia.org/zh-cn/龍王的工作！) (\*) |
-| uma musume pretty derby | 赛马娘Pretty Derby🐎 | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司`g:cygames`制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。 | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (\*) |
+| uma musume pretty derby | 赛马娘Pretty Derby🐎 | 《赛马娘Pretty Derby》（日语：ウマ娘 プリティーダービー），是由游戏开发公司`g:cygames`制作的以手机游戏为主导，包含动画、漫画和音乐的多媒体企划。<br>哔哩哔哩代理国内官方译名为闪耀！优俊少女<br>![](https://img.moegirl.org.cn/common/a/a0/Umamusume_logo2.png) | [维基百科](https://zh.wikipedia.org/zh-cn/賽馬娘Pretty_Derby) (\*)<br>[萌娘百科](https://zh.moegirl.org.cn/赛马娘_Pretty_Derby)<br>[国内哔哩哔哩代理官方网站](https://game.bilibili.com/pd/h5/)<br>[国内哔哩哔哩代理游戏中心](https://app.biligame.com/page/detail_share.html?id=107117) |
 | os-tan | OS娘 | OS娘（OSたん，亦有OS Girls、OS少女等称呼），为一个在日本讨论区双叶频道（Futaba Channel，ふたば☆ちゃんねる）的网络现象。OS娘是日本漫画爱好者对目前的电脑操作系统拟人化后的产物，其对象主要为Windows操作系统。每位OS娘的出场是众位漫画爱好者获得一致的想法创造出来的。 | [维基百科](https://zh.wikipedia.org/zh-cn/OS娘) (\*) |
 | sunohara-sou no kanrinin-san | 春原庄的管理员小姐 | 《春原庄的管理员小姐》（日语：すのはら荘の管理人さん）是由ねこうめ创作的日本四格漫画作品，自一迅社的漫画杂志《漫画4格Palette》2014年7月号开始连载。已发行3册单行本。2017年11月宣布电视动画化。 | [维基百科](https://zh.wikipedia.org/zh-cn/春原莊的管理員小姐) (\*) |
 | yotsubato | 四叶妹妹！ | 《四叶妹妹！》（日语：よつばと!）是东清彦的日本漫画作品，于2003年3月在漫画杂志《月刊Comic电击大王》上连载。到2018年4月28日为止，单行本目前发行了14本。台湾角川已出版13册。 | [维基百科](https://zh.wikipedia.org/zh-cn/四葉妹妹！) (\*) |
@@ -1335,7 +1335,7 @@ example:
 | sokkou seitokai | 速攻学生会 |  |  |
 | shantae | 桑塔 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Shantae) |
 | nekojishi | 家有大猫 |  |  |
-| tomo-chan wa onnanoko | 小智是女孩子 | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh-cn/小智是女孩子) (\*) |
+| tomo-chan wa onnanoko | 小智是女孩啦！ | 《小智是女孩子》（日语：トモちゃんは女の子!）是日本漫画家柳田史太所画的四格漫画。 | [维基百科](https://zh.wikipedia.org/zh/小智是女孩子) [萌娘百科](https://zh.moegirl.org.cn/智酱是女生！) |
 | strawberry panic | 惊爆草莓 | 《惊爆草莓》是日本电击G's杂志（MediaWorks）于2003年11月号开始的读者参与计划。动画版于2006年4月开始在日本地区播放（全26集）。 | [维基百科](https://zh.wikipedia.org/zh-cn/草莓危機) (\*) |
 | isekai izakaya nobu | 异世界居酒屋「阿信」 | 《异世界居酒屋「阿信」》（日语：異世界居酒屋「のぶ」）是由蝉川夏哉创作、転插画的一部轻小说，并有漫画、动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/异世界居酒屋阿信) (\*\*) |
 | alias carnival | ALIA's CARNIVAL! | 《ALIA's CARNIVAL!》是日本NanaWind在2014年3月28日发售的恋爱冒险类型成人游戏。2015年5月29日发售续作《ALIA's CARNIVAL! Flowering Sky》。2015年10月29日由dramatic create发售PlayStation Vita版《ALIA's CARNIVAL! サクラメント》。2016年5月27日发售合集《ALIA's CARNIVAL! Wパッケージ》。 | [维基百科](https://zh.wikipedia.org/zh-cn/ALIA%27s_CARNIVAL!) (\*) |
@@ -1541,7 +1541,7 @@ example:
 | twelve forever | 永远12岁 |  | [萌娘百科](https://zh.moegirl.org.cn/永远12岁) |
 | warriors orochi | 无双大蛇 |  |  |
 | little nightmares | 小小噩梦 |  |  |
-| healin good precure | Healin' Good ♥ 光之美少女 |  |  |
+| healin good precure | 元气魔法♡光之美少女 | 《元气魔法♡光之美少女》（日语：ヒーリングっど♡プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十七作，第十五代光之美少女。2020年2月2日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/healingood_precure/) |
 | uchi no maid ga uzasugiru | 我家的女仆有够烦！ |  |  |
 | flying witch | 飞翔的魔女 |  |  |
 | mushoku tensei | 无职转生 |  |  |
@@ -1550,7 +1550,7 @@ example:
 | iya na kao sare nagara opantsu misete moraitai | 很想被人用一脸嫌弃的眼神把胖次给我看 | 《很想被人用一脸嫌弃的眼神把胖次给我看》（日语：嫌な顔されながらおパンツ見せてもらいたい）是日本同人志社团“アニマルマシーン”的成员40原创作的同人志，以各式各样的女性摆出一脸嫌弃的样子露出内裤为主题。作品自2015年开始发行并陆续改编成网络动画、轻小说和写真集。 | [维基百科](https://zh.wikipedia.org/wiki/擺出討厭的表情露出內褲) |
 | wrestle angels | 摔角天使 |  |  |
 | nijisanji | ![icon](https://www.nijisanji.jp/favicon.ico)彩虹社 | にじさんじ，通称“彩虹社”，是日本いちから公司旗下的虚拟主播企划，成立于2018年2月8日，主要在YouTube、Mirrativ、OPENREC.tv、niconico等网站进行活动。 | [萌娘百科](https://zh.moegirl.org.cn/彩虹社)<br>[官方网站](https://www.nijisanji.jp/) |
-| blue archive | 蔚蓝档案 |  |  |
+| blue archive | 蔚蓝档案 | ![蔚蓝档案](https://upload.wikimedia.org/wikipedia/commons/8/88/Blue_Archive_CN.svg)<br>《蔚蓝档案Blue Archive》（国内常称“碧蓝档案”）是由Nexon Korea旗下子公司NAT Games开发，日本Yostar发行营运的一3D美少女RPG养成游戏。青春×学园×战斗。<br>作品以日式动画风格，描绘了一个未来学园都市般的故事舞台。玩家将作为”老师“，带领学生们解决在城市内发生的形形色色的事件。 | [gamekee百科](https://ba.gamekee.com/)<br>[wiki维基](https://zh.wikipedia.org/zh-hans/蔚藍檔案)<br>[萌娘百科](https://zh.moegirl.org.cn/zh-hans/蔚蓝档案) |
 | the legend of luo xiaohei | 罗小黑战记 | 《罗小黑战记》是木头（昵称MTJJ）及其工作室“寒木春华动画”制作的中/国网络动画、动画电影、番外漫画系列作品。<br>![罗小黑战记](https://upload.wikimedia.org/wikipedia/zh/f/f0/罗小黑战记_新版海报.png) |  |
 | sk8 the infinity | SK8 无限滑板 | 《SK8 the Infinity》（日语：SK∞ エスケーエイト，中文：SK8 无限滑板）是由日本动画公司BONES所制作的原创滑板题材电视动画。 | [官网地址](https://sk8-project.com/) |
 | beatmania | 狂热节拍 |  | [维基百科](https://zh.wikipedia.org/wiki/狂热节拍) |
@@ -1565,11 +1565,11 @@ example:
 | ssss.dynazenon | SSSS.电光机王 | 《SSSS.DYNAZENON》（日语：ダイナゼノン）是由TRIGGER制作的一部原创动画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/SSSS.DYNAZENON) |
 | yagate kimi ni naru | 终将成为你 |  |  |
 | maji de watashi ni koi shinasai | 请认真的和我恋爱 |  |  |
-| lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin](https://baike.baidu.com/item/罗德岛战记/84494?fr=aladdin) |
+| lodoss-tou senki | 罗德岛战记 | 《罗德斯岛战记》是1990年至1991年间由角川书店、丸红、东京放送、角川 Media Office所联合制作的动画，并在2006年推出复刻版DVD。<br>全篇共13集，其中前8集的内容取材自水野良《罗德岛战记》第一卷《灰色的魔女》，后5集取材自《罗德岛战记》第三卷《火龙山的魔龙》。<br>小说写于1988年。2013年日本地区发售25周年豪华纪念版。 | [百度百科](https://baike.baidu.com/item/罗德岛战记/84494) |
 | tantei wa mou shindeiru. | 侦探已死 | 《侦探已死》（日语：探偵はもう、死んでいる。，又译：《侦探已经，死了。》），是二语十所著的日本轻小说，由Umibouzu（うみぼうず）担任插画，2019年11月25日起由MF文库J开始出版。改编电视动画于2021年7月4日首播，由ENGI制作。 | [维基百科](https://zh.wikipedia.org/wiki/偵探已經，死了。) [萌娘百科](https://zh.moegirl.org.cn/侦探已经死了) |
 | the secret of kells | 凯尔经的秘密 | 《凯尔经的秘密》取材于爱尔兰基督教插图手抄本《凯尔经》，讲述了一位怀揣理想的少年克服重重困难绘制经书的故事。 |  |
 | anarchy reigns | 极度混乱 | 《极度混乱》（日版名：マックス アナーキー，Max Anarchy，英文版名：Anarchy Reigns）是白金工作室开发，世嘉所发行，以PlayStation 3及XBOX 360为平台的多人动作游戏，于2012年7月5日发行。《极度混乱》是白金工作室首度制作的在线多人联机游戏。 |  |
-| tropical-rouge precure | Tropical-Rouge！光之美少女 | 《Tropical-Rouge! 光之美少女》是由东映动画制作的系列电视动画作品《光之美少女》的第十八部系列作品，属第十六代光之美少女。 |  |
+| tropical-rouge precure | 热情闪耀！光之美少女 | 《热情闪耀！光之美少女》（トロピカル〜ジュ！プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十八作，第十六代光之美少女。2021年2月28日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/tropical-rouge_precure/) |
 | jujutsu kaisen | 咒术回战 |  | [萌娘百科](https://zh.moegirl.org.cn/咒术回战) |
 | shugo chara | 守护甜心 | 《守护甜心》（日语：しゅごキャラ！；英语：Shugo Chara）是由PEACH-PIT创作的一部少女向漫画，并有动画和游戏等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/守护甜心) |
 | manatsu no yo no inmu | 仲夏夜之淫梦 \| Cookie☆ | 仲夏夜之淫梦是2001年在COAT CORPORATION发售的GV。TDN前辈们的名字和名言「哼，哼，啊啊啊啊」被世界广泛传播的作品（主要在NicoNico动画上）<br>![图](https://upload.wikimedia.org/wikipedia/commons/e/e1/YJSNPI_Ascii_Art.svg)<br><br>Cookie☆是指、在NicoNico动画上以`touhou project`二次创作的配音短剧为素材制作的MAD作品的总称。Cookie☆短剧本为东方众合作制作的百合向东方二次创作，但因为[初代Cookie☆](https://www.nicovideo.jp/watch/sm9720246)声优们的棒读被淫梦众认为很象[仲夏夜之淫梦第二章](https://www.nicovideo.jp/watch/sm19823016?ref=thumb_nicopedia)的内容，导致视频被淫梦众所占领，大量淫梦语录充斥了视频。之后由Cookie☆衍生出来大量的东方三次创作。E站没有将原作中Cookie☆与淫梦分离开来有些遗憾，淫梦原作的作品不一定是Cookie☆原作。<br>![图](https://ehgt.org/7c/a4/7ca45377febdf8c8f6b965ecdf16dc543429c593-31368-512-384-jpg_l.jpg)<br>![图](https://ehgt.org/20/b8/20b80a428b96401d95cdf1cbad97602a4fb07c3c-76442-600-600-jpg_l.jpg) | [维基百科](https://zh.wikipedia.org/wiki/仲夏夜之淫梦)<br>[ニコニコ大百科 - 真夏の夜の淫夢🇯🇵](https://dic.nicovideo.jp/a/真夏の夜の淫夢)<br>[ニコニコ大百科 - クッキー☆](https://dic.nicovideo.jp/a/クッキー☆) |
@@ -1868,7 +1868,7 @@ example:
 | chalkzone | 粉笔世界 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/ChalkZone) |
 | chaos breaker | 混沌斩断 |  | [维基百科（日语）](https://ja.wikipedia.org/wiki/カオスブレイカー) |
 | chaos child | 混沌之子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/混沌之子) |
-| chaos head | CHAOS;HEAD |  | [维基百科](https://zh.wikipedia.org/zh-cn/CHAOS%3BHEAD) |
+| chaos head | 混沌之脑 |  | [维基百科](https://zh.wikipedia.org/zh-cn/CHAOS%3BHEAD) |
 | cheer danshi | 男子啦啦队！！ |  | [维基百科](https://zh.wikipedia.org/zh-cn/男子啦啦隊！！) |
 | chibi maruko-chan | 樱桃小丸子 |  | [维基百科](https://zh.wikipedia.org/zh-cn/櫻桃小丸子) |
 | chibi vampire | 增血鬼果林 |  | [维基百科](https://zh.wikipedia.org/zh-cn/增血鬼果林) |
@@ -2040,7 +2040,7 @@ example:
 | genjitsu shugi yuusha no oukoku saikenki | 现实主义勇者的王国重建记 |  | [维基百科](https://zh.wikipedia.org/wiki/現實主義勇者的王國重建記) |
 | zenless zone zero | 绝区零 |  |  |
 | mato seihei no slave | 魔都精兵的奴隶 | 《魔都精兵的奴隶》（日语：魔都精兵のスレイブ）是Takahiro负责原作，竹村洋平负责作画的日本漫画，由2019年1月5日起于少年Jump+连载至今，隔周星期六更新。改编电视动画将于2023年首播。 | [维基百科](https://zh.wikipedia.org/wiki/魔都精兵的奴隸) |
-| bocchi the rock | 孤独摇滚！ |  | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
+| bocchi the rock | 孤独摇滚！ | 《孤独摇滚！》（日语：ぼっち・ざ・ろっく！；英语：Bocchi the rock）是日本漫画家はまじあき创作的漫画作品，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/孤独摇滚！) |
 | scp foundation | SCP基金会 | SCP基金会是一个虚构的特工组织，作为同名互联网接龙小说创作项目中的主要要素。在该虚构宇宙中，SCP基金会是一个跨国秘密组织，负责搜寻并收容各种具有异常属性的个体、地点或物体（统称为“异常”），其宗旨为“控制”（Secure），“收容”（Contain），“保护”（Protect）。在现实世界中，SCP基金会是一个基于网站社区的协同写作小说项目，其文章包含多种类型的元素和风格，如科学幻想、都市奇幻和恐怖小说。 | [维基百科](https://zh.wikipedia.org/zh/SCP基金会) |
 | kinnikuman | 金肉人 |  | [维基百科](https://zh.wikipedia.org/wiki/金肉人) |
 | ever 17 | Ever17（时空轮回） | 《Ever17 —the out of infinity—》是由KID社制作的一部全年龄美少女游戏，是该公司无限轮回（Infinity）系列游戏中的第二部，同系列游戏还有《Never7》、《Remember11》、《Code18》。 | [萌娘百科](https://zh.moegirl.org.cn/zh/Ever17) [维基百科](https://zh.wikipedia.org/wiki/Ever17_-the_out_of_infinity-) |
@@ -2075,7 +2075,7 @@ example:
 | power pro kun pocket | 口袋力量棒球 |  | [百度百科](https://baike.baidu.com/item/口袋力量棒球9) [维基百科（英语）](https://en.wikipedia.org/wiki/Power_Pro_Kun_Pocket) |
 | anothereidos of dragon vein r | 龙脉·另一种姿态 | 《龙脉•另一种姿态》（日文：龍脈のアナザーエイドス，英文：Anothereidos of Dragon Vein）是Habbit开发的策略塔防游戏，于2021年10月30日首次公开，并于同年12月24日在PC、Android平台上发布。游戏分为全年龄版跟R版，二者的存档互通。 | [萌娘百科](https://zh.moegirl.org.cn/龙脉·另一种姿态) |
 | the saga of darren shan | 向达伦大冒险 | 《向达伦大冒险》（The Saga of Darren Shan）是爱尔兰作家向达伦的系列小说作品，全系列共有12本。小说描写主角向达伦在少年时期变成一个半吸血鬼，在吸血鬼世界的冒险故事。繁体中文版由皇冠出版社出版，已经于2005年4月发行完毕。 | [维基百科](https://zh.wikipedia.org/zh/向達倫大冒險) |
-| delicious party precure | 美味PARTY♡光之美少女 | 《美味PARTY♡光之美少女》（日语：デリシャスパーティ♡プリキュア）是由东映动画制作的《光之美少女系列》动画第十九代作品，于2022年2月6日在日本播映。为令和时代的第三部光之美少女系列作品，并重新恢复在2月第一个星期日开始播放的传统。 | [萌娘百科](https://zh.moegirl.org.cn/美味PARTY_光之美少女) [维基百科](https://zh.wikipedia.org/zh/Delicious_Party_♡_光之美少女) |
+| delicious party precure | 美味派对♡光之美少女 | 《Delicious Party ♡ 光之美少女》（日语：デリシャスパーティ♡プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第十九作，第十七代光之美少女。2022年2月6日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/delicious-party_precure/) |
 | ai the somnium files | AI：梦境档案 |  |  |
 | ku-neru maruta | 吃吃睡睡的玛璐塔 | 《玛塔小姐的饱食日记》（《吃吃睡睡的玛璐塔》）漫画 ，玛璐塔小姐是来自葡萄牙的一名贫穷吃货。一人住在筑龄七十年的公寓里，家中恩格尔系数高得离谱。红茶叉烧肉、鸡油炒饭、面包边单卷等等神奇的食物层出不穷。没钱也要吃得开心！深夜恐怖美食漫画，敬请期待！ | [维基百科（日语）](https://ja.wikipedia.org/wiki/くーねるまるた) [百度百科](https://baike.baidu.com/item/吃吃睡睡的玛璐塔) [Bangumi](https://bgm.tv/subject/77891) |
 | school shock | 雏蜂 | 《雏蜂》是中国漫画家孙恒（化名白猫sunny）创作的科幻战争向漫画，2009年9月15日开始连载。改编动画在2015年的7月23日开始在中国网络放送，并在2015年8月15日登陆日本，成为第一部由中国输入日本的动漫原创作品， | [维基百科](https://zh.wikipedia.org/zh/雛蜂) [萌娘百科](https://zh.moegirl.org.cn/雏蜂) |
@@ -2096,7 +2096,7 @@ example:
 | hajimete no oishasan | はじめてのおいしゃさん | `p:hajimete no orusuban`续集 | [https://vndb.org/v1619](https://vndb.org/v1619) [维基百科（日语）](https://ja.wikipedia.org/wiki/はじめてのおいしゃさん) |
 | hajimete no otetsudai | はじめてのおてつだい | 属于`p:hajimete no orusuban`系列 | [https://vndb.org/v1618](https://vndb.org/v1618) [Bangumi](https://bgm.tv/subject/88300) |
 | otonari no tenshi-sama ni itsunomanika dame ningen ni sareteita ken | 关于我在无意间被隔壁的天使变成废柴这件事 |  | [维基百科](https://zh.wikipedia.org/wiki/關於我在無意間被隔壁的天使變成廢柴這件事) [萌娘百科](https://zh.moegirl.org.cn/关于我在无意间被隔壁的天使变成废柴这件事) |
-| onii-chan wa oshimai | 别当欧尼酱了！ | 男主绪山真寻，一名沉迷工口游戏的自宅警备员，某天醒来发现自己成了实打实的美少女JC，原来是天才科学家兼妹妹绪山美波里把他作为了新药的小白鼠，下药、监视、控制一气呵成。<br>祥和的自宅日常被残酷破坏，真实男主，即使变性了也能开后宫，欢乐向王道性转故事就这样展开了...<br>![](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png) | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
+| onii-chan wa oshimai | 别当哥哥了！ | ![cover](https://img.moegirl.org.cn/common/2/28/别当欧尼酱了_同人本_二.png)<br><br>《别当欧尼酱了！》（日语：お兄ちゃんはおしまい！），简称《别酱了》（日语：おにまい），<br>是由日本漫画家猫豆腐创作的同人性转喜剧漫画。<br>作品最初在日本插画网站pixiv连载，后niconico静画也同步更新。<br>2018年1月27日作者自费出版本作的繁体中文电子版，并提供方便简体中文用户购买的方式。<br>作者曾经授权布卡漫画连载简体中文电子版，布卡漫画破产后改在bilibili漫画继续连载。<br>2018年6月27日起由一迅社进行商业化出版单行本。2019年6月号开始在《月刊ComicREX》连载。<br>截止2022年12月，商业版累计发行册数突破100万部。<br>改编电视动画于2023年1月5日开始播映，动画制作公司为Studio Bind。 | [萌娘百科](https://zh.moegirl.org.cn/别当欧尼酱了！) |
 | shiki | 尸鬼 |  |  |
 | shikabane hime | 尸姬 |  |  |
 | ayakashi triangle | 妖幻三重奏 | 《妖幻三重奏》（あやかしトライアングル），又译《妖三角》，是`yabuki kentarou`创作的性转题材漫画作品，已动画化。 | [萌娘百科](https://zh.moegirl.org.cn/_?curid=407996) |
@@ -2151,7 +2151,7 @@ example:
 | tensei shitara ken deshita | 转生就是剑 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/转生就是剑) [维基百科](https://zh.wikipedia.org/zh/轉生就是劍) |
 | juuou mujin no fafnir | 铳皇无尽的法夫纳 |  | [萌娘百科](https://zh.moegirl.org.cn/铳皇无尽的法夫纳) |
 | soukyuu no fafner | 苍穹之法芙娜 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/苍穹之法芙娜) |
-| heaven burns red | 绯染天空 | 红烧天堂 | [https://heaven-burns-red.com/](https://heaven-burns-red.com/)<br>[Twitter](https://twitter.com/intent/follow?screen_name=heavenburnsred)<br>[https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA](https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA)<br>[https://lin.ee/h0pDUps](https://lin.ee/h0pDUps)<br>[https://apps.apple.com/jp/app/id1576831351](https://apps.apple.com/jp/app/id1576831351)<br>[https://play.google.com/store/apps/details?id=com.heavenburnsred](https://play.google.com/store/apps/details?id=com.heavenburnsred)<br>[https://store.steampowered.com/app/1973710/\_/?utm\_source=website&utm\_medium=HP&utm\_campaign=steam](https://store.steampowered.com/app/1973710/_/?utm_source=website&utm_medium=HP&utm_campaign=steam)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[https://zh.m.wikipedia.org/wiki/緋染天空\_Heaven\_Burns\_Red](https://zh.m.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
+| heaven burns red | 绯染天空 | ![](https://heaven-burns-red.com/assets/images/common/img_appicon.png)<br>《绯染天空 Heaven Burns Red》（日语：ヘブンバーンズレッド）是由WFS和Key共同制作的手机游戏，2022年2月10日推出。这是麻枝准睽违15年有参与制作的新作游戏。广告标语是“忆深切恸（最上の、切なさを。）”。<br>备注：最初没有官方中文译名时有人机翻为天堂红烧，对调后为红烧天堂，至今仍有很多人使用该非官方译名。 | [官方网站](https://heaven-burns-red.com/)<br>[Twitter](https://twitter.com/intent/follow?screen_name=heavenburnsred)<br>[YouTube](https://www.youtube.com/channel/UCtJM9OX9cWtRRxQzgvcOccA)<br>[Line](https://lin.ee/h0pDUps)<br>[App Store](https://apps.apple.com/jp/app/id1576831351)<br>[Google Play Store](https://play.google.com/store/apps/details?id=com.heavenburnsred)<br>[Steam](https://store.steampowered.com/app/1973710/_/?utm_source=website&utm_medium=HP&utm_campaign=steam)<br>[萌娘百科](https://zh.moegirl.org.cn/绯染天空)<br>[维基百科](https://zh.m.wikipedia.org/wiki/緋染天空_Heaven_Burns_Red) |
 | fire emblem engage | 火焰之纹章 结合 | 火焰之纹章 结合（日语：ファイアーエムブレム エンゲージ，英语：Fire Emblem Engage）是Intelligent Systems开发、任天堂发行的策略角色扮演游戏，于2023年1月20日在Nintendo Switch平台发售。 | [萌娘百科](https://zh.moegirl.org.cn/zh/火焰之纹章_结合) |
 | watashi no yuri wa oshigoto desu | 我的百合乃工作是也！ |  | [萌娘百科](https://zh.moegirl.org.cn/zh/我的百合乃工作是也！) |
 | sekai saikou no ansatsusha isekai kizoku ni tensei suru | 世界顶尖的暗杀者转生为异世界贵族 |  | [萌娘百科](https://zh.moegirl.org.cn/世界顶尖的暗杀者转生为异世界贵族) |
@@ -2179,6 +2179,70 @@ example:
 | idoly pride | 偶像荣耀 | IDOLY PRIDE（日语：アイドリープライド）是由CyberAgent旗下的QualiArts、MusicRay'n与Straight Edge合作的大型多媒体偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/zh/IDOLY_PRIDE) [维基百科](https://zh.wikipedia.org/zh/偶像荣耀) |
 | nu carnival | 新世界狂欢 |  | [萌娘百科](https://zh.moegirl.org.cn/新世界狂欢) |
 | siren | 死魂曲 | 《死魂曲》（日版名：SIREN，欧版名：Forbidden Siren，又译作“尸人”）为索尼电脑娱乐开发贩售的PlayStation 2专用恐怖游戏。 | [维基百科](https://zh.wikipedia.org/zh/死魂曲) [萌娘百科](https://zh.moegirl.org.cn/死魂曲%28初代%29) |
+| lapis relights | 宝石幻想 光芒重现 |  | [萌娘百科](https://zh.moegirl.org.cn/zh/宝石幻想_光芒重现) [维基百科](https://zh.wikipedia.org/zh/Lapis_Re:Lights_～這個世界的偶像會用魔法～) |
+| franken fran | 疯狂怪医芙兰 | 疯狂怪医芙兰描写了人造少女芙兰运用她的医术帮助人们的故事。芙兰被设定为类似科学怪人那样的人造人。 | [萌娘百科](https://zh.moegirl.org.cn/疯狂怪医芙兰) [维基百科](https://zh.wikipedia.org/zh/瘋狂怪醫芙蘭) |
+| kaminaki sekai no kamisama katsudou | 无神世界中的神明活动 |  | [萌娘百科](https://zh.moegirl.org.cn/无神世界中的神明活动) [HP](https://kamikatsu-anime.jp/) [维基百科（日语）](https://ja.wikipedia.org/wiki/神無き世界のカミサマ活動) |
+| shoukan yuusha to f-kei kareshi | 召唤勇者与F系男友 | 『召唤勇者与F系男友』（しょうかんゆうしゃとえふけいかれし、The summoned Brave & Fantasic Boyfriends）是由LifeWonders合同会社于2014年开始提供的智能手机游戏应用程序。简称为『F彼』。 | [维基百科（日语）](https://ja.wikipedia.org/wiki/召喚勇者とF系彼氏) [pixiv](https://dic.pixiv.net/a/召喚勇者とF系彼氏) |
+| megami device | 女神装置 | 女神装置(メガミデバイス)是由日本寿屋玩具公司(KOTOBUKIYA)发行，结合机械与美少女的组装模型系列。 | [HP](https://www.megamidevice.com/) |
+| skip to loafer | 跳跃和乐福鞋 | 本作讲述了15岁的女高中生美津未从乡下到东京高中求学的校园生活故事。 | [萌娘百科](https://zh.moegirl.org.cn/跳跃和乐福鞋) [维基百科](https://zh.wikipedia.org/zh/躍動青春) |
+| astral chain | 异界锁链 | 《异界锁链》（日语：アストラルチェイン，英语：Astral Chain）是白金工作室开发、任天堂发行的动作游戏。田浦贵久担任总监，神谷英树担任监制，漫画家桂正和担任角色设计。<br><br>玩家需要操纵角色调查案件，利用武器和雷基恩击败敌人，维护“方舟”的和平。 | [萌娘百科](https://zh.moegirl.org.cn/异界锁链) [维基百科](https://zh.wikipedia.org/wiki/异界锁链) |
+| taiyou no kiba dougram | 太阳之牙 | 《太阳之牙》（原题：太陽の牙ダグラム）是由Sunrise制作的日本的机器人动画。由东京电视台在1981年10月23日至1983年3月25日播放，全75话。 | [维基百科](https://zh.wikipedia.org/wiki/太陽之牙) |
+| natsuiro kiseki | 夏色奇迹 |  |  |
+| slam dunk | 灌篮高手 | 《灌篮高手》是日本漫画家井上雄彦创作的以高中篮球为题材的励志型漫画，是《周刊少年Jump》全白金时代（20世纪90年代上半叶）三大台柱漫画之一，也是日本历史上销量最高的漫画之一。上世纪90年代，《灌篮高手》被引进中国，成为在中国影响最深远的动漫作品之一。 | [维基百科](https://zh.wikipedia.org/wiki/灌篮高手) [萌娘百科](https://zh.moegirl.org.cn/灌篮高手) |
+| tenshi souzou re-boot | 天使☆嚣嚣 RE-BOOT! | 《天使☆嚣嚣 RE-BOOT!》是由`yuzu soft`制作的Galgame，于2023年4月28日发售。 | [萌娘百科](https://zh.moegirl.org.cn/天使嚣嚣) [维基百科](https://zh.wikipedia.org/zh/天使☆囂囂_RE-BOOT!) [HP](https://www.yuzu-soft.com/products/ten_sz/) |
+| 2.5-jigen no yuuwaku | 2.5次元的诱惑 | 《2.5次元的诱惑》（日语：2.5次元の誘惑）是由桥本悠创作的一部漫画。 | [萌娘百科](https://zh.moegirl.org.cn/2.5次元的诱惑) |
+| golden boy | 黄金小子 | ![黄金小子](https://upload.wikimedia.org/wikipedia/en/a/ac/Golden_Boy_volume_1_cover_jap.png)<br>《黄金小子》是日本漫画家江川达也创作的日本漫画作品，于集英社发行《Super Jump》1992年至1997年连载。《黄金小子II》则在2010年至2011年间短暂连载。该作品后曾改编为OVA动画版，并由北久保弘之执导，于1995年10月27日-1996年6月28日发行，全6话。<br>一名25岁东京大学法学部的中辍生大江锦太郎，在辍学后开始从事各种职业来进行人生的“学习”，并与每个美少女邂逅的搞笑故事。 | [维基百科](https://zh.wikipedia.org/wiki/黃金小子) |
+| valorant | 无畏契约 | 《无畏契约》又名瓦罗兰特，是由《英雄联盟》的开发商Riot Games开发及营运的第一人称射击游戏。<br>是基于团队的射击游戏以及第一人称射击游戏，经典玩法采取五打五的爆破模式，亦有其他原创模式供玩家选择。 | [官网](https://val.qq.com/main.html) |
+| zom 100 zombie ni naru made ni shitai 100 no koto | 僵尸百分百 | 《僵尸百分百～变成僵尸前想做的100件事～》（ゾン100～ゾンビになるまでにしたい100のこと～）是麻生羽吕（原作）、高田康太郎（作画）合著的漫画。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/僵尸百分百～变成僵尸前想做的100件事～) |
+| hirogaru sky precure | 开阔天空！光之美少女 | 《开阔天空！光之美少女》（日语：ひろがるスカイ！プリキュア）是由东堂泉制作的魔法少女动画，<br>为“光之美少女系列”第二十作，第十八代光之美少女。2023年2月5日于朝日放送和朝日电视台播放。 | [HP](https://www.toei-anim.co.jp/tv/precure/) |
+| dororon enma-kun | 咚隆隆炎魔君 | 《咚隆隆炎魔君》（日语：ドロロンえん魔くん），是日本漫画家永井豪的作品，于1973年到1974年在《周刊少年Sunday》上连载。1973年10月于富士电视台开始播放电视动画共25话。<br><br>阎魔大王指派自己的甥儿炎魔君从地狱到人界保护人类和消灭邪恶的妖怪。炎魔君与朋友雪子姬、卡巴艾尔来到人界，他们在那里认识了小学生勉，然后他们不断解决四周出现的怪事件。 | [维基百科](https://zh.wikipedia.org/wiki/咚隆隆炎魔君) |
+| kekko kamen | 穴光假面 | 《穴光假面》（けっこう仮面）是日本漫画家永井豪创作的超级英雄题材漫画，在1974年于《月刊少年Jump》上推出短篇，并于次年开始连载，在1978年完结，全30话。自1991年起，该作品推出多部真人OVA、OVA动画和成人游戏，2012年推出真人电影《穴光假面：重生》。 | [维基百科](https://zh.wikipedia.org/wiki/穴光假面) |
+| tamagotchi | 电子宠物蛋 | 拓麻歌子是万代（BANDAI）于1996年11月23日推出的一种掌上电子宠物，早期中文通称为“电子鸡”，又有“电子宠物蛋、宠物机、宠物蛋”等多种形像名称。<br><br>当时它在世界范围掀起了一阵养电子宠物的热潮，其绝佳的市场业绩更令到当时面临被合并危机的万代的经济状况出现转机。拓麻歌子的外形通常都是蛋形，这也是它在中文里被称为“电子鸡”的原因之一，惟其中被饲养的虚拟角色其实不是鸡，依发明者的角色设定，它是来自拓麻歌子星的外星生物。 | [维基百科](https://zh.wikipedia.org/wiki/塔麻可吉) [百度百科](https://baike.baidu.com/item/拓麻歌子/8839575) |
+| sousou no frieren | 葬送的芙莉莲 | 《葬送的芙莉莲》（日语：葬送のフリーレン）是山田钟人原作、阿部司作画的日本漫画。<br><br>这是勇者一行人打倒魔王之后的故事。人类族的勇者欣梅尔、矮人族的战士艾冉、人类族的僧侣海塔、精灵族的魔法使芙莉莲，结束长达十年的冒险旅程，作为英雄凯旋归来，并接受国王表扬。他们刚好遇上50年一遇的流星雨，四人组相约50年后再度相聚观看难得一见的流星雨。但在芙莉莲和昔日的冒险伙伴依约再会欣赏流星雨的当夜，伙伴的逝世让长寿的芙莉莲感受到生死无常，也让芙莉莲开始深入探讨生命的意义。 | [萌娘百科](https://zh.moegirl.org.cn/葬送的芙莉莲) [维基百科](https://zh.wikipedia.org/wiki/葬送的芙莉蓮) |
+| maou gakuin no futekigousha | 魔王学院的不适任者 | 魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～ | [萌娘百科](https://zh.moegirl.org.cn/魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～) [维基百科](https://zh.wikipedia.org/zh/魔王學院的不適任者～史上最強的魔王始祖，轉生就讀子孫們的學校～) |
+| jewelpet | 宝石宠物 | 《宝石宠物》（日语：ジュエルペット）是日本的一部电视动画系列，改编自三丽鸥和世嘉玩具共同开发的角色玩具品牌，主要讲述了拥有宝石般眼睛的兔子和熊等可爱的“宝石宠物”们和人类朋友之间故事。 动画于2009年4月5日在大阪电视台、东京电视台全系列播出。 | [萌娘百科](https://zh.moegirl.org.cn/zh/宝石宠物系列) |
+| jewelpet sunshine | 宝石宠物 Sunshine | 是《`p:jewelpet tinkle`》的后作，但是，故事中的舞台背景设定与前作并没有关连，是以独立和不同的世界观组成。 | [维基百科](https://zh.wikipedia.org/wiki/寶石寵物_Sunshine) |
+| eve burst error | EVE burst error |  | [维基百科（英语）](https://en.wikipedia.org/wiki/EVE_Burst_Error) |
+| mahou shoujo tokushusen asuka | 魔法少女特殊战明日香 |  | [萌娘百科](https://zh.moegirl.org.cn/魔法少女特殊战明日香) [维基百科](https://zh.wikipedia.org/wiki/魔法少女特殊戰明日香) |
+| ponyo | 崖上的波妞 |  | [萌娘百科](https://zh.moegirl.org.cn/崖上的波妞) [百度百科](https://baike.baidu.com/item/崖上的波妞/832725) |
+| lv1 maou to one room yuusha | LV1魔王与独居废勇者 | 勇者麦克斯历尽艰辛打倒了魔王，然而魔王就算死过一次仍能苏醒。于是，魔王为了亲手打倒勇者，沉睡了十年就急忙苏醒过来…！在这个十年间已极速繁荣发展了的人类社会里，腐烂了的勇者和幼女魔王将会…！ | [萌娘百科](https://zh.moegirl.org.cn/LV1魔王与独居废勇者) |
+| love live hasunosora jogakuin school idol club | 莲之空女学院学园偶像俱乐部 | 莲之空女学院学园偶像俱乐部（日语：蓮ノ空女学院スクールアイドルクラブ；英语：Hasu No Sora Jogakuin School Idol Club）是2022年2月公布的LoveLive!系列的虚拟学园偶像企划。 | [萌娘百科](https://zh.moegirl.org.cn/莲之空女学院学园偶像俱乐部) [维基百科](https://zh.wikipedia.org/wiki/蓮之空女學院學園偶像俱樂部) |
+| little lord fauntleroy | 小公子西迪 | 《小公子西迪》（日语：小公子セディ）是英国作家弗朗西斯·霍奇森·伯内特所写的小说《小勋爵》改编的日本电视动画。是日本动画公司制作的`p:world masterpiece theater`第14部作品。于1988年1月10日～1988年12月25日播放，全43集。 | [萌娘百科](https://zh.moegirl.org.cn/小公子西迪) [维基百科](https://zh.wikipedia.org/wiki/小公子西迪) |
+| tensai ouji no akaji kokka saisei jutsu | 天才王子的赤字国家振兴术 |  | [萌娘百科](https://zh.moegirl.org.cn/天才王子的赤字国家重生术) |
+| mardock scramble | 壳中少女 |  | [维基百科](https://zh.wikipedia.org/wiki/壳中少女) [萌娘百科](https://zh.moegirl.org.cn/壳中少女) |
+| grimoire shiritsu grimoire mahou gakuen | 私立格里莫瓦魔法学园 | 《私立格里莫瓦魔法学园》（日语：グリモア～私立グリモワール魔法学園～）是日本手机游戏制作公司Applibot2014年推出的幻想即时卡牌战斗游戏。<br><br>故事讲述了主人公本来是一位非常普通的高中生，但某天却觉醒了“魔法”的力量。由不能自由操控这力量，于是进入魔法学园学习魔法的使用。一边在学园上课，一边对抗“雾之魔物”，与魔法少女们的物语从此展开。 | [萌娘百科](https://zh.moegirl.org.cn/私立格里莫瓦魔法学园) [百度百科](https://baike.baidu.com/item/魔典：私立魔法学园/15087110) [维基百科（日语）](https://ja.wikipedia.org/wiki/グリモア〜私立グリモワール魔法学園〜) |
+| futoku no guild | 不道德公会 | 河添太一所创作的日本漫画，开始连载于《月刊少年GANGAN》2017年7月号。改编电视动画于2022年10月5日首播，动画制作公司是TNK。 |  |
+| kemono jihen | 怪物事变 | 《怪物事变》（日语：けものじへん）是由蓝本松创作的一部漫画，并有动画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/zh-hans/怪物事变) |
+| oounabara to wadanohara | 大海原与大海原 |  |  |
+| zero escape | 极限脱出 |  |  |
+| araburu kisetsu no otome-domo yo | 骚动时节的少女们啊 |  |  |
+| yuusha party o tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau | 被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女 |  | [萌娘百科](https://zh.moegirl.org.cn/被开除出勇者队伍的驯兽使，邂逅了最强种猫耳少女) |
+| doukyuusei | 同级生 | 《同级生》是élf在1992年发售的恋爱游戏类型日本成人游戏，除游戏外，也发售过OVA、小说等相关作品。重制版的中英文版本于2022年4月15日发售。 | [萌娘百科](https://zh.moegirl.org.cn/同级生%28游戏%29) [维基百科](https://zh.wikipedia.org/zh/同级生_%28游戏%29) |
+| dohna dohna issho ni warui koto o shiyou | 多娜多娜一起干坏事吧 |  |  |
+| chizuru-chan kaihatsu nikki | 千鹤酱的开发日志 | 千鶴ちゃん開発日記 | [DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ244511.html) [ACDB WIKI](https://www.animecharactersdatabase.com/source.php?id=108229) |
+| arc the lad | 妖精战士 |  |  |
+| haiiro teien | 灰色庭园 |  |  |
+| shuumatsu nani shitemasu ka isogashii desu ka sukutte moratte ii desu ka | 末日时在做什么？有没有空？可以来拯救吗？ | 終末なにしてますか？ 忙しいですか？ 救ってもらっていいですか？ |  |
+| flint the time detective | 时空侦探 | 《时空侦探》是于1998年至1999年在东京电视台播映的日本动画，共39集。后由漫画家山中あきら的改编为漫画。 | [维基百科](https://zh.wikipedia.org/zh/時空偵探) [百度百科](https://baike.baidu.com/item/时空侦探) |
+| fumetsu no anata e | 致不灭的你 | 《致不灭的你》（日语：不滅のあなたへ）是日本漫画家大今良时创作的漫画作品。<br><br>作品着墨于一个名为“不死”的神秘存在，它具有不死之身和复制其他生物肉体的能力。讲述了他存在的故事以及他与其他人的相遇与别离。 | [萌娘百科](https://zh.moegirl.org.cn/致不灭的你) [维基百科](https://zh.wikipedia.org/wiki/致不灭的你) |
+| shiro seijo to kuro bokushi | 白圣女与黑牧师 | 《白圣女与黑牧师》（日语：白聖女と黒牧師）是和武叶佐乃（和武はざの）所创作的日本漫画，原为和武在其pixiv发表的作品，由2017年4月20日发售的《少年Magazine R》第3号开始连载。后改编电视动画，由动画工房担任动画制作，于2023年7月至9月播映。 | [维基百科](https://zh.wikipedia.org/wiki/白聖女與黑牧師) [萌娘百科](https://zh.moegirl.org.cn/白圣女与黑牧师) |
+| slow loop | SLOW LOOP | 《女孩的钓鱼慢活》（日语：スローループ）是内野舞子的日本漫画作品。于芳文社的杂志《Manga Time Kirara Forward》2018年6月号客串刊载后，于同年11月号开始连载。 | [萌娘百科](https://zh.moegirl.org.cn/Slow_Loop) [维基百科](https://zh.wikipedia.org/zh-cn/SLOW_LOOP-女孩的釣魚慢活-) |
+| taimadou gakuen 35 shiken shoutai | 对魔导学园35试验小队 |  |  |
+| ongeki | 音击Ongeki | Sega于2018年7月26日推出的街机音乐游戏<br>![](https://img.moegirl.org.cn/common/thumb/7/77/Ongekibright.jpg/560px-Ongekibright.jpg) | [萌娘百科](https://mzh.moegirl.org.cn/音击#游戏信息) |
+| yamada-kun to lv999 no koi o suru | 和山田进行LV.999的恋爱 |  |  |
+| yu-gi-oh sevens | 游戏王SEVENS | 游戏王系列的第7部作品 |  |
+| ore no shikabane wo koeteyuke | 跨越我的尸体 |  | [维基百科](https://zh.wikipedia.org/wiki/降鬼一族) |
+| puss in boots the last wish | 穿靴子的猫:最后的愿望 |  | [维基百科（英语）](https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish) [维基百科](https://zh.wikipedia.org/wiki/鞋貓劍客2) |
+| fatal frame | 零系列 | 零为日本厂商特库摩开发的恐怖游戏系列，自2001年问世以来，已推出了五部正传作品：《零～zero～》、《零～红蝶～》、《零～刺青之声～》、《零～月蚀的假面～》和《零～濡鸦之巫女～》，一部外传作品《心灵照相机～被附身的笔记本～》。 |  |
+| arknights endfield | 明日方舟：终末地 |  | cn official website<br>[https://endfield.hypergryph.com/](https://endfield.hypergryph.com/)<br><br>en official website<br>[https://endfield.gryphline.com/en-us](https://endfield.gryphline.com/en-us)<br><br>weibo:<br>[微博](https://weibo.com/u/7745672941)<br><br>twitter:<br>[Twitter](https://twitter.com/AKEndfield) |
+| calabiyau | 卡拉彼丘 |  | [HP](https://klbq.qq.com/) [萌娘百科](https://zh.moegirl.org.cn/卡拉彼丘) [BILIGAME WIKI](https://wiki.biligame.com/klbq) |
+| soltyrei | 曙光少女 |  | [维基百科](https://zh.wikipedia.org/wiki/曙光少女) |
+| meikyuu black company | 异世界迷宫黑心企业 | 二之宫金治因为讨厌当为公司做牛做马的“社畜”，而靠着各种努力与投资，终于达成不工作也有大笔收入的理想目标！<br>然而他因阴错阳差掉进异世界，再度踏入“社畜”的深渊⋯⋯！<br>究竟他能否摆脱“社畜”的悲惨命运呢？ | [萌娘百科](https://zh.moegirl.org.cn/异世界迷宫黑心企业) [维基百科](https://zh.wikipedia.org/wiki/暗黑企業的迷宮) |
+| kimi no koto ga daidaidaidaidaisuki na 100-nin no kanojo | 超超超超超喜欢你的100个女朋友 | 中村力斗原作，野泽由纪子作画创作的漫画作品 |  |
+| kimagure orange road | 橙路 | 故事讲述拥有超能力的男主角春日恭介与鲇川圆、桧山光两个女孩之间三角恋情。 | [维基百科](https://zh.wikipedia.org/wiki/橙路) |
+| mahoutsukai no yakusoku | 魔法使的约定 | 《魔法使的约定》（日语：魔法使いの約束）是由coly制作的女性向手机游戏。有漫画等衍生作品。 | [萌娘百科](https://zh.moegirl.org.cn/魔法使的约定) [维基百科（日语）](https://ja.wikipedia.org/wiki/魔法使いの約束) |
+| genesis climber mospeada | 机甲创世记 | 《机甲创世记》（日语：機甲創世記モスピーダ）是自1983年10月2日至1984年3月25日间于日本富士电视台播出的25集机器人动画。 | [维基百科](https://zh.wikipedia.org/wiki/太空戰神) |
+| tottemo luckyman | 幸运超人 | 《幸运超人》（とっても!ラッキーマン）是日本漫画家蒲生洋的英雄搞笑的少年漫画，以及改编电视动画。 | [维基百科](https://zh.wikipedia.org/wiki/行運超人) |
 
 <!--TEMPLATE: 
 |  |  |  | [维基百科]() (*) |

@@ -43,7 +43,7 @@ example:
 | mikomi hokina | Mikomi Hokina |  |  |
 | akane araragi | Akane Araragi |  | [Twitter](https://twitter.com/akaneararagi) |
 | lenfried | lenfried | lenfried（れんふりーど），又称莲姐、莲妹，日本著名COSER，HeruHeru3社团成员。自C74起开始在各届Comic Market上发售自己的cos写真集作品后，深受广大粉丝喜爱。其代表作品有《东方恋莲録》、《枫帐》等。 |  |
-| misa daidai | 习呆呆 |  |  |
+| xidaidai | 习呆呆 |  |  |
 | senluo caituan | 森萝财团 |  | [Twitter](https://twitter.com/senluocaituan) |
 | pigma | Pigman | `m:tomgirl` | [patreon](https://www.patreon.com/pigman) |
 | abaoyeshituniang | 阿包也是兔娘 |  | [bilibili](https://space.bilibili.com/384435799) |
@@ -80,7 +80,7 @@ example:
 | yaoyaoqwq | 软妹摇摇乐 |  | [Twitter](https://twitter.com/chan_p90) |
 | maria desu | Maria Desu |  |  |
 | hidori rose | Hidori Rose |  |  |
-| ai lei jiang | 少女映画 |  |  |
+| ai lei jiang | 少女映画 |  | [Twitter](https://twitter.com/aileijiang996) |
 | shimotsuki | 霜月shimo |  | [Twitter](https://twitter.com/shimotsukitw) |
 | hua qi hana | 花柒Hana |  | [微博](https://weibo.com/u/6248353446) [哔哩哔哩](https://space.bilibili.com/865359/) |
 | lostwind10 | 猫と爪呸罗呸罗 |  | [Twitter](https://twitter.com/Lostwind10) |
@@ -91,6 +91,16 @@ example:
 | aninnyan | 桜井宁宁 |  |  |
 | nagisa | NAGISA魔物喵 |  |  |
 | katiecakey | Katie Cakey |  |  |
+| linzi jiang | 凛子酱 |  | [微博](https://weibo.com/u/2041046824) [Twitter](https://twitter.com/linzi0929) |
+| cherry neko | 桜桃喵 |  |  |
+| kuuko w | Kuuko W |  | [Twitter](https://twitter.com/Kuukow002) |
+| luo xiaoli miao | 洛璃LoLiSAMA |  |  |
+| yaokoututu | 咬一口兔娘 |  |  |
+| yuki astra | 雪晴Astra |  | [Instagram](https://www.instagram.com/yukiastra_) [微博](https://weibo.com/u/2389901855) [Gumroad](https://app.gumroad.com/yukiastra) [Twitter](https://twitter.com/yukiastra) [脸书](https://www.facebook.com/YukiAstra.Official) |
+| niannian d | 念念\_D |  | [微博](https://weibo.com/u/3164968121) |
+| tyouduki maryou | 蝶月真綾 |  |  |
+| ringo mitsuki | 林檎蜜纪(林檎蜜紀) | coser | [Twitter](https://twitter.com/ringo_mitsuki) |
+| tokar | 浵卡Tokar | [Twitter](https://twitter.com/laurus0711?lang=zh-Hant) |  |
 
 <!--
 Template: 
