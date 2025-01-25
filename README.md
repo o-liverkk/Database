@@ -57,6 +57,10 @@
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/exzhawk/EhViewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   A Modified Unofficial E-Hentai Application for Android.
 
+- [Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)（[EhViewer](https://github.com/seven332/EhViewer) 的分支版本）  
+  ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/xiaojieonly/Ehviewer_CN_SXJ?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  EhViewer_CN_SXJ [绿E]
+
 - [Dai-Hentai](https://github.com/DaidoujiChen/Dai-Hentai)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/DaidoujiChen/Dai-Hentai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個普通的看漫畫 App。
@@ -64,10 +68,6 @@
 - [EhPanda](https://ehpanda.app)  
   ![iOS][plat-ios] ![GitHub Release Date](https://img.shields.io/github/release-date/tatsuz0u/EhPanda?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
   一個用 SwiftUI 編寫的 iOS 非官方 E-Hentai 應用程式。支持直連。
-
-- [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
-  ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 
 - [JHenTai](https://github.com/jiangtian616/JHenTai)  
   ![iOS][plat-ios] ![Android][plat-android] ![macOS][plat-macos] ![Windows][plat-windows] ![GitHub Release Date](https://img.shields.io/github/release-date/jiangtian616/JHenTai?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
@@ -83,11 +83,7 @@
 
 <details>
 
-<summary>
-
-#### 已停止维护的项目
-
-</summary>
+<summary><strong>已停止维护的项目</strong></summary>
 
 - [EhTagBuilder](https://github.com/Mapaler/EhTagTranslator/wiki/EhTagBuilder)  
   ![WEB][plat-web] ![UserScript][plat-userscript]
@@ -112,15 +108,18 @@
 
 - [EhViewer-Overhauled](https://github.com/Ehviewer-Overhauled/Ehviewer)（[@NekoInverter / EhViewer](https://gitlab.com/NekoInverter/EhViewer) 的分支版本）  
   ![Android][plat-android] ![GitHub Release Date](https://img.shields.io/github/release-date/Ehviewer-Overhauled/Ehviewer?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
-  EhViewer overhauled with Material Design 3 and more.
-  
+  EhViewer overhauled with Material Design 3 and more.  
+
+- [ExHentai 中文标签助手](https://github.com/SunBrook/EHentai.Tags.CN)  
+  ![WEB][plat-web] ![UserScript][plat-userscript] ![GitHub Release Date](https://img.shields.io/github/release-date/SunBrook/EHentai.Tags.CN?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0)  
+  一个将 E 站标签翻译成中文并分组展示，方便搜索的油猴脚本。
 </details>
 
 ## 开发指南
 
 参见 [Wiki/开发指南](../../wiki/开发指南)。
 
-下游项目使用本项目数据库前，请在本项目[提交一份附上项目的简介或地址的 Issue](../../issues/new?labels=数据库使用&template=db-use.md&title=数据库使用+-+%5B项目名称%5D)。
+下游项目使用本项目数据库前，请在本项目[提交一份附上项目的简介或地址的 Issue](../../issues/new?labels=数据库使用&projects=&template=db-use.yml&title=数据库使用+-+%5B项目名称%5D)。
 
 [plat-web]: https://img.shields.io/badge/WEB-yellow.svg?logo=javascript&logoColor=fff&color=yellow
 [plat-userscript]: https://img.shields.io/badge/UserScript-yellow.svg?logo=tampermonkey&logoColor=fff&color=00485B

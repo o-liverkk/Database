@@ -8,7 +8,7 @@ on:
         type: string
         required: false
   schedule:
-    - cron: 30 7 * * 5
+    - cron: 30 7 5/15 * *
 
 jobs:
   build:
@@ -24,4 +24,4 @@ jobs:
       - name: Build
         env:
           EH_COOKIE: ${{ secrets.EH_COOKIE }}
-        run: node --enable-source-maps tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }}
+        run: node --enable-source-maps tool create-release . ./publish --strict --source-check ${{ inputs.namespaces }} --coverage
